@@ -9,3 +9,11 @@
 <fanart></fanart>
 <info>TV FOGO HD</info>
 </channel>
+
+<channel>
+<name>Filmes que Marcaram Época</name>
+<thumbnail>https://goo.gl/NH4vDD</thumbnail>
+<externallink>https://raw.githubusercontent.com/tvfogo/Filmes/master/Filmes-que-Marcaram-Epoca</externallink>
+<fanart></fanart>
+<info>TV FOGO HD</info>
+</channel>
