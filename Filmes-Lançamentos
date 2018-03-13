@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KBGHZ8I.jpg" group-title="2018",O Estrangeiro (LEG)
+http://link4.ntcdn.us/lanadelreytv/movies/oforasteiro-leg-360p.mp4|Referer=http://www.mmfilmes.tv.com/
+
 #EXTINF:-1 tvg-logo="https://goo.gl/T69aiv" group-title="2018",Pantera Negra (DUB)
 http://link4.ntcdn.us/lanadelreytv/movies/panteranegra-dub-360p.mp4|Referer=http://www.mmfilmes.tv.com/
 
