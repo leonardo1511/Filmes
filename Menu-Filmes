@@ -3,7 +3,7 @@
 <channels>
 
 <channel>
-<name>Filmes {Tv Fogo HD}</name>
+<name>Filmes</name>
 <thumbnail>https://goo.gl/NH4vDD</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo/Filmes/master/Filmes</externallink>
 <fanart></fanart>
