@@ -1,71 +1,178 @@
-<?xml version="2.0" encoding="utf-8" standalone="yes"?>
+#EXTM3U
 
-<item>
-<title>Jumanji: Bem-vindo à Selva</title>
-<link>http://link4.ntcdn.us/lanadelreytv/movies/jumanji-dub-360p.mp4|Referer=http://www.mmfilmes.tv.com/</link>
-<thumbnail>https://imgur.com/qADUNxw.jpg</thumbnail>
-<fanart></fanart>
-</item>
+#EXTINF:-1 tvg-logo="https://goo.gl/T69aiv" group-title="2018",Pantera Negra (DUB)
+http://link4.ntcdn.us/lanadelreytv/movies/panteranegra-dub-360p.mp4|Referer=http://www.mmfilmes.tv.com/
 
-<item>
-<title>Viva – A Vida é uma Festa</title>
-<link>http://link4.ntcdn.us/lanadelreytv/movies/vivaavidaeumafesta-dub-360p.mp4|Referer=http://www.mmfilmes.tv.com/</link>
-<thumbnail>https://i.imgur.com/UJopXfr.jpg</thumbnail>
-<fanart></fanart>
-</item>
+#EXTINF:-1 tvg-logo="https://goo.gl/u2uzp4" group-title="2018",Sobrenatural: A Última Chave (DUB)
+http://link4.ntcdn.us/lanadelreytv/movies/sobrenaturalultimachave-dub-360p.mp4|Referer=http://www.mmfilmes.tv.com/
 
-<item>
-<title>Sobrenatural: A Última Chave</title>
-<link>http://link4.ntcdn.us/lanadelreytv/movies/sobrenaturalultimachave-dub-360p.mp4|Referer=http://www.mmfilmes.tv.com/</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UJopXfr.jpg" group-title="2018",Viva – A Vida é uma Festa (DUB)
+http://link4.ntcdn.us/lanadelreytv/movies/vivaavidaeumafesta-dub-360p.mp4|Referer=http://www.mmfilmes.tv.com/
 
-<item>
-<title>Cinquenta Tons de Liberdade</title>
-<link>http://link4.ntcdn.us/lanadelreytv/movies/50tonsliberdade-dub-360p.mp4|Referer=http://www.mmfilmes.tv.com/</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/c7lzePlEU91R6tZUXpllwISZgXF.jpg</thumbnail>
-<fanart></fanart>
-</item>
+#EXTINF:-1 tvg-logo="https://goo.gl/WBREMb" group-title="2018", Cinquenta Tons de Liberdade (DUB)
+http://link4.ntcdn.us/lanadelreytv/movies/50tonsliberdade-dub-360p.mp4%7CReferer=http://www.mmfilmes.tv.com/
 
-<item>
-<title>Pantera Negra</title>
-<link>http://link4.ntcdn.us/lanadelreytv/movies/panteranegra-dub-360p.mp4|Referer=http://www.mmfilmes.tv.com/</link>
-<thumbnail>http://www.mmfilmes.tv/wp-content/uploads/2018/02/2291532.jpg-c_215_290_x-f_jpg-q_x-xxyxx.jpg</thumbnail>
-<fanart></fanart>
-</item>
+#EXTINF:-1 tvg-logo="https://goo.gl/s1RmAv" group-title="2018", ANIQUILAÇÃO (DUB)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/ANIQUILACAODUB-ALTO.mp4
 
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
+#EXTINF:-1 tvg-logo="https://goo.gl/Gh8nGb" group-title="2018", BRAVEN (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/BRAVEN18LEG-ALTO.mp4
 
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
+#EXTINF:-1 tvg-logo="https://goo.gl/VpZgsc" group-title="2018", UMA FLORESTA MUITO LOUCA (DUB)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/FLORESTALOUCADUB-ALTO.mp4
 
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
+#EXTINF:-1 tvg-logo="https://goo.gl/Fw9SjU" group-title="2018", STAR WARS 8: OS ÚLTIMOS JEDI (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/STARWARS8LEG-ALTO.mp4
 
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
+#EXTINF:-1 tvg-logo="https://goo.gl/LRFFpa" group-title="2018", DÍVIDA PERIGOSA (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/THEOUTSIDE2018LEG-ALTO.mp4
 
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
+#EXTINF:-1 tvg-logo="https://goo.gl/SN8Pc2" group-title="2018", JUMANJI: BEM-VINDO A SELVA (DUB)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/JUMANJI2018DUB-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/SN8Pc2" group-title="2018", JUMANJI: BEM-VINDO A SELVA (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/JUMANJI2018LEG-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/pVwTdk" group-title="2018", EU TONYA (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/ITONYALEG-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/D342WX" group-title="2018", ME CHAME PELO SEU NOME (DUB)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/MECHAMEPELOSEUNOMEDUB-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/D342WX" group-title="2018", ME CHAME PELO SEU NOME (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/CALLMEBYNAME2018LEG-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TVdGjy" group-title="2018", O REI DO SHOW (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/REIDANOITELEG2017-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/2LKgT9" group-title="2018", COM AMOR - VAN GOGH (DUB)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/VANGOGHDUB-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/2LKgT9" group-title="2018", COM AMOR - VAN GOGH (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/VANGOGHLEG-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/r6TXxg" group-title="2018", A ESTRELA DE BELÉM (DUB)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/BELEM18-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/233c9e" group-title="2018", VERÓNICA (DUB)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/VERONICA2018DUB-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/233c9e" group-title="2018", VERÓNICA (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/VERONICA2018LEG-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/gStQ76" group-title="2018", GIGANTE (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/GIGANTE2018LEG-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/BxWajT" group-title="2018", LADY BIRD: A HORA DE VOAR (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/LADYBIRDLEG-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/nmtyhg" group-title="2018", OS PARÇAS (NAC)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/OSPARCAS2018-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8gkJt5" group-title="2018", A FORMA DA ÁGUA (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/FORMADAAGUALEG-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/qNK3AB" group-title="2018", JOGOS MORTAIS 8: JIGSAW (DUB)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/JIGSAW2017DUB-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/qNK3AB" group-title="2018", JOGOS MORTAIS 8: JIGSAW (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/JIGSAW2017LEG-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TTg8GX" group-title="2018", O TOURO FERDINANDO (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/FERDINANDOLEG-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/xiUAS4" group-title="2018", ESPELHO (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/LOOKINGGLASSLEG-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/5MNeJg" group-title="2018", MUDO (DUB)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/MUTEDUB-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/5MNeJg" group-title="2018", MUDO (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/MUTELEG-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/5P128M" group-title="2018", DOENTES DE AMOR (DUB)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/BIGSICKDUB-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/5P128M" group-title="2018", DOENTES DE AMOR (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/BIGSICKLEG-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/RVavua" group-title="2018", PEQUENA GRANDE VIDA (DUB)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/PEQUENALIFEDUB-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/RVavua" group-title="2018", PEQUENA GRANDE VIDA (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/PEQUENAGRANDEVIDA2018LEG-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/VFv3TC" group-title="2018", EXTRAORDINÁRIO (DUB)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/EXTRAORDINARIODUB2018-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/VFv3TC" group-title="2018", EXTRAORDINÁRIO (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/WONDERR2018-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/HPK14G" group-title="2018", THOR 3: RAGNAROK (DUB)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/THOR2017DUB-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/HPK14G" group-title="2018", THOR 3: RAGNAROK (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/THORRLEG-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/G4AgcF" group-title="2018", TRÊS ANÚNCIOS PARA UM CRIME (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/TRESANUNCIOS2018LEG-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/BBject" group-title="2018", HACKER: TODO CRIME TEM UM INÍCIO (DUB)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/HACKERDUB-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/WeZ5Bm" group-title="2018", FULLMETAL ALCHEMIST (DUB)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/FULLMETALDUB-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/WeZ5Bm" group-title="2018", FULLMETAL ALCHEMIST (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/FULLMETALLEG-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/cLTazL" group-title="2018", GOSTO SE DISCUTE (NAC)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/G0ST0S3DISCUT3-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/B9ovi2" group-title="2018", LOUCURAS EM FAMÍLIA (DUB)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/LOUCURAS2018DUB-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/tqYgpE" group-title="2018", ESPIÃO POR ACASO (DUB)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/ESPIAO2018LEG-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/KPKTWC" group-title="2018", O DESTINO DE UMA NAÇÃO (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/DARKEST2017LEG-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/9WT2i7" group-title="2018", PAI EM DOSE DUPLA 2 (DUB)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/PAIDOSEDUPLA2DUB-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8SZ9bv" group-title="2018", AMERICAN SATAN (LEG - 2018)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/AMERICANSATAN2017LEG-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/wa1G6Y" group-title="2018", ASSASSINATO NO EXPRESSO DO ORIENTE (LEG - 2018)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/MUDERONTHEEXPRESS2017LEG-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/gauQ2M" group-title="2018", THE POST: A GUERRA SECRETA (LEG - 2018)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/THEPOST2017LEG-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/kSHCmZ" group-title="2018", O PARADOXO CLOVERFIELD (2018)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/CLOVERFIELD2018DUB-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/kSHCmZ" group-title="2018", O PARADOXO CLOVERFIELD (LEG - 2018)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/CLOVERFIELD2018LEG-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/6KjWmc" group-title="2018", BATMAN: GOTHAM BY GASLIGHT (2018)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/BATMANBYGASLIGHTDUB-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/6KjWmc" group-title="2018", BATMAN: GOTHAM BY GASLIGHT (LEG - 2018)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/GOTHAMGASLIGHT18LEG-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/MKhgfn" group-title="2018", PICA-PAU: O FILME (2018)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/PICAPAU2018DUB-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/Tx1iS3" group-title="2018", VOLDEMORT: A ORIGEM DO HERDEIRO (LEG - 2018)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/VOLDEMORT2018-BAIXO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/w2aLRp" group-title="2018", A MORTE TE DÁ PARABÉNS (2018)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/HAPPYDEATHDDUB-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/w2aLRp" group-title="2018", A MORTE TE DÁ PARABÉNS (LEG - 2018)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/HAPPYDEATHDDUB-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/FofzKa" group-title="2018", SCOOBY-DOO! & BATMAN: OS BRAVOS E DESTEMIDOS (2018)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/SCOOBYEBATMANDUB-ALTO.mp4
