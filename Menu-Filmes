@@ -3,6 +3,14 @@
 <channels>
 
 <channel>
+<name>Filmes 2018</name>
+<thumbnail>https://goo.gl/NH4vDD</thumbnail>
+<externallink>https://raw.githubusercontent.com/tvfogo/Filmes/master/Filmes-1</externallink>
+<fanart></fanart>
+<info>TV FOGO HD</info>
+</channel>
+
+<channel>
 <name>Filmes</name>
 <thumbnail>https://goo.gl/NH4vDD</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo/Filmes/master/Filmes</externallink>
