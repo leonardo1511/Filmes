@@ -1,194 +1,1602 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WvbJHBM.png" group-title="LANÇAMENTOS",LANÇAMENTOS!
-http://0.0.0.0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S9IXCLy.jpg" group-title="LANÇAMENTOS",Eu Tonya(LEG)
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/ITONYALEG-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qyYNBG9.jpg" group-title="LANÇAMENTOS",Viva – A Vida é uma Festa
-http://d1qj99blfffwbv.cloudfront.net/mmhd/movies/vivaavidaeumafesta-dub-360p.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kJ5IXxq.jpg" group-title="LANÇAMENTOS",Me Chame pelo Seu Nome
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/MECHAMEPELOSEUNOMEDUB-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lkFjbfy.jpg" group-title="LANÇAMENTOS",Verónica
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/VERONICA2018DUB-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Fv88aUM.jpg" group-title="LANÇAMENTOS",Gigante(LEG)
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/GIGANTE2018LEG-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/voJZlVx.jpg" group-title="LANÇAMENTOS",Lady Bird(LEG)
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/LADYBIRDLEG-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wyKqE5B.jpg" group-title="LANÇAMENTOS",Looking Glass(LEG)
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/LOOKINGGLASSLEG-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qixykzc.jpg" group-title="LANÇAMENTOS",Mudo
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/MUTEDUB-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uQBDLbf.jpg" group-title="LANÇAMENTOS",(LEG)Três Anúncios Para um Crime
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/TRESANUNCIOS2018LEG-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rpZeEBu.png" group-title="LANÇAMENTOS",Fullmetal Alchemist
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/FULLMETALDUB-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xulpppX.jpg" group-title="LANÇAMENTOS",(LEG)Espião por Acaso
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/ESPIAO2018LEG-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UqYfvuz.jpg" group-title="LANÇAMENTOS",(LEG)O Destino de uma Nação
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/DARKEST2017LEG-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZzKm3q2.jpg" group-title="LANÇAMENTOS",(LEG)The Post: A Guerra Secreta
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/THEPOST2017LEG-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DdrH7iQ.jpg" group-title="LANÇAMENTOS",O Paradoxo Cloverfield
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/CLOVERFIELD2018DUB-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pGw2xeS.jpg" group-title="LANÇAMENTOS",Batman: Gotham by Gaslight
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/BATMANBYGASLIGHTDUB-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/t8EaA08.jpg" group-title="LANÇAMENTOS",(LEG)Vende-se Esta Casa
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/OPENHOUSE2018LEG-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/G9SEnBV.jpg" group-title="LANÇAMENTOS",(LEG)Voldemort: Origins of the Heir
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/VOLDEMORT2018-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fStcpMm.jpg" group-title="LANÇAMENTOS",Scooby-Doo & Batman: Os Bravos e Destemidos
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/SCOOBYEBATMANDUB-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IBycEW1.jpg" group-title="LANÇAMENTOS",Annabelle 2
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/ANNABELLE2DUB-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YL7kbAl.jpg" group-title="LANÇAMENTOS",(LEG)Jumanji: Bem-Vindo à Selva
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/JUMANJI2018LEG-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YL7kbAl.jpg" group-title="LANÇAMENTOS",Jumanji: Bem-Vindo à Selva
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/JUMANJI2018DUB-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TLUKvgl.jpg" group-title="LANÇAMENTOS",(LEG)O Rei do Show
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/REIDANOITELEG2017-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uVeJdWQ.jpg" group-title="LANÇAMENTOS",Com Amor, Van Gogh
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/VANGOGHDUB-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eVk3WTh.jpg" group-title="LANÇAMENTOS",A Estrela de Belém
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/BELEM18-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oyjPXwD.jpg" group-title="LANÇAMENTOS",(LEG)A Silent Voice
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/SILENTVOICELEG-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/o8ni9wF.jpg" group-title="LANÇAMENTOS",Os Parças
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/OSPARCAS2018-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JTLrdaG.jpg" group-title="LANÇAMENTOS",(LEG)A Forma da Água
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/FORMADAAGUALEG-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3QbIPfC.jpg" group-title="LANÇAMENTOS",Jogos Mortais: Jigsaw
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/JIGSAW2017DUB-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rYCOD5h.jpg" group-title="LANÇAMENTOS",(LEG)O Touro Ferdinando
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/FERDINANDOLEG-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rYCOD5h.jpg" group-title="LANÇAMENTOS",O Touro Ferdinando
-http://d1qj99blfffwbv.cloudfront.net/mmhd/movies/ferdinand-dub-360p.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kXykFH8.jpg" group-title="LANÇAMENTOS",(LEG)Hangman
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/HANGMANLEG2018-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nQXAHMi.jpg" group-title="LANÇAMENTOS",(LEG)My Friend Dahmer
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/MYFRIENDDAHMERLEG-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0oJAY8M.jpg" group-title="LANÇAMENTOS",Doentes de Amor
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/BIGSICKDUB-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z90Jd4X.png" group-title="LANÇAMENTOS",Your Name
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/YOURNAMEDUB-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aspqwDO.png" group-title="LANÇAMENTOS",Extraordinário
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/EXTRAORDINARIODUB2018-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4SgWer0.jpg" group-title="LANÇAMENTOS",Thor: Ragnarok
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/THOR2017DUB-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1VJsDmQ.jpg" group-title="LANÇAMENTOS",Hacker – Todo Crime Tem Um Início
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/HACKERDUB-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MsFRcTM.jpg" group-title="LANÇAMENTOS",Gosto Se Discute
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/G0ST0S3DISCUT3-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M9awTzk.jpg" group-title="LANÇAMENTOS",Loucuras em Família
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/LOUCURAS2018DUB-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tlmXDZn.jpg" group-title="LANÇAMENTOS",Pai em Dose Dupla 2
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/PAIDOSEDUPLA2DUB-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2vaZOq5.jpg" group-title="LANÇAMENTOS",Liga da Justiça
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/JUSTICALIGA2017DUB-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EKN1Of3.jpg" group-title="LANÇAMENTOS",(LEG)American Satan
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/AMERICANSATAN2017LEG-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pHzwhty.jpg" group-title="LANÇAMENTOS",(LEG)Assassinato no Expresso do Oriente
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/MUDERONTHEEXPRESS2017LEG-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q20EMlF.jpg" group-title="LANÇAMENTOS",Pica-Pau: O Filme
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/PICAPAU2018DUB-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g2H11jV.jpg" group-title="LANÇAMENTOS",A Morte Te Dá Parabéns
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/HAPPYDEATHDDUB-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/51pMv26.jpg" group-title="LANÇAMENTOS",Mulher-Maravilha
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/W0M4N2017DUB-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iePuKSl.jpg" group-title="LANÇAMENTOS",Blade Runner 2049
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/BR2049DUB-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DreEJRs.jpg" group-title="LANÇAMENTOS",(LEG)Hey Arnold! The Jungle Movie
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/HEYARNOLDLEG-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WuoIg6S.jpg" group-title="LANÇAMENTOS",Feito na América
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/FEITOAMERICADUB-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Kug41lb.jpg" group-title="LANÇAMENTOS",Como Se Tornar o Pior Aluno da Escola
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/CSATOPADENACIONAL-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OhxBrw3.jpg" group-title="LANÇAMENTOS",Os Guardiões
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/GUARDIOESDUB-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i1nLzll.jpg" group-title="LANÇAMENTOS",(LEG)Pokémon – O Filme: Eu Escolho Você!
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/POLEMONKIMETALEG-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DcZLkLi.jpg" group-title="LANÇAMENTOS",Polícia Federal: A Lei É para Todos
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/POFE20117-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ddq0TeW.png" group-title="LANÇAMENTOS",Crise na Terra X – O Filme
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/CRISENATERRAX-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PzBtF74.jpg" group-title="LANÇAMENTOS",Kingsman: O Círculo Dourado
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/KINGSMAN2017DUB-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ev6Yx6y.jpg" group-title="LANÇAMENTOS",Dupla Explosiva
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/DUPLA2DUB-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SIUgnm3.jpg" group-title="LANÇAMENTOS",(LEG)O Assassino: O Primeiro Alvo
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/AMERICANA20177LEG-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iuhwuz0.jpg" group-title="LANÇAMENTOS",Valerian e a Cidade dos Mil Planetas
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/VCMDUB-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BXAAeht.jpg" group-title="LANÇAMENTOS",Carros 3
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/CARROS3DUB-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/f5sB6Ja.jpg" group-title="LANÇAMENTOS",Planeta dos Macacos: A Guerra
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/PDMAG-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TumZhZg.jpg" group-title="LANÇAMENTOS",O Culto de Chucky
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/OCDCDUB-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5KKf3gk.jpg" group-title="LANÇAMENTOS",A Torre Negra
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/ATN2017DUB-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CXPbWZ2.jpg" group-title="LANÇAMENTOS",Meu Malvado Favorito 3
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/MMFDUB-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/s2FwNLY.jpg" group-title="LANÇAMENTOS",Piratas do Caribe – A Vingança de Salazar
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/PIRATAS5DUB-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VsZtfg3.jpg" group-title="LANÇAMENTOS",Transformers: O Último Cavaleiro
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/CAVALEIRO2017DUB-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/toXhepL.jpg" group-title="LANÇAMENTOS",Colossal
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/COLOSSAL2017DUB-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bJdLLoV.jpg" group-title="LANÇAMENTOS",Em Ritmo De Fuga
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/ERDF2017DUB-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qnMsxF9.jpg" group-title="LANÇAMENTOS",A Múmia
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/AMUMIA2017DUB-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ORUmD9r.jpg" group-title="LANÇAMENTOS",O Círculo
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/CIRCO2017DUB-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3u3k6en.jpg" group-title="LANÇAMENTOS",Z – A Cidade Perdida
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/ZDUB-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FV47huI.jpg" group-title="LANÇAMENTOS",Baywatch: S.O.S. Malibu
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/BAYWATCHDUB-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UEooZMc.jpg" group-title="LANÇAMENTOS",Guardiões da Galáxia Vol. 2
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/GUARDIOES2017DUB-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7dJURwK.jpg" group-title="LANÇAMENTOS",Alien: Covenant
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/ALIEN2017DUB-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LOw1Qds.jpg" group-title="LANÇAMENTOS",Velozes e Furiosos 8
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/VELOZES2017DUB-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FqVnEij.jpg" group-title="LANÇAMENTOS",Rei Arthur – A Lenda da Espada
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/ARTHUR2017DUB-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UPcyQIs.jpg" group-title="LANÇAMENTOS",O Vendedor de Sonhos
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/VENDEDORSONHOS-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mzsISV5.jpg" group-title="LANÇAMENTOS",Fome de Poder
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/FOMED4PODERDUB-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eRKNSD6.jpg" group-title="LANÇAMENTOS",Internet – O Filme
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/INTERNETMOVIE-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Rl8QWzk.jpg" group-title="LANÇAMENTOS",Eu Fico Loko
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/EUFICOLOUCO-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FhhUJE8.jpg" group-title="LANÇAMENTOS",Ninguém Entra, Ninguém Sai
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/NINGUEMENTRASAI2017-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/21QUusy.jpg" group-title="LANÇAMENTOS",A Cabana
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/ACABANA2017DUB-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MeASItS.jpg" group-title="LANÇAMENTOS",A Vigilante do Amanhã: Ghost in the Shell
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/GHOSTDUB2017-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pOb8h94.jpg" group-title="LANÇAMENTOS",Resident Evil Vendetta
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/EVILDUB2017-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Pw0Srik.jpg" group-title="LANÇAMENTOS",Okja
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/OKJA2017DUB-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LYCYKfi.jpg" group-title="LANÇAMENTOS",O Poderoso Chefinho
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/CHEFINHO2017DUB-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z8W5XFV.jpg" group-title="LANÇAMENTOS",Kong: A Ilha da Caveira
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/CAVEIRA2017DUB-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RCbOU81.jpg" group-title="LANÇAMENTOS",O Espaço Entre Nós
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/ESPACOENTRENOSMOVIEDUB-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bUPgwOT.jpg" group-title="LANÇAMENTOS",Power Rangers
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/POWER2017DUB2-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ANORyW4.jpg" group-title="LANÇAMENTOS",Vida
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/VIDAFILME2017DUB-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RAF3hXa.jpg" group-title="LANÇAMENTOS",T2 Trainspotting
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/T22017DUB-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y3qcRlu.jpg" group-title="LANÇAMENTOS",Logan
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/L0G4NDUB2017-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F6aE3MP.jpg" group-title="LANÇAMENTOS",Corra!
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/CORRADUB-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fP8lxQU.png" group-title="LANÇAMENTOS",John Wick – Um Novo Dia para Matar
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/JOHNWICKDUBB-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ACSYo3J.jpg" group-title="LANÇAMENTOS",A Bela e a Fera
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/BELAFERA2017DUB-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uDcAHT9.jpg" group-title="LANÇAMENTOS",Cinquenta Tons Mais Escuros
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/CINZASDUB-BAIXO.mp4
+
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Mudo
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/MUTEDUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Tres anuncios para um crime LEG
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/TRESANUNCIOS2018LEG-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Fullmetal Alchemist
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/FULLMETALDUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Viva: A Vida e uma Festa LEG
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/COCO20177LEG-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Espiao por Acaso LEG
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/ESPIAO2018LEG-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,O Destino de uma Nacao LEG
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/DARKEST2017LEG-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,The Post: A Guerra Secreta LEG
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/THEPOST2017LEG-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,O Paradoxo Cloverfield
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/CLOVERFIELD2018DUB-ALTO.mp4?LHMTv
+
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Lady Bird – A Hora de Voar
+http://d1qj99blfffwbv.cloudfront.net/mophd/movies/ladybird-leg-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,O Juramento
+http://d1qj99blfffwbv.cloudfront.net/mophd/movies/ojuramento-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Liga da Justica
+http://d1qj99blfffwbv.cloudfront.net/mophd/movies/ligajustica-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,O Assassino: O Primeiro Alvo
+http://d1qj99blfffwbv.cloudfront.net/mophd/movies/primeiroalvo-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Tempestade: Planeta em Furia
+http://d1qj99blfffwbv.cloudfront.net/mophd/movies/tempestadefuria-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Feito na America
+http://d1qj99blfffwbv.cloudfront.net/mophd/movies/americanmade-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Bingo – O Rei das Manhas
+http://d1qj99blfffwbv.cloudfront.net/mophd/movies/bingo-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Como Se Tornar o Pior Aluno da Escola
+http://d1qj99blfffwbv.cloudfront.net/mophd/movies/pioraluno-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Dunkirk
+http://d1qj99blfffwbv.cloudfront.net/mophd/movies/dunkirk-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Mae!
+http://d1qj99blfffwbv.cloudfront.net/mophd/movies/mom-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Esta e a Sua Morte – O Show
+http://d1qj99blfffwbv.cloudfront.net/mophd/movies/thisisyourdeath-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Polícia Federal – A Lei e Para Todos
+http://d1qj99blfffwbv.cloudfront.net/mophd/movies/policiafederal-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Atomica
+http://d1qj99blfffwbv.cloudfront.net/mophd/movies/atomica-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,A Noiva
+http://d1qj99blfffwbv.cloudfront.net/mophd/movies/anoiva-dub-720p.mp4
+
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Jogos Mortais: Jigsaw
+http://xxx.ntcdn.us/httpdelivery/sex/antigos/nc/L/JIGSAWDUB.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Viva: A Vida e uma Festa
+http://xxx.ntcdn.us/httpdelivery/sex/antigos/nc/L/VIVADUB.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Jumanji
+http://xxx.ntcdn.us/httpdelivery/sex/antigos/nc/L/JUMANDUB.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Maze Runner – A Cura Mortal
+http://xxx.ntcdn.us/httpdelivery/sex/antigos/nc/L/MAZERUDUB.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Velozes e Furiosos 8
+http://xxx.ntcdn.us/httpdelivery/sex/antigos/nc/EC38C3E9839CDB6A1728/B3E2ED57441724DE49FF.mp4?LHMTv
+
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Batman Contra o Capuz Vermelho
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/BATMANREDHOODDUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Vende-se Esta Casa LEG
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/OPENHOUSE2018LEG-BAIXO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Voldemort: Origins of the Heir LEG
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/VOLDEMORT2018-BAIXO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Scooby-Doo & Batman: Os Bravos e Destemidos
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/SCOOBYEBATMANDUB-BAIXO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Historietas Assombradas
+http://ia601501.us.archive.org/1/items/LHMTVfilmes/H.A.LHMTv.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,A Guerra
+http://ia601501.us.archive.org/1/items/LHMTVfilmes/A.G.LHMTv.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,As Aventuras de Tadeo 2 – O Segredo do Rei Midas
+http://ia601501.us.archive.org/1/items/LHMTVfilmes/A.A.D.T.2.-O.S.D.R.M.LHMTv.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Duas de Mim
+http://ia601501.us.archive.org/1/items/LHMTVfilmes/2.D.M.LHMTv.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Sem Perdao
+http://ia601501.us.archive.org/1/items/LHMTVfilmes/100.PRD.LHMTv.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Hey Arnold! The Jungle Movie LEG
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/HEYARNOLDLEG-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Patrulha Canina - Os Filhotes Salvam o Natal
+http://ia601501.us.archive.org/1/items/LHMTVfilmes/P.Canina-O.F.S.Natal.LHMTv.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Mariah Carey: Desejo de Natal
+http://ia601501.us.archive.org/1/items/LHMTVfilmes/M.K-D.D.N.LHMTv.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Star Wars - Os ultimos Jedi
+http://ia601501.us.archive.org/1/items/LHMTVfilmes/S.W-O.U.J.LHMTv.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Chocante
+http://ia601501.us.archive.org/1/items/LHMTVfilmes/CHKNT.LHMTv.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Magal e as formigas
+http://ia601501.us.archive.org/1/items/LHMTVfilmes/S.M.E.A.F.LHMTv.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Assassinato no Expresso do Oriente
+http://ia601501.us.archive.org/1/items/LHMTVfilmes/A.N.E.O.LHMTv.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Jogos Mortais - Jigsaw
+http://ia601501.us.archive.org/1/items/LHMTVfilmes/J.M-JS.LHMTv.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Pai em dose Dupla 2
+http://ia601501.us.archive.org/1/items/LHMTVfilmes/P.D.Dupla.LHMTv.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Policia Federal: A Lei e para Todos
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/POFE20117-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Scooby-Doo & Batman: Os Bravos e Destemidos
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/SCOOBYEBATMANDUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Pokemon O Filme: Eu Escolho Voce!
+http://ia601501.us.archive.org/1/items/LHMTVfilmes/PK.0.F-E.E.V.LHMTv.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,A Casa do Fim dos Tempos
+http://ia601501.us.archive.org/1/items/LHMTVfilmes/A.C.D.F.D.T.LHMTv.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Valerian e a Cidade dos Mil Planetas
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/VTCOFTP-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Big Pai. Big Filho
+http://ia601501.us.archive.org/1/items/LHMTVfilmes/GrandeP-GrandeF.LHMTV.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,LEGO Frozen: Luzes Congelantes
+http://ia601501.us.archive.org/1/items/LHMTVfilmes/L.F-L.Cglts.LHMTv.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,First Kill – Cacada Brutal
+http://ia601501.us.archive.org/1/items/LHMTVfilmes/C.BrtL.LHMTv.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Ao Cair da Noite
+http://ip174.ip-158-69-7.net/lanc/Ao.Cair.daNoite.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Deserto em Fogo
+http://ip174.ip-158-69-7.net/lanc/Deserto.em.Fogo.2017.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,As Apimentadas Desafio Mundial
+http://ip174.ip-158-69-7.net/lanc/As.Apimentadas.Desafio.Mundial.2017.mkv.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,A morte de da parabens
+http://ia601501.us.archive.org/1/items/LHMTVfilmes/A.M.T.D.P.LHMTv.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Meus 15 anos
+http://ia601501.us.archive.org/1/items/LHMTVfilmes/M.15.A.LHMTv.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Como se Tornar um Conquistador
+http://ia601501.us.archive.org/1/items/LHMTVfilmes/C.S.T.1.C.LHMTv.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Loucos e Perigosos
+http://ia601501.us.archive.org/1/items/LHMTVfilmes/L.E.P.LHMTv.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Carros 3
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/CARROS3DUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Colossal
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/COLOSSAL2017DUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Piratas do Caribe - A Vinganca de Salazar
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/PIRATAS5DUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,A Mumia
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/AMUMIA2017DUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Alien: Covenant
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/ALIEN2017DUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Fome de Poder
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/FOMED4PODERDUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Internet O Filme
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/INTERNETMOVIE-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Vendedor de sonhos
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/VENDEdoRSONHOS-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Dupla Explosiva
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/DUPLA2DUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,O Culto de Chuck
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/OCDCDUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,xXx: Reativado
+http://ia601505.us.archive.org/17/items/jacksonjoseano2_gmail_Xxx/xXx.Reativado.2017.720p.BluRay.x264.DUBLADO-BLUDV.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,A morte te da parabens
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/HAPPYDEATHDDUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Hangmnan LEG
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/HANGMANLEG2018-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,My Friend Dahmer LEG
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/MYFRIENDDAHMERLEG-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Doentes de Amor
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/BIGSICKDUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Your Name
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/YOURNAMEDUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Extraordinario
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/EXTRAORDINARIODUB2018-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Thor: Ragnarok
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/THOR2017DUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Hacker – Todo Crime Tem Um Inicio
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/HACKERDUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Gosto se discute
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/G0ST0S3DISCUT3-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Loucuras em Familia
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/LOUCURAS2018DUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Pai em Dose Dupla 2
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/PAIDOSEDUPLA2DUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Batman Contra o Capuz Vermelho
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/BATMANREDHOODDUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Batman: Gotham by Gaslight LEG
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/GOTHAMGASLIGHT18LEG-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Vende-se Esta Casa LEG
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/OPENHOUSE2018LEG-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Voldemort: Origins of the Heir LEG
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/VOLDEMORT2018-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Scooby-Doo & Batman: Os Bravos e Destemidos
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/SCOOBYEBATMANDUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Blade Runner 2049
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/BR2049DUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Bright
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/BRIGHTDUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Liga da Justica LEG
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/JUSTICALIGA2017DUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Hey Arnold! The Jungle Movie LEG
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/HEYARNOLDLEG-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Como Se Tornar o Pior Aluno da Escola
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/CSATOPADENACIONAL-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Pokemon – O Filme: Eu Escolho Voce! LEG
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/POLEMONKIMETALEG-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Dunkirk LEG
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/DUNKIRKLEG-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Policia Federal: A Lei e para Todos
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/POFE20117-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Crise na Terra X - O Filme LEG
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/CRISENATERRAX-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Kingsman: O Circulo Dourado LEG
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/KINGSMAN2017DUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Dupla Explosiva
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/DUPLA2DUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Feito na America LEG
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/AM2017LEG-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,O Assassino: O Primeiro Alvo LEG
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/AMERICANA20177LEG-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Valerian e a Cidade dos Mil Planetas
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/VTCOFTP-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Carros 3
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/CARROS3DUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,It - A Coisa LEG
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/ACOISA2017LEG-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Planeta dos Macacos: A Guerra
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/PDMAG-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,O Culto de Chucky
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/OCDCDUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,A Torre Negra
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/ATN2017DUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Homem-Aranha: De Volta ao Lar
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/ARANHAHOMEMDUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Planeta dos Macacos: A Guerra
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/PLANETADOSMACACOS-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Kingsman - Servico Secreto
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/KSSDUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Colossal
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/COLOSSAL2017DUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Piratas do Caribe - A Vinganca de Salazar
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/PIRATAS5DUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,A Mumia
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/AMUMIA2017DUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Em Ritmo De Fuga
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/RITMODEFUGA2017LEG-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Alien: Covenant
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/ALIEN2017DUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Fome de Poder
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/FOMED4PODERDUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Internet O Filme
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/INTERNETMOVIE-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Vendedor de sonhos
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/VENDEDORSONHOS-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Eu fico louco
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/EUFICOLOUCO-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,A Vigilante do Amanha: Ghost in the Shell
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/GHOSTDUB2017-ALTO.mp4?LHMTv 
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Death Note
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/CARDERNODAMORTE2017DUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,John Wick - Um Novo Dia para Matar
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/JOHNWICKDUBB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Breaking Bad: O Filme
+http://cdn1.ntcdn.us/content/sobdemanda/netcine-bucket/filmes2016/BRELEG-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Okja
+http://cdn1.ntcdn.us/content/ondemand/filmes2017/OKJA2017DUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Power Rangers
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/POWER2017DUB2-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,O Espaco entre nos
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/ESPACOENTRENOSMOVIEDUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Kong a ilha da caveira
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/CAVEIRA2017DUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Batman - O Cavaleiro de Gotham
+http://cdn1.ntcdn.us/content/sobdemanda/netcine-bucket/filmes2016/animacoes/GOTHAMKNIGHT-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Batman: A Mascara do Fantasma
+http://cdn1.ntcdn.us/content/sobdemanda/netcine-bucket/filmes2016/animacoes/BATPH-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Batman e Mr. Freeze - Abaixo de Zero
+http://cdn1.ntcdn.us/content/sobdemanda/netcine-bucket/filmes2016/animacoes/BATZERO-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,O Circulo
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/CIRCO2017DUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Rei Arthur - A Lenda da Espada
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/ARTHUR2017DUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,O Vendedor de Sonhos
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/VENDEDORSONHOS-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,A Cabana
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/ACABANA2017DUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Batman - O Cavaleiro das Trevas Ressurge
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/BATMAN03DUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Batman o Cavaleiro das Trevas
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/BATMAN02DUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Meu Malvado Favorito 3
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/MALVADODUB2017-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Z - A Cidade Perdida
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/ZDUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Batman & Arlequina: Pancadas e Risadas
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/BATMANALERQUINADUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Mulher-Maravilha
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/W0M4N2017DUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Baywatch: S.O.S. Malibu
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/BAYWATCHDUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Guardioes da Galaxia 2
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/GUARDIOES2017DUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Velozes e Furiosos 8
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/VELOZES2017DUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Blade Runner - o Cacador de Androides
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/BLADERUNNERDUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Ninguem Entra. Ninguem Sai
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/NINGUEMENTRASAI2017-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,A Chegada
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/CH4GADADUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Resident Evil Vendetta
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/EVILDUB2017-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,O Poderoso Chefinho
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/CHEFINHO2017DUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,O Hobbit: A Batalha dos Cinco Exercitos
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/ohobbit/dub/03-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,O Hobbit: A Desolacao de Smaug
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/ohobbit/dub/02-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,O Hobbit: Uma Jornada Inesperada
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/ohobbit/dub/01-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Piratas do Caribe: Navegando Em aguas Misteriosas
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/PIRATASC04DUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Piratas do Caribe: No Fim do Mundo
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/PIRATASC03DUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Piratas do Caribe: O Bau Da Morte
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/PIRATASC02DUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Piratas do Caribe: A Maldicao do Perola Negra
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/PIRATASC01DUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Rogue One - Uma Historia Star Wars
+http://cdn1.ntcdn.us/content/sobdemanda/netcine-bucket/filmes2016/ROGUEDUBB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Star Wars: Episodio VII - O Despertar da Forca
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/STARWARS07DUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Star Wars: Episodio VI - O Retorno de Jedi
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/STARWARS06DUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Star Wars: Episodio V - O Imperio Contra-Ataca
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/STARWARS05DUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Star Wars: Episodio IV - Uma Nova Esperanca (Guerra nas Estrelas)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/STARWARS04DUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Star Wars: Episodio III - A Vinganca dos Sith
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/STARWARS03DUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Star Wars: Episodio II - Ataque dos Clones
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/STARWARS02DUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Star Wars: Episodio I - A Ameaca Fantasma
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/STARWARS01DUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Senhor dos Aneis - O Retorno do Rei
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/S4NH0R4NEYS03DUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Senhor dos Aneis - As Duas Torres
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/S4NH0R4NEYS02DUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Senhor dos Aneis - A Sociedade do Anel
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/S4NH0R4NEYS01DUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Harry Potter e as Reliquias da Morte: Parte 2
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/H4RRYP08DUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Harry Potter e as Reliquias da Morte: Parte 1
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/H4RRYP07DUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Harry Potter e o Enigma do Principe
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/H4RRYP06DUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Harry Potter e a Ordem da Fenix
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/H4RRYP05DUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Harry Potter e o Calice de Fogo
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/H4RRYP04DUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Harry Potter e o Prisioneiro de Azkaban
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/H4RRYP03DUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Harry Potter e a Camara Secreta
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/H4RRYP02DUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Harry Potter e a Pedra Filosofal
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/H4RRYP01DUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Vida
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/VIDAFILME2017DUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,T2 Trainspotting
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/T22017DUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Logan
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/L0G4NDUB2017-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Hulk: Onde os Monstros Habitam
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/HULK2017DUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Corra!
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/CORRADUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,DC Vixen - O Filme
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/VIXEN2017LEG-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Interestelar
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/INTER8ST8L4RDUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,LEGO Batman: O Filme
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/LEG0B4TM4NDUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,John Wick - Um Novo Dia para Matar
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/JOHNWICKDUBB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Batman: O Retorno do Cavaleiro das Trevas - Parte 2
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/B4TM4NPARTE02DUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Batman: O Cavaleiro das Trevas - Parte 1
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/B4TM4NPARTE01DUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,A Bela e a Fera
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/BELAFERA2017DUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Corpo Fechado
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/CORPOFECHADO-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Fragmentado
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/FRAGDUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Cinquenta Tons Mais Escuros
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/CINZASDUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,La La Land - Cantando Estacoes
+http://cdn1.ntcdn.us/content/sobdemanda/netcine-bucket/filmes2017/LANDLEG-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Jovens Titas: O Contrato de Judas
+http://cdn1.ntcdn.us/content/sobdemanda/netcine-bucket/filmes2017/JOVENSDUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,A Grande Muralha
+http://cdn1.ntcdn.us/content/sobdemanda/netcine-bucket/filmes2016/GREATDUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Assassins Creed
+http://cdn1.ntcdn.us/content/sobdemanda/netcine-bucket/filmes2016/ASSADUBLA-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Tinha Que Ser Ele?
+http://cdn1.ntcdn.us/content/sobdemanda/netcine-bucket/filmes2016/TINHADUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Resident Evil 6: O Capitulo Final
+http://cdn1.ntcdn.us/content/sobdemanda/netcine-bucket/filmes2016/REESILEG-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Silencio
+http://cdn1.ntcdn.us/content/sobdemanda/netcine-bucket/filmes2016/SILENCLEG-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Beleza Oculta
+http://cdn1.ntcdn.us/content/sobdemanda/netcine-bucket/filmes2016/BELEDUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Passageiros
+http://cdn1.ntcdn.us/content/sobdemanda/netcine-bucket/filmes2016/PASDUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Minha Mae e uma Peca 2
+http://cdn1.ntcdn.us/content/sobdemanda/netcine-bucket/filmes2016/MINHAMAE-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Uma Aventura LEGO
+http://cdn1.ntcdn.us/content/sobdemanda/netcine-bucket/filmes2016/legomovie/TLM14DUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Anjos da Noite 5 - Guerras de Sangue
+http://cdn1.ntcdn.us/content/sobdemanda/netcine-bucket/filmes2016/ANJOSDUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Portal dos Guerreiros
+http://cdn1.ntcdn.us/content/sobdemanda/netcine-bucket/filmes2016/WARRLEG-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Warcraft - O Primeiro Encontro de Dois Mundos
+http://cdn1.ntcdn.us/content/sobdemanda/netcine-bucket/filmes2016/WARDUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,X-Men - Dias de Um Futuro Esquecido: Edicao Vampira
+http://cdn1.ntcdn.us/content/sobdemanda/netcine-bucket/filmes2016/ROGUEDUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Animais Fantasticos e Onde Habitam
+http://cdn1.ntcdn.us/content/sobdemanda/netcine-bucket/filmes2016/ANIMAISDUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Doutor Estranho
+http://cdn1.ntcdn.us/content/sobdemanda/netcine-bucket/filmes2016/dstrange/DS2016DUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Moana - Um Mar de Aventuras
+http://cdn1.ntcdn.us/content/sobdemanda/netcine-bucket/filmes2016/animacoes/MOANADUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Liga da Justica Sombria
+http://cdn1.ntcdn.us/content/sobdemanda/netcine-bucket/filmes2016/animacoes/ljdark/LJSDUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Esquadrao Suicida
+http://cdn1.ntcdn.us/content/sobdemanda/netcine-bucket/filmes2016/suicidesquad/leg/ESS-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Batman vs. Superman: A Origem da Justica
+http://cdn1.ntcdn.us/content/sobdemanda/netcine-bucket/filmes2016/bvs/dub/DUBLADO-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Batman Sem Limites: Mechas vs. Mutantes
+http://cdn1.ntcdn.us/content/sobdemanda/netcine-bucket/filmes2016/animacoes/MECHADUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,X-Men: Apocalipse
+http://cdn1.ntcdn.us/content/sobdemanda/netcine-bucket/filmes2016/xmen2016/XMEN2016DUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Capitao America: Guerra Civil
+http://cdn1.ntcdn.us/content/sobdemanda/netcine-bucket/filmes2016/civilwar/dubbluray/CW2016-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Superman: Brainiac Ataca
+http://cdn1.ntcdn.us/content/sobdemanda/netcine-bucket/filmes2016/animacoes/SUPBRAINIAC-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Superman & Batman: Inimigos Publicos
+http://cdn1.ntcdn.us/content/sobdemanda/netcine-bucket/filmes2016/animacoes/SBPUBLICO-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Mulher Maravilha - Animacao
+http://cdn1.ntcdn.us/content/sobdemanda/netcine-bucket/filmes2016/animacoes/WW-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Liga da Justica - A Nova Fronteira
+http://cdn1.ntcdn.us/content/sobdemanda/netcine-bucket/filmes2016/animacoes/LDJFRONTIER-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,A Morte do Superman
+http://cdn1.ntcdn.us/content/sobdemanda/netcine-bucket/filmes2016/animacoes/SUPDOOMS-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Batman: A Piada Mortal
+http://cdn1.ntcdn.us/content/sobdemanda/netcine-bucket/filmes2016/bapm/BAPMDUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Liga da Justica - Ponto de Ignicao
+http://cdn1.ntcdn.us/content/sobdemanda/netcine-bucket/filmes2016/flashpoint/FLASHPDUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Liga da Justica vs. Jovens Titas
+http://cdn1.ntcdn.us/content/sobdemanda/netcine-bucket/filmes2016/LigadaJusticavsJovensTitasDUB-ALTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Deadpool
+http://cdn1.ntcdn.us/content/sobdemanda/netcine-bucket/filmes2016/deadpool/DUB/2016-ALTO.mp4?LHMTv
+
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,7 desejos
+http://185.22.173.118/V2/7.Desejos.2017.720p.BluRay.6CH.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,A Autopsia
+http://185.22.173.118/V2/A.AutÃ³psia.2017.720p.BluRay.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,A Baba
+http://185.22.173.118/V2/A.Baba.2017.720p.WEB-DL.6CH.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,A Cabana
+http://185.22.173.118/V2/A.Cabana.2017.720p.BluRay.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,A Caverna perigo subterraneo
+http://94.242.55.155/Brpt/A.Caverna.Perigo.Subterraneo.2017.1080p.BluRay.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,A Casa caiu um cassinona na vizinhanca
+http://185.22.173.118/V2/A.Casa.Caiu.Um.Cassino.na.VizinhanÃ§a.2017.720p.BluRay.6CH.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,A Era da escuridao
+http://94.242.55.155/Brpt/A.Era.da.EscuridÃ£o.2017.720p.BluRay.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,A Chegada
+http://185.22.173.118/V2/brpt/A.Chegada.2017.1080p.BluRay.x264.DUBLADO-TDF.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,A Mumia
+http://185.22.173.118/V2/A.MÃºmia.2017.720p.BluRay.6CH.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,A noite e delas
+http://185.22.173.118/V2/A.Noite.Ã©.Delas.2017.720p.BluRay.6CH.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,A Peregrinacao
+http://185.22.173.118/V2/A.PeregrinaÃ§Ã£o.2017.720p.BluRay.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,A Torre Negra
+http://185.22.173.118/V2/A.Torre.Negra.2017.720p.BluRay.6CH.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,A Ultima fronteira
+http://185.22.173.118/V2/A.Ultima.Fronteira.2017.720p.BluRay.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,A vigilante do amanha
+http://185.22.173.118/V2/A.Vigilante.do.AmanhÃ£.2017.720p.BluRay.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Alien Covenant
+http://94.242.55.155/Brpt/Alien.Covenant.2017.720p.BluRay.6CH.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Annabelle 2 A Criacao do Mal
+http://185.22.173.118/V2/Annabelle.2.A.CriaÃ§Ã£o.do.Mal.2017.720p.BluRay.6CH.x264.DUBLADO-WWW.BLUDV.COM.FORCED.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Antes que eu va
+http://185.22.173.118/V2/Antes.Que.Eu.VÃ¡.2017.720p.BluRay.6CH.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,As aventuras de Ozzy
+http://185.22.173.118/V2/As.Aventuras.de.Ozzy.2017.720p.BluRay.6CH.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Ate o fundo
+http://185.22.173.118/V2/Ate.o.Fundo.2017.720p.BluRay.6CH.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Atracao Violenta
+http://185.22.173.118/V2/AtraÃ§Ã£o.Violenta.2017.720p.BluRay.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Batman e Arlequina pancadas e risadas
+http://185.22.173.118/V2/Batman.e.Arlequina.Pancadas.e.Risadas.2017.720p.BluRay.6CH.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Baywatch S.O.S Malibu
+http://185.22.173.118/V2/Baywatch.S.O.S.Malibu.2017.VersÃ£o.sem.Censura.720p.BluRay.6CH.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Berlin Syndrome
+http://185.22.173.118/V2/Berlin.Syndrome.2017.720p.BluRay.H264.AAC-RARBG.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Bikini Car Wash
+http://185.22.173.118/V2/Bikini.Car.Wash.2017.720p.BluRay.6CH.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Boyka O Imbativel
+http://185.22.173.118/V2/Boyka.O.ImbatÃ­vel.2017.720p.BluRay.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Busca sem limites
+http://185.22.173.118/V2/Busca.Sem.Limites.2017.720p.BluRay.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Campo Minado
+http://94.242.55.155/Brpt/Campo.Minado.2017.720p.BluRay.x264.DUBLADO-BLUDV.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Colisao Mortal
+http://94.242.55.155/Brpt/ColisÃ£o.Mortal.2017.1080p.BluRay.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Crimes na madrugada
+http://94.242.55.155/Brpt/Crimes%20na%20Madrugada.2017.720p.BluRay.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Corra
+http://185.22.173.118/V2/Corra.2017.720p.BluRay.6CH.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Death Note
+http://185.22.173.118/V2/Death.Note.2017.720p.WEBRip.6CH.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Deixados para tras A nova geracao
+http://185.22.173.118/V2/Deixados.Para.Tras.A.Nova.Geracao.2017.720p.BluRay.6CH.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Descendentes 2
+http://185.22.173.118/V2/Descendentes.2.2017.720p.WEB-DL.6CH.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Despedida em grande estilo
+http://94.242.55.155/Brpt/Despedida.em.Grande.Estilo.2017.720p.BluRay.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Drone
+http://185.22.173.118/V2/Drone.2017.720p.BluRay.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Estarei em casa para o Natal
+http://94.242.55.155/Brpt/Estarei.em.casa.para.o.Natal.2017.720p.WEBRip.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Ficcao Cientifica Volume 1: A Filha de Osiris
+http://185.22.173.118/V2/FicÃ§Ã£o.CientÃ­fica.Volume.1.A.Filha.de.Osiris.2017.720p.BluRay.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Fechando Negocio
+http://185.22.173.118/V2/brpt/Fechando.NegÃ³cio.2017.720p.WEB-DL.x264.DUBLADO-BLUDV.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Fragmentado
+http://185.22.173.118/V2/brpt/Fragmentado.2017.1080p.BluRay.x264.DUBLADO-BLUDV.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Guardioes da Galaxia 2
+http://94.242.55.155/Brpt/GuardiÃµes.da.GalÃ¡xiaVol.2.2017.720p.BluRay.6CH.x264.DUAL-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Kicks
+http://185.22.173.118/V2/Kicks.2017.720p.BluRay.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Kong: A Ilha da Caveira
+http://185.22.173.118/V2/Kong.A.Ilha.da.Caveira.2017.720p.BluRay.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,LEGO Batman O Filme
+http://185.22.173.118/V2/LEGO.Batman.O.Filme.2017.720p.WEB-DL.x264.DUBLADO-BLUDV.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Mate o Rei
+http://94.242.55.155/Brpt/Mate.o.Rei.2017.720p.BluRay.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Moana: Um Mar de mventuras
+http://185.22.173.118/V2/brpt/Moana.Um.Mar.de.Aventuras.2017.720p.BluRay.x264.DUBLADO-WWW.TORRENTdoSFILMES.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Monster Trucks
+http://185.22.173.118/V2/brpt/Monster%20Trucks%20(2017)%20[1080p]%20{BluRay}%20DUBLADO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Mulher Maravilha
+http://185.22.173.118/V2/Mulher.Maravilha.2017.720p.WEB-DL.6CH.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Nu
+http://185.22.173.118/V2/NU.2017.720p.WEBRip.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Nicky e o feitico do dragao
+http://185.22.173.118/V2/Nicky.e.o.FeitiÃ§o.do.DragÃ£o.2017.720p.WEB-DL.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,No Rastro da violencia
+http://185.22.173.118/V2/No.Rastro.da.ViolÃªncia.2017.720p.BluRay.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Nossas Noites
+http://185.22.173.118/V2/Nossas.Noites.2017.720p.WEB-DL.6CH.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Nunca diga seu Nome
+http://185.22.173.118/V2/Nunca.Diga.Seu.Nome.2017.720p.BluRay.x264.DUBLADO-WWW.BLDUV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Noite de abertura
+http://94.242.55.155/Brpt/Noite.de.abertura.2017.720p.WEB-DL.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Nossos Amantes
+http://185.22.173.118/V2/brpt/Nossos.Amantes.2017.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,O Chamado 3
+http://185.22.173.118/V2/brpt/O.Chamado.3.2017.720p.BluRay.x264.DUBLADO-BLUDV.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,O Arquiteto
+http://94.242.55.155/Brpt/O.Arquiteto.2017.720p.WEB-DL.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,O Corpo
+http://94.242.55.155/Brpt/O.Corpo.2017.1080p.BluRay.x264.DUBLADO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,O Dia do atentado
+http://94.242.55.155/Brpt/O.Dia.do.Atentado.2017.720p.BluRay.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,O Espaco entre Nos
+http://94.242.55.155/Brpt/O.EspaÃ§o.Entre.NÃ³s.2017.720p.BluRay.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,O Poderoso chefinho
+http://94.242.55.155/Brpt/O.Poderoso.Chefinho.2017.720p.WEB-DL.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,O Sinal: Frequencia do Medo
+http://94.242.55.155/Brpt/O.Sinal.FrequÃªncia.do.Medo.2015.1080p.Bluray.x264.AAC-COMANdoTORRENTS.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Okja
+http://94.242.55.155/Brpt/Okja.2017.720p.WEBRip.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Os ultimos sobreviventes
+http://94.242.55.155/Brpt/Os.Ãºltimos.sobreviventes.2017.720p.WEB-DL.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Os Smurfs e a vila Perdida
+http://94.242.55.155/Brpt/Os.Smurfs.e.a.Vila.Perdida.2017.720p.BluRay.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Ouro e Cobica
+http://185.22.173.118/V2/Ouro.e.CobiÃ§a.2017.720p.BluRay.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Offline sem bonus nessa Vida
+http://185.22.173.118/V2/Offline.Sem.BÃ´nus.nessa.Vida.2017.720p.WEB-DL.6CH.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Onde esta segunda
+http://185.22.173.118/V2/Onde.EstÃ¡.Segunda.2017.720p.WEBRip.6CH.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Os meninos que enganavam nazistas
+http://185.22.173.118/V2/Os.Meninos.que.Enganavam.Nazistas.2017.720p.BluRay.6CH.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Os Meyerowitz familia nao se Escolhe
+http://185.22.173.118/V2/Os.Meyerowitz.FamÃ­lia.Nao.se.Escolhe.2017.720p.WEB-DL.6CH.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Os Piores anos da minha vida
+http://185.22.173.118/V2/Os.Piores.Anos.da.minha.Vida.2017.720p.BluRay.6CH.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,O Homen Da meia noite
+http://185.22.173.118/V2/O.Homen.Da.Meia.Noite.720p.WEBRip.6CH.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,O Instituto
+http://185.22.173.118/V2/O.Instituto.2017.720p.BluRay.6CH.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,O PreÃ§o da liberdade
+http://185.22.173.118/V2/O.PreÃ§o.da.Liberdade.2017.720p.BluRay.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,O Ultimo vice-Rei
+http://185.22.173.118/V2/O.Ãšltimo.Vice-Rei.2017.REPACK.720p.BluRay.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,O Afogamento
+http://185.22.173.118/V2/O.Afogamento.2017.720p.BluRay.6CH.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,O Bar
+http://185.22.173.118/V2/O.Bar.2017.1080p.BluRay.6CH.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,O Circulo
+http://185.22.173.118/V2/O.CÃ­rculo.2017.720p.BluRay.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,O Cara Certo
+http://185.22.173.118/V2/O.Cara.Certo.2017.720p.BluRay.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,O Culto de Chucky
+http://185.22.173.118/V2/O.Culto.de.Chucky.2017.720p.BluRay.6CH.x264.DUBLADO-WWW.BLUDV.COM - Copia.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,O.Dia do atentado
+http://185.22.173.118/V2/O.Dia.do.Atentado.2017.720p.BluRay.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Paixao obsessiva
+http://185.22.173.118/V2/PaixÃ£o.Obsessiva.2017.720p.BluRay.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,PalhaÃ§os infernais
+http://185.22.173.118/V2/PalhaÃ§os.Infernais.2017.720p.BluRay.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Pequeno demonio
+http://185.22.173.118/V2/Pequeno.DemÃ´nio.2017.720p.WEBRip.6CH.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Piratas do caribe A Vinganca de Salazar
+http://185.22.173.118/V2/Piratas.do.Caribe.A.VinganÃ§a.de.Salazar.2017.720p.BluRay.6CH.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Primeiro mataram o meu pai
+http://185.22.173.118/V2/Primeiro.Mataram.o.Meu.Pai.2017.720p.WEB-DL.6CH.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Paixao obsessiva
+http://94.242.55.155/Brpt/PaixÃ£o.Obsessiva.2017.720p.BluRay.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Punhos de Sangue
+http://185.22.173.118/V2/Punhos.de.Sangue.2017.720p.BluRay.6CH.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Rei Arthur A lenda da espada
+http://185.22.173.118/V2/Rei.Arthur.A.Lenda.da.Espada.2017.720p.BluRay.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Resident Evil A Vinganca
+http://185.22.173.118/V2/Resident.evil.A.VinganÃ§a.2017.720p.BluRay.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Rock dog no faro do sucesso
+http://185.22.173.118/V2/Rock.dog.No.Faro.do.Sucesso.2017.720p.BluRay.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Seguranca em risco
+http://185.22.173.118/V2/SeguranÃ§a.em.Risco.2017.720p.BluRay.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Sem Limites 2
+http://94.242.55.155/Brpt/Sem.Limites.2.2017.720p.BluRay.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Sereia predadora
+http://94.242.55.155/Brpt/Sereia.predadora.2016.1080p.bluray.DUBLADO.WWW.TPF.GRATIS.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Sete Minutos depois da meia noite
+http://185.22.173.118/V2/brpt/Sete.Minutos.Depois.da.Mei.Noite.2017.720p.BluRay.x264.DUBLADO-BLUDV.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Sing quem canta seus males espanta
+http://185.22.173.118/V2/Sing%20Quem%20Canta%20Seus%20Males%20Espanta%20(2017)%20Blu-Ray%20720p%20DUBLADO%20-%20WWW.DTORRENT.COM.BR.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Sonhos lucidos
+http://94.242.55.155/Brpt/Sonhos.LÃºcidos.2017.720p.WEBRip.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Transformers O Ultimo cavaleiro
+http://185.22.173.118/V2/Transformers.O.Ãšltimo.Cavaleiro.2017.IMAX.720p.BluRay.6CH.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Tropas estelares invasores de Marte
+http://185.22.173.118/V2/Tropas.Estelares.Invasores.de.Marte.720p.WEB-DL.6CH.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Um Homem de familia
+http://185.22.173.118/V2/Um.Homem.de.FamÃ­lia.2017.720p.BluRay.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Um Lobo em pele de cordeiro
+http://185.22.173.118/V2/Um.Lobo.em.Pele.de.Cordeiro.2017.720p.BluRay.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Uma Agente muito louca
+http://185.22.173.118/V2/Uma.Agente.Muito.Louca.2017.720p.BluRay.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Uma Familia de dois
+http://185.22.173.118/V2/Uma.FamÃ­lia.de.dois.2017.720p.BluRay.6CH.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Velozes e Furiosos 8
+http://185.22.173.118/V2/Velozes.e.Furiosos.8.2017.720p.BluRay.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Vencendo o passado
+http://185.22.173.118/V2/Vencendo.o.Passado.2017.720p.WEB-DL.6CH.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Viagem das loucas
+http://185.22.173.118/V2/Viagem.das.Loucas.2017.720p.BluRay.6CH.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Vida Dupla
+http://94.242.55.155/Brpt/Vida.Dupla.2017.720p.BluRay.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Vinganca
+http://94.242.55.155/Brpt/VinganÃ§a.2017.720p.BluRay.x264.DUBLADO-WWW.BLUDV.COM.mp4?LHMTv
+
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,As Horas Finais
+http://lh3.googleusercontent.com/cH83OiKgb7TOBwzH5pFBqQiH7fzhL-q84Rj3KWaAqOnvUQdyoG6SM1o3nb3EVZo9m3M=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,A Grande Ilusao
+http://lh3.googleusercontent.com/2XyvqpLVy2WodBUf-Uf4VHxop1bWMo7NWJ7pTIwOA8VE2cOtoL-7lisyV0-0sC3I9JU=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Jogos do Apocalipse
+http://lh3.googleusercontent.com/RY2dL8PlYEj6LjIa6zNBHpU6sGShl88dNyXZHOqfTh8G_rNlFraPvs-aAUCwCmWT4H4=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Os Suspeitos
+http://lh3.googleusercontent.com/bgwgJZf_uW4zkqspzYmNwwjucBwOX_K_2B01-Sz07Sr-cPVeaV82wL09jCgeQ2EJApI=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Legion
+http://lh3.googleusercontent.com/HCy58i8lJvQSghL14vzzfyS9uYqZ0UeLI0yIZ99ZbTxot8m3EztaVHx17mX3NvzDefY=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,O Conselheiro do Crime
+http://lh3.googleusercontent.com/YTHEmHaxYdsezBTpj2f1jGnhP0L06Vp1Oc4JSMqc-CcHzzTx48erbZY1M5jXgB0Ds0A=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Rushlights
+http://lh3.googleusercontent.com/ytH89s4bW1g3xIwZ8mcmRxOgD2GTtH3jCl04z9G6R_1qQ0WKU3I2c6LXCbKWVUp8r8s=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Tiros. Garotas e Trapaças
+http://lh3.googleusercontent.com/wdQ6x0PXxahvaP7KaObT_OvK4hYr6z5JZLtGszs49A3ByVHYEeABQy45QQJd_Vy9mZo=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Em Segredo
+http://lh3.googleusercontent.com/i8Ltdf3NGsPlnIuXj0_FuQol99AcZ3lrVOVeqBCxtbLh2DdvtF-CohiDyhE1--KjLM4=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,O Homem Mais Procurado
+http://lh3.googleusercontent.com/OWLM2cPrVjS4SgyNMO2izhdEatSirGIjz_Nfw2RZBVi_MzaJl8RR-Gw5uje9PNM_9Vs=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,3 Dias Para Matar
+http://lh3.googleusercontent.com/Hn5WH9GJWyZGJXFzwMJceY8H-37G0cSXspugVJWjvl-9TVHN_ijKdKftGH8uJS0DbHk=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,O Predestinado
+http://lh3.googleusercontent.com/i4nqlBz5Oo9MoU5zuJgQjNgb_MtJflhIykJON-BBtbbOENs5oGGO203PpjUZvPMjP7o=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,O Sinal
+http://lh3.googleusercontent.com/roPPLf5td3SA2S8Zh8qIg0x255HVoMJyRsp6OJ1JJTrM2zgF0YlLS00MBEtyuFGVuAk=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,O Novato
+http://lh3.googleusercontent.com/r3OBzkUADbVFk3yxHiqkrPdGoJ53ka7JnWumB90ijltGwUv3r7NMWB4xq14ifaJd6SU=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Transcendence - A Revolucao
+http://lh3.googleusercontent.com/r82c71Jyfm7IK9HA4HjlZ403Jysm_g_mOfuQ7rIJdanxZjkOCwe5FJMb2GUAtkiLvZw=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,O Homem Duplicado
+http://lh3.googleusercontent.com/R4OZPNsxMu8XaznHq-lgByXG12WUlRC9iuisojt_PN3P4KZf_fdtfAVTvJyq0YS-GqTU=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Locke
+http://lh3.googleusercontent.com/mD-mpwcaEQQ3gqCzkpqfwucV4uEmx7xR9g7HA3xZXFBkWOpzLgLBrmhmme2fomUZqPI=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Meu Oficio e Matar
+http://lh3.googleusercontent.com/seN24AdtaRDhmmIQsLQdbcZUgg0GJ-DDWPgBki3_QdQdylxlUkMSNTYCCEygq-z91eI=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Quebrando a Banca
+http://lh3.googleusercontent.com/mC0k166rTrO-jmumAh0_7cDm6qd5_qvbQt-mESmsBrSCblrCo75gGsqUMWhjBQgZgGc=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,A Casa dos Sonhos
+http://lh3.googleusercontent.com/NY0r-rUlyr-Sbghk6f-94wm5jFOzfLIIrl_mMcJ4G6kcrspBPRuxL5iSh-OFc4V7drI=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,O Lugar Onde Tudo Termina
+http://lh3.googleusercontent.com/7m8ZSPDR-C15PoyAJYtfa2I1QfjM3nzerjeVuF-u0SOhZZ94EPcGBDesG2eNHUaTpn4=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,V de Vinganca
+http://lh3.googleusercontent.com/RHnWMw3LFjUHtn1lBY0_8GkbDRktPsvgF103e9gDmKmMIoT5FU-d2sIjC5G1j_W6Wk_2=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Numero 23
+http://lh3.googleusercontent.com/LhHu2bvj-bfFr7SoIVPdGs01MK0D-iCrIQJTZiE16afIJ-mrC-nBLXE5V4DMDh5T6Pc=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Perseguicao Virtual
+http://lh3.googleusercontent.com/HIN75P0_qVirN9omqq9bbuYgSQ2tJdCYfg1qj7mRk6lA2l84MsHqR37uLXJDphMJFKU=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Busca Alucinante
+http://lh3.googleusercontent.com/qoB3oZbxwSPjcKNXLr0ibsB_4NQLtf7GI9hXdR_CkUqD0h3bFx7qaSEfVMF1Oq6fpLoY=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Sin City: A Dama Fatal
+http://lh3.googleusercontent.com/19nSJ-PeVnWUyMQ1pvPlyjTTubONX_6q0dlwuKYPqo2kPXMML2ArW3ofI9HXIl3yy30=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,O Codigo
+http://lh3.googleusercontent.com/L3s9et5oWVp1iWZVd_MgQe3MTFu9LJfWThWyMrzEnF9MM5mlIN19I_UCEk2eT3qlYWU=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Aterrorizada
+http://lh3.googleusercontent.com/AH2jljq8W1poNu2yOqTAJvros8JnyXu0buB5tnnaTuyAWXJ8YPUTpP76j-xgm0_pPIA=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Jogos Mortais 2
+http://lh3.googleusercontent.com/S7DNU5Ke6Q_wYZIhJdCRIazt63EmuvJ8G07J_VeaCva0NObv6eBRaaRfSiSizmTpfUU=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,A Piramide
+http://lh3.googleusercontent.com/zrJcfkxC35iTC9yUmiSOP0sovzL_DGsx395oIZ6gbli3cW_aOYlP9tsWk2QKkGCJX3Y=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,A Aparicao
+http://lh3.googleusercontent.com/utUcgRsWsz93UGIiJZqd3G_vkX_dg-nzJ9NLDWOGGqlDcCbmVoPruCJUDpS1vNvnf98=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,A Casa Silenciosa
+http://lh3.googleusercontent.com/yJ-S24r4AJlv6Q_yTdZb0ee-qXVn52ElrTDjZykrPUFQjlBYfdyXyasYVG7vyUrZgv0=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Dracula - A Historia Nunca Contada
+http://lh3.googleusercontent.com/94NPclUDQdLLaGAmIMSJvzOeCh4oi3bLDHVjJ23GM6D9qhFoOTRGUsPzhxdd3E2_c9Y=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Remanescentes - Esquecidos por Deus
+http://lh3.googleusercontent.com/Sj-CuKKKdZXKQ-3Dgldl53m7JmXTYtJf9Qg-PxZ3W3bIeorYqn4EuiJW-Yl4uq90DrA=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Sobrenatural
+http://lh3.googleusercontent.com/a7jfWHF5TH0C_-RZhe2RhV9YIj9qxnrKNHKHaoEZfePwHVXnoy-9287l20T90Y6t134=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,O Pesadelo
+http://lh3.googleusercontent.com/f3dBHt8JF8L4Soeu5AyALB2aPoAHHLSRMesZu0u85Zl-x5WOhsECM5cLNTKyaVKtrZ8=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Tusk - A Transformacao
+http://lh3.googleusercontent.com/9MCmZ1Nhegr_OOsBp8osYJFhLWUfo_vZj3WkFQN2nuGgXBVcqsxYc4V0OkCljDmCHRU=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Livrai-nos do Mal
+http://lh3.googleusercontent.com/GRCJKmMg6i2PuCZiGgHPk7Xs67T7VgeMJRCh5qwGENU30P0QI4W4sW2qkKEt4OEm4ck=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Ouija - O Jogo dos Espiritos
+http://lh3.googleusercontent.com/7NWcHvKUyzAtQDE8k-gGFNwR12xPiPo45XLZ0YAOJspvhM1M45_jzA1JknocMpfALSM=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Honeymoon
+http://lh3.googleusercontent.com/oh884UH9VFxQhUeQ7U56pS0IdFyJTw82b8ZZM6hYOumwTV6CeU6JBTqNnqqnKKJ5LWM=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,O Amigo Oculto
+http://lh3.googleusercontent.com/iXBOz4w9-a2p96QBCn-C6tyDOdAlwfTGWYFJArZd1nzFyrKFQWKtvze2QwPIpyJoBfA=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Assim na Terra como no Inferno
+http://lh3.googleusercontent.com/OjMYmXFMjbJ8JcROTPTHo5QDd6H0ChNl6m3u1h_QyLJQ_jhuyGfA0AIeSapDsH-MKss=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Annabelle
+http://lh3.googleusercontent.com/ungCAuT1-9SNgsF4SrrZsPIZoVjlLLrwcxUq3cb6wQHTxO7OHvQy94ygXo0aD7o-kuo=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,O Ultimo Sacramento
+http://lh3.googleusercontent.com/UGgqs0BOEeUSVXr1_wICIDhv9Nbau7AldrffjjwiHx_goVeUoqsIr8Y31VCqa03oaEw=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,O Espelho
+http://lh3.googleusercontent.com/NEilD3mr2kDwAF7-geNdmkjPsrlDD8hbd0KGzI23v37BkVdhIGPKK6lLMkjCTVYm6C4=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Sinistro - A Maldicao do Lobisomem
+http://lh3.googleusercontent.com/svY7Yre1dwQc5m0QSfHa4Ies_wiDdKCFDg25ldw45J-X4rXkKAqme6GQGrHbzOI2bTk=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Pandorum
+http://lh3.googleusercontent.com/sthSU7UNrdu14zDta-eRORreGtiyy86TndItExLG0QtFVW47ukqUGwjIpIdCC4OEPik=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Abducao
+http://lh3.googleusercontent.com/UzUuEBhH7bOXG7gDtInM7G2ypzQEVYu_r-rgUBwmYUHNBhO_rGn3dEKTOhZIJ-AsfHQ=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,A Entidade
+http://lh3.googleusercontent.com/CJgoST7s7j1ctay-guAqwVHmLFagk2uyEY7lpAIoFNZ3rX5pzltOn63udH7pW9m2wAU=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,O Pacto
+http://lh3.googleusercontent.com/cs9A3n0coNPiHzigwr83u0-IPMHDxHS9PURpi7LD2VWc3TYk40mkM-k8L9MSNlu95jo=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Stake Land - Anoitecer Violento
+http://lh3.googleusercontent.com/9nYQAvCg4VL6KWUJI9FSjKhm2dUvUx_8wX9D-Km8oq2IRtoGxZaaOpqxOPIVXqCFHYA=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,A Casa de Cera
+http://lh3.googleusercontent.com/gDABYgiHLNOo9QgjgB9T9J0x4a9UWJFSALNiJBd8ANvh7I0MI4zF4ASV7yjlmba8jCs=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Uma Noite de Crime
+http://lh3.googleusercontent.com/aNGzoDCWNIJKBQkPoW2CCx-HvHIxsWmHPkIRUeMXlzNlo8Ab8R5Rz7ys81KM23dd284=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Uma Noite de Crime 2: Anarquia
+http://lh3.googleusercontent.com/RCV1FlQjRd_XWhDogW3b42UgHTbrxAj_lwlKajLDfGuz5_ieDUvnD85Cfu7uoFcR2kY=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Demonio
+http://lh3.googleusercontent.com/2YxVHk8DAY2gyDUy4HDqx30x18-UxGAZohDm2OpYF57HNTr_vjmHG69-U_-XYws2gI8=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Constantine
+http://lh3.googleusercontent.com/dlnZgTV55Z3t18eGbhW7muszzU4u41AVL0vi29ZsZ70aex-aYEPyteV88mlTQkvZZ20=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Uma Noite para Esquecer
+http://lh3.googleusercontent.com/_kZa0ybCJ25ufKjzHoZJHXLiew_hkoaUA5OMLR9NsCoMILAquSu6KqS6Ephx_NdBs3g=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Noite de Travessuras
+http://lh3.googleusercontent.com/TTLCAPF_QPmtq82dhGrDEERhJVmdAwdVMxRtIBVy6nP_qMt1OR7tiRyLMxIFkRPPNuPb=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Todo Mundo quase Morto
+http://lh3.googleusercontent.com/U4sQ9Q63ZsWI9qUSwfwhejHGjiRNOVtUQxjyhiyGY57gxBR0ddsgFqCMNuYIi6eAzZc=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,V/H/S/2
+http://lh3.googleusercontent.com/zWhBdTKACHo1aUgZt5kYEzGISEci0Zi_SIYp9BlQzAcfWkeZhagcmbuJxPSr1MZ-7Vg=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,A Marca do Medo
+http://lh3.googleusercontent.com/BPQEN6FTQVzAe7blvSmU4iC-wODbk1W5aElTlVLuYzZzY2QYid2UdtuSmDDou-GCmZ8=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Do lado de fora
+http://lh3.googleusercontent.com/yCe2sBPzIHfQ4o6cn_YQ2TWC0NXayP4RWiK3Niw1yLLFJ2m9urzQIUX1SSkFbx5cYGo=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Boa Sorte
+http://lh3.googleusercontent.com/IfESROafKmdIwS26nrmI0uI5HI6uCMh16BOauBfrUZqtzF1I6rKUCsVLPtjWncBnkME=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Na Quebrada
+http://lh3.googleusercontent.com/jFjqSlPqPRYp61N9lf_0EsCbk_kXdfk6NBvs7hOUtA7q6hQR-T7g8wZbPtSH7YjCn7c=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Os Caras de pau em O misterioso roubo do anel
+http://lh3.googleusercontent.com/K0ULXT-MX9gyMiLJ_1Cee-iwejRt-Vc6TpIBRWiyP5A4jGX87hoTXA5Q5ay3LKuAe_o=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" , Loucas pra Casar
+http://lh3.googleusercontent.com/JC78QldoLDN_va38BasMoSCQoWFbSRgPRiYfCffHh_YULnYeJQnFegXVcdifvBLlOY0=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" , Blade. O Cacador de Vampiros
+http://lh3.googleusercontent.com/Xh-50SzkP_TLN1WKr-0CNSs9OvlCVAULaZfhYpcoNBo6ceRg-HS4zfZkFuiz2_K7s10=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" , Mare vermelha
+http://lh3.googleusercontent.com/nyspuWa5TzE9LU1dwP5-1ubh13GV-nclKLfKv7HBa5_tXL_ySpQfJIkl_tNX4G-DTB4=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Alemio
+http://lh3.googleusercontent.com/DPsioO4xg0DZTtJe7Uu2aT6EOKhbgkzv4DxuVBSDeTEPZcbiPMiw8nsiXw_2CQSX5wk=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Praia do Futuro
+http://lh3.googleusercontent.com/4JP2_e88hdO348HJH-tbXd7Q2HojBWDEMynFjV-dRS1Xvrq_ThU6iUa6u9k4-HhfGLvM=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Entre Nos
+http://lh3.googleusercontent.com/KftdjJpt9xVs5UE8M4cyXq1V_tce3MB1KPnb0rhyKczV73Z8tmAotz9nSjPHy1r8EKI=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,O Candidato Honesto
+http://lh3.googleusercontent.com/U55yF097-hz3coog1ZTeVjvllGvWXc2CDOwr4BZbsarZDWnHaNrrcwzbHf-yHvhK3Ac=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,O Lobo Atras da Porta
+http://lh3.googleusercontent.com/13KHPhjpo_BfFBynx37TgjwIdW80brlxEWij2-NrfL_8exVzU99QixlDUlkbdr7vtus=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Getulio
+http://lh3.googleusercontent.com/jwBDLklOWqsMDIUzYuMaTOLg46k8lzHOa54pzAfEcAyQRwwAexeoeHKLhbbxJTEyTcE=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Irmi Dulce
+http://lh3.googleusercontent.com/rt0ThyMX4Qc478DB8o6k8d2bgP4wEBkZL9_NzYne0vJDzBV57kXjQxcS8Dh7_5jJiXM=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" , Quem Encontra um Amigo: Encontra um Tesouro
+http://lh3.googleusercontent.com/ZVeMxeISvrT3R_r76cUlyNURiTp2TfrAa8UFluZO__ppuewALR4ciA48KmLbRNmsj8U=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" , Clube da Luta
+http://lh3.googleusercontent.com/DDGienbPyLgdJuQcDva10ZJcqSlIc0Qfx4ttlsGXSKziZRM6g_3YwXbTtHhXthp_1Uw=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" , Laranja Mecanica
+http://lh3.googleusercontent.com/Bg-Pe7SZH0_PGUaGIhxaMrZKuA3PnQBKE7RG9RDyCjzKvKjpxrm-dAiLj1RWgCxSYpM=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" , Um Sonho de Liberdade
+http://lh3.googleusercontent.com/PttWqpC4SIb67kGC4UUL61R0JR0Jqde-F8Pr-Iu7Qu-KzZzUCFWhhe3gwkgp3gaozK0=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" , Shocker
+http://lh3.googleusercontent.com/JsYQSYOYyreBjFK-T0sjA1mPeLsXuzDZ89D3VT8RiZXCXlQCJCxTHkklthhP_bkKDjY=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" , Apollo 13
+http://lh3.googleusercontent.com/ld7AXlabXPnq3Xl4kX7XmiCgSqbqbNobyxGxQOgBcXECnT4UhrnutbamueMPgOkioHM=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" , O Orfanato
+http://lh3.googleusercontent.com/Axq8sCyuhWKmMOULtLW_8hUycMOKzqwMzdFnCs0hGKNB0AFP82FDYzKIYyFYxP4PdpA=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" , Amaldii§oado
+http://lh3.googleusercontent.com/qBW6o8LJesfHn7yc4NGMGp5290FH6ZtnkMx3weoE1ufdKKV0jpge_MgXulvITeXrnmk=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" , Outpost 2 - Inferno Negro
+http://lh3.googleusercontent.com/DL2cuWConhKBIH2pyIaSw7BihUZcflu27Bf2MRN-n8Ct9VpCcgsx-4-8OtNxJPdEVckx=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" , Everest
+http://lh3.googleusercontent.com/2y9Bjvcgi1DoiFnIIwjLBrz3fjx_7rfsiX0WbKLKpc1jC63Ha5NJFgyDly-Ohv7JXW0=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" , Trash - A Esperanca Vem do Lixo
+http://lh3.googleusercontent.com/qeca7huLKFHR2kUwgjYYM-9opN-uQz1aUJg29VU6GVgXhE0orHHnmepRmObO_d1I2ss=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Bosque Macabro
+http://lh3.googleusercontent.com/jsZCDH5OlTzOiNUBmZx-w8-yKB-YhwQd0ZkUglvJL4o--A_8v94MOtgHcB2DerqqPWnl0Bov=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Familia do Bagulho
+http://lh3.googleusercontent.com/VDSuK6zXc_5aPRxXUd3jbLPxE8VBSukn4gjG2Vb204OBx9ZBoi6slhqWL9S4ZiO5Bnp-Io6KUg=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Sniper Americano
+http://lh3.googleusercontent.com/kxFv8YbaZhJVTSK_3v18NuhVtrZ69TT20ARUV7RCP_jRfV_6Sd05NHR6pWa-357iJzkK3g0y=m18
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Sombras da Noite
+http://lh3.googleusercontent.com/2V8JxE58VRTxUV62RB__WFimKW6GqGfdkosP3lKcPuD5TkcCIfUrCTOfhkuebK4Iz1Mq1iPhoHzS=m18
+
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,12 Horas
+http://media-br-am.crackle.com/1/3/v6/11zlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,1984
+http://media-br-am.crackle.com/1/p/f6/75ylf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,8mm - Oito Milimetros
+http://media-br-am.crackle.com/1/4/v6/51zlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,A Beira do Abismo
+http://media-br-am.crackle.com/1/1/v6/r1zlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,A Era da Escuridao - Mutant Chronicles
+http://media-br-am.crackle.com/1/e/f6/w4ylf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,A festa nunca termina 
+http://media-br-am.crackle.com/1/q/f6/85ylf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,A Garota dos Meus Sonhos 
+http://media-br-am.crackle.com/1/v/z6/gsvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,A Grande Jogada 
+http://media-br-am.crackle.com/1/g/z6/otvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,A Guerra De Hart
+http://media-br-am.crackle.com/1/3/v6/01zlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,A Heranca de Mr. Deeds 
+http://media-br-am.crackle.com/1/g/n6/r7ulf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,A Hora do Rango 
+http://media-br-am.crackle.com/1/u/l6/7ewlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,A Informante 
+http://media-br-am.crackle.com/1/j/l6/ydwlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,A Jovem Rainha Victoria
+http://media-br-am.crackle.com/1/y/f6/66ylf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,A Lula e a Baleia
+http://media-br-am.crackle.com/1/5/f6/17ylf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,A Primeira Vista
+http://media-br-am.crackle.com/1/h/16/zaylf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,A Rosa Purpura do Cairo
+http://media-br-am.crackle.com/1/_/x6/26wlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,A Ultima Missao 
+http://media-br-am.crackle.com/1/m/h6/16vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Adeus Amor
+http://media-br-am.crackle.com/1/-/d6/g5vlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Adoraveis Mulheres
+http://media-br-am.crackle.com/1/3/f6/s7ylf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Africa dos Meus Sonhos
+http://media-br-am.crackle.com/1/0/16/6o1lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Agente Indomavel
+http://media-br-am.crackle.com/1/q/v6/hnvlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,All That Jazz: O Show Deve Continuar 
+http://media-br-am.crackle.com/1/_/d6/i5vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Almondegas 4 - Ferias de Verao 
+http://media-br-am.crackle.com/1/q/v6/jkvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Amar  Trair e Roubar 
+http://media-br-am.crackle.com/1/q/v6/kkvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Ameaca Virtual
+http://media-br-am.crackle.com/1/z/16/2o1lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Amigo de Casa 
+http://media-br-am.crackle.com/1/w/z6/ksvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Anjos da Noite 3 - A Rebeliao
+http://media-br-am.crackle.com/1/2/16/dp1lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Apenas Uma Vez
+http://media-br-am.crackle.com/1/y/f6/86ylf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Aprendendo A Viver 
+http://media-br-am.crackle.com/1/8/d6/84vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,As coisas impossiveis do amor
+http://media-br-am.crackle.com/1/y/z6/rsvlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,As Duas Faces Da Lei 
+http://media-br-am.crackle.com/1/r/v6/okvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,As Faces de Helen 
+http://media-br-am.crackle.com/1/g/f6/44ylf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Assalto Sobre Trilhos 
+http://media-br-am.crackle.com/1/5/f6/07ylf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Atraidos Pelo Destino 
+http://media-br-am.crackle.com/1/e/l6/edwlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Bastidores de um Casamento
+http://media-br-am.crackle.com/1/w/v6/80zlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Beast Wars - Fim Da Linha 
+http://media-br-am.crackle.com/1/h/j6/i0ulf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Bolas em Panico 
+http://media-br-am.crackle.com/1/l/l6/7gwlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Bon Jovi - Stadium Concert
+http://media-br-am.crackle.com/1/j/f6/j2ylf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Brinquedo Assassino 
+http://media-br-am.crackle.com/1/j/l6/0dwlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Brokeback Mountain
+http://media-br-am.crackle.com/1/t/am/vddyb_480p_1mbps.mp4
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Cada um Vive Como Quer
+http://media-br-am.crackle.com/1/-/j6/t3ulf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Caes de Guerra 
+http://media-br-am.crackle.com/1/p/v6/fkvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Caminhos Opostos 
+http://media-br-am.crackle.com/1/q/f6/a6ylf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Casamento as Avessas 
+http://media-br-am.crackle.com/1/g/f6/34ylf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Cativeiro 
+http://media-br-am.crackle.com/1/h/z6/stvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Christine - O Carro Assassino
+http://media-br-am.crackle.com/1/2/n6/79ulf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Cinturao Vermelho 
+http://media-br-am.crackle.com/1/g/v6/fjvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Codigo de Honra
+http://media-br-am.crackle.com/1/3/16/kp1lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Coisas Belas E Sujas 
+http://media-br-am.crackle.com/1/4/d6/o4vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Como Conquistar Uma Mulher 
+http://media-br-am.crackle.com/1/i/z6/vtvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Comportamento Suspeito
+http://media-br-am.crackle.com/1/6/f6/37ylf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Conquista Sangrenta
+http://media-br-am.crackle.com/1/1/v6/s1zlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Corpo em Evidencia 
+http://media-br-am.crackle.com/1/j/16/97wlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Crash: No Limite 
+http://media-br-am.crackle.com/1/z/z6/usvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Desafio Radical 
+http://media-br-am.crackle.com/1/w/z6/jsvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Desaparecidas
+http://media-br-am.crackle.com/1/9/l6/wjwlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Divisao de Homicidios 
+http://media-br-am.crackle.com/1/f/f6/z4ylf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Encontros ao Acaso 
+http://media-br-am.crackle.com/1/y/f6/73ylf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Enquanto Ela Esta Fora 
+http://media-br-am.crackle.com/1/r/d6/9zvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Equilibrio 
+http://media-br-am.crackle.com/1/v/d6/n3vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Erin Brockovich - Uma Mulher de Talento
+http://media-br-am.crackle.com/1/j/f6/f5ylf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Estrada Maldita
+http://media-br-am.crackle.com/1/3/f6/r7ylf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Estranha Obsessao 
+http://media-br-am.crackle.com/1/b/h6/r5vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Eu Sei Quem Me Matou 
+http://media-br-am.crackle.com/1/z/f6/96ylf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Excesso de Bagagem 
+http://media-br-am.crackle.com/1/v/z6/esvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Fantasmas de Marte
+http://media-br-am.crackle.com/1/0/16/5o1lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Feitico da Lua
+http://media-br-am.crackle.com/1/2/16/gp1lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Femme Fatale 
+http://media-br-am.crackle.com/1/c/16/e7wlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Fido - O Mascote 
+http://media-br-am.crackle.com/1/y/d6/40vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Flores Partidas 
+http://media-br-am.crackle.com/1/j/z6/0tvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Fuga de Absolom
+http://media-br-am.crackle.com/1/w/n6/j9ulf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Funcionario do Mes
+http://media-br-am.crackle.com/1/g/z6/ptvlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Garotas Selvagens 4
+http://media-br-am.crackle.com/1/1/16/9o1lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Gattaca  a Experiencia Genetica
+http://media-br-am.crackle.com/1/r/z6/yuvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Gleria
+http://media-br-am.crackle.com/1/w/n6/k6ulf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Godzilla 
+http://media-br-am.crackle.com/1/4/f6/v7ylf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Grande Hotel 
+http://media-br-am.crackle.com/1/5/d6/v4vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Greta 
+http://media-br-am.crackle.com/1/y/z6/ssvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Hackers - Piratas de Computador
+http://media-br-am.crackle.com/1/z/16/1o1lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Harley Davidson E Marlboro Man - Cacada Sem Tregua 
+http://media-br-am.crackle.com/1/l/v6/zjvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Haven 
+http://media-br-am.crackle.com/1/h/16/yaylf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Herois Imaginarios 
+http://media-br-am.crackle.com/1/f/z6/ltvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Homens Perigosos 
+http://media-br-am.crackle.com/1/b/h6/o8vlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Homens de Preto
+http://media-br-am.crackle.com/1/h/v6/hmvlf_480p_1mbps.mp4
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Honra & Coragem - As Quatro Plumas 
+http://media-br-am.crackle.com/1/6/d6/04vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Hooligans: Furia nos campos 
+http://media-br-am.crackle.com/1/x/z6/lsvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Horas de Desespero 
+http://media-br-am.crackle.com/1/n/v6/5jvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Hotel Ruanda 
+http://media-br-am.crackle.com/1/0/d6/a4vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Impacto Mortal 
+http://media-br-am.crackle.com/1/n/v6/6jvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Inocente ou Culpado 
+http://media-br-am.crackle.com/1/t/d6/h3vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Ironias do Amor
+http://media-br-am.crackle.com/1/x/h6/97vlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,JCVD 
+http://media-br-am.crackle.com/1/5/f6/y7ylf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Jogando com Prazer 
+http://media-br-am.crackle.com/1/v/z6/fsvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Jogos Trapacas E dois Canos Fumegantes 
+http://media-br-am.crackle.com/1/n/um/rbeyb_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Jogue a Mamae do Trem - Comedia
+http://media-br-am.crackle.com/1/2/v6/y1zlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Jovens Bruxas
+http://media-br-am.crackle.com/1/f/l6/hdwlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Kalifornia - Uma Viagem ao Inferno 
+http://media-br-am.crackle.com/1/r/v6/lkvlf_480p_1mbps.mp4?LHMTv					
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Kung-Fu Futebol Clube 
+http://media-br-am.crackle.com/1/0/d6/83vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Kung-Fusao
+http://media-br-am.crackle.com/1/s/n6/65ulf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Laurel Canyon - A Rua das Tentacoes
+http://media-br-am.crackle.com/1/u/l6/8ewlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Lawrence da Arabia
+http://media-br-am.crackle.com/1/i/z6/ytvlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Lembrancas de Hollywood 
+http://media-br-am.crackle.com/1/9/l6/zjwlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Lenda Urbana 3 - A Vinganca de Mary
+http://media-br-am.crackle.com/1/v/n6/f9ulf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Lendas da Paixao
+http://media-br-am.crackle.com/1/8/l6/ujwlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Malicia
+http://media-br-am.crackle.com/1/g/16/taylf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Marcas do Passado
+http://media-br-am.crackle.com/1/g/z6/ntvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Matador de Aluguel
+http://media-br-am.crackle.com/1/z/f6/d4ylf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Menina Ma.com
+http://media-br-am.crackle.com/1/y/n6/ty2lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Meus Quinze Anos
+http://media-br-am.crackle.com/1/j/96/uz1lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Mal Posso Esperar
+http://media-br-am.crackle.com/1/v/96/a41lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Mergulho Radical 2
+http://media-br-am.crackle.com/1/r/v6/mkvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Meu Primeiro Amor 
+http://media-br-am.crackle.com/1/z/16/4o1lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Meu Primeiro Amor - Parte 2
+http://media-br-am.crackle.com/1/z/16/4o1lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Mixed Nuts
+http://media-br-am.crackle.com/1/z/56/cw1lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Modigliani
+http://media-br-am.crackle.com/1/w/z6/isvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Nao Adianta Fugir
+http://media-br-am.crackle.com/1/r/v6/nkvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Nao eh Mais Um Besteirol Americano
+http://media-br-am.crackle.com/1/n/d6/tzvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Nao Sem a Minha Filha
+http://media-br-am.crackle.com/1/r/f6/c6ylf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Nem por cima do Meu Cadaver
+http://media-br-am.crackle.com/1/x/h6/87vlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Nem Tudo eh o Que Parece
+http://media-br-am.crackle.com/1/j/z6/2qvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,O Balconista
+http://media-br-am.crackle.com/1/v/h6/17vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,O Cantor
+http://media-br-am.crackle.com/1/i/z6/wtvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,O Casamento de Rachel
+http://media-br-am.crackle.com/1/1/16/ap1lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,O Colecionador de Ossos
+http://media-br-am.crackle.com/1/f/f6/14ylf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,O Despertar de Uma Paixao
+http://media-br-am.crackle.com/1/w/h6/77vlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,O Grande Anjo Negro
+http://media-br-am.crackle.com/1/q/v6/invlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,O Grito 2
+http://media-br-am.crackle.com/1/6/16/tp1lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,O Guardiao
+http://media-br-am.crackle.com/1/k/l6/3dwlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,O Guardiao 2
+http://media-br-am.crackle.com/1/g/16/vaylf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,O Guardiao 3 
+http://media-br-am.crackle.com/1/i/16/4aylf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,O Ilusionista
+http://media-br-am.crackle.com/1/z/z6/vsvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,O Inquilino
+http://media-br-am.crackle.com/1/c/n6/b7ulf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,O Julgamento de Paris
+http://media-br-am.crackle.com/1/b/16/99wlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,O Legionario
+http://media-br-am.crackle.com/1/9/d6/a5vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,O Oposto do Sexo
+http://media-br-am.crackle.com/1/e/l6/gdwlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,O Paraiso eh Logo Aqui
+http://media-br-am.crackle.com/1/y/d6/20vlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,O Povo contra Larry Flint
+http://media-br-am.crackle.com/1/3/16/ip1lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,O Principal Suspeito
+http://media-br-am.crackle.com/1/u/h6/z7vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,O Rancho do Amor
+http://media-br-am.crackle.com/1/q/v6/ikvlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,O Retorno do Campeao
+http://media-br-am.crackle.com/1/y/z6/qsvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,O Sangue de Romeo
+http://media-br-am.crackle.com/1/q/v6/hkvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,O Segredo de Brokeback Mountain
+http://media-br-am.crackle.com/1/k/l6/2dwlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,O Senhor Das Armas
+http://media-br-am.crackle.com/1/j/z6/2tvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,O Sequestro do Metro
+http://media-br-am.crackle.com/1/4/v6/3ovlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,O Tango e o Assassino
+http://media-br-am.crackle.com/1/h/d6/5yvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,O Vigarista do Ano
+http://media-br-am.crackle.com/1/y/z6/psvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Oliver!
+http://media-br-am.crackle.com/1/6/f6/27ylf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Os Produtores
+http://media-br-am.crackle.com/1/d/l6/bdwlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Os Reis de dogtown
+http://media-br-am.crackle.com/1/1/n6/39ulf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Os safados
+http://media-br-am.crackle.com/1/a/16/96wlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Os Seus os Meus e os Nossos
+http://media-br-am.crackle.com/1/a/h6/m8vlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Ouro Branco
+http://media-br-am.crackle.com/1/u/h6/y7vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Poder e Corrupcao
+http://media-br-am.crackle.com/1/z/n6/y9ulf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Por Amor
+http://media-br-am.crackle.com/1/j/z6/ztvlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Primeira Descida
+http://media-br-am.crackle.com/1/y/d6/30vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Procurando Encrenca
+http://media-br-am.crackle.com/1/v/h6/07vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Procura-se um Bum Bum Desesperadamente
+http://media-br-am.crackle.com/1/o/j6/byulf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Provas e Trapacas
+http://media-br-am.crackle.com/1/x/z6/msvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Quando um Estranho Chama
+http://media-br-am.crackle.com/1/p/f6/45ylf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Quarentena
+http://media-br-am.crackle.com/1/p/v6/gkvlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Quase Ilegal
+http://media-br-am.crackle.com/1/n/v6/7jvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Red: Aposentados e Perigosos
+http://media-br-am.crackle.com/1/q/f6/b6ylf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Rede de Intrigas
+http://media-br-am.crackle.com/1/t/d6/i3vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Replicante
+http://media-br-am.crackle.com/1/4/f6/w7ylf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Risco Absoluto
+http://media-br-am.crackle.com/1/b/16/aaylf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Ruslan - Vinganca Explosiva
+http://media-br-am.crackle.com/1/s/d6/d3vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,S.W.A.T.
+http://media-br-am.crackle.com/1/k/f6/m2ylf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Secretaria
+http://media-br-am.crackle.com/1/-/x6/16wlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Seducao Fatal
+http://media-br-am.crackle.com/1/w/z6/hsvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Sedutora e Diabolica
+http://media-br-am.crackle.com/1/h/z6/rtvlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Segundas Intencoes 3
+http://media-br-am.crackle.com/1/5/16/qp1lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Sem Saida
+http://media-br-am.crackle.com/1/m/l6/chwlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Sete Vidas
+http://media-br-am.crackle.com/1/z/16/3o1lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Sitie
+http://media-br-am.crackle.com/1/g/f6/54ylf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Sob Suspeita (2006)
+http://media-br-am.crackle.com/1/_/x6/36wlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Sociedade Feroz
+http://media-br-am.crackle.com/1/a/l6/ycwlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Soldado Universal 3
+http://media-br-am.crackle.com/1/i/z6/utvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Solteira Procura 2
+http://media-br-am.crackle.com/1/r/n6/05ulf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Sou Espiao
+http://media-br-am.crackle.com/1/m/f6/t5ylf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Stigmata
+http://media-br-am.crackle.com/1/z/v6/j1zlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Studio 54
+http://media-br-am.crackle.com/1/3/d6/l4vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Superbad - Eh Hoje
+http://media-br-am.crackle.com/1/q/d6/32vlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Swingers - Curtindo a Noite
+http://media-br-am.crackle.com/1/u/h6/v7vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Tempos de Violencia
+http://media-br-am.crackle.com/1/r/d6/b0vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Tentaculos
+http://media-br-am.crackle.com/1/m/v6/1jvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,The Final Cut
+http://media-br-am.crackle.com/1/j/4l/1wcyb_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,The Woman In The Fifth
+http://media-br-am.crackle.com/1/j/il/49owb_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Torturado
+http://media-br-am.crackle.com/1/s/d6/e3vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Trabalho Sujo
+http://media-br-am.crackle.com/1/m/v6/4jvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Tres Amigos!
+http://media-br-am.crackle.com/1/y/f6/76ylf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Tres Formas de Amar
+http://media-br-am.crackle.com/1/p/h6/b7vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Tres Mulheres Tres Amores
+http://media-br-am.crackle.com/1/p/d6/12vlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Tudo que voce precisa saber sobre Sexo
+http://media-br-am.crackle.com/1/n/f6/w2ylf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Uma Turma do Barulho
+http://media-br-am.crackle.com/1/n/f6/y2ylf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Uma Noiva e Tanto
+http://media-br-am.crackle.com/1/c/n6/96ulf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Uma Beleza de Salao
+http://media-br-am.crackle.com/1/r/f6/d6ylf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Um Voo Muito Louco
+http://media-br-am.crackle.com/1/l/56/tr1lf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Um Tira Muito Suspeito
+http://media-br-am.crackle.com/1/f/h6/75vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Um Segredo entre Nos
+http://media-br-am.crackle.com/1/z/f6/b7ylf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Um Peixe Chamado Wanda
+http://media-br-am.crackle.com/1/i/f6/c2ylf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Um Ninja em Beverly Hills
+http://media-br-am.crackle.com/1/d/p6/kkwlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Um Homem Fora de Serie
+http://media-br-am.crackle.com/1/v/n6/i6ulf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Um Homem Bom
+http://media-br-am.crackle.com/1/s/d6/c0vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Um Dia Muito Louco
+http://media-br-am.crackle.com/1/z/56/cw1lf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Um Crime entre Amigas
+http://media-br-am.crackle.com/1/e/n6/h7ulf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Um Beijo Roubado
+http://media-br-am.crackle.com/1/z/z6/tsvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Um Ato de Liberdade
+http://media-br-am.crackle.com/1/z/f6/c7ylf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Um Amor de Verao
+http://media-br-am.crackle.com/1/y/16/0o1lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Vou te Pegar Otario
+http://media-br-am.crackle.com/1/m/v6/3jvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Violacao de Privacidade
+http://media-br-am.crackle.com/1/1/d6/c4vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Vinganca
+http://media-br-am.crackle.com/1/r/d6/a0vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Vidas que se Cruzam
+http://media-br-am.crackle.com/1/f/z6/ktvlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Viciado em Sexo
+http://media-br-am.crackle.com/1/w/v6/7kvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Vestida para Matar
+http://media-br-am.crackle.com/1/p/v6/ekvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Vamos Nessa
+http://media-br-am.crackle.com/1/1/n6/69ulf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Wasabi
+http://media-br-am.crackle.com/1/q/d6/42vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,xXx 2 - Estado de Emergencia
+http://media-br-am.crackle.com/1/r/z6/wuvlf_480p.mp4?LHMTv
+
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Zootropolis
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/154.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Whiskey Tango Foxtrot
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/173.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Viram Se Novamente Gregos Para Casar
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/172.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,The Young Messiah
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/152.mkv?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,The Offering
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/151.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,The Duel
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/170.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,The Do-over
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/150.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,The Confirmation
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/171.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,The Brothers Grimsby
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/149.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Sponge Bob Esponja Fora De Agua
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/147.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,O Nosso Milagre
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/169.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,O Escaravelho Do Diabo
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/168.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Never Back Down No Surrender
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/167.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Minimos
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/146.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Marauders
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/166.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Manhattan Night
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/145.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Kiddo O Super Camiao
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/144.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Home
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/143.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Hardcore Henry
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/142.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Girl In Woods
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/164.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Frozen Reino Gelo
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/153.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Emmas Chance
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/163.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Electra Woman And Dyna Girl
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/141.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Eddie The Eagle
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/140.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Demolicao
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/162.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Deadly Intent
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/161.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Dead Rising Endgame
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/160.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Dads Army
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/139.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Da Serie Divergente Convergente
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/159.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Criminoso
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/138.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Code Of Honor
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/137.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Cell Chamada Para A Morte
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/158.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Brahman Naman
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/175.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Before I Wake
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/157.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Batman V Super Homem O Despertar Da Justica
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/156.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Barbershop The Next
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/174.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Avioes Equipa De Resgate
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/136.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Alice Do Outro Lado Do Espelho
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/155.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Abelha Maia
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/135.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,7 Anao O Pequeno Heroi
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/133.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,13 Horas Os Soldados Secretos De Benghazi
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/134.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Zootopia
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/127.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Zoolander 2
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/126.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Uma Escolha Por Amor
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/119.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Um Avo Muito A Frente
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/83.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Triple 9
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/125.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,The Witch
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/76.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,The Veil
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/124.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,The Trust
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/130.mkv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,The Dead Room
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/120.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,The Boy - Segue As Regras
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/118.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Tevar
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/117.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Tempo Limite
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/132.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Stealing Cars
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/116.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Special Correspondents
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/115.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Sniper: Special Ops
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/114.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Salve, Cesar!
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/91.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Sacrifice
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/113.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Reza Lenda
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/111.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Ressurreicao
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/112.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Pee-wee's Big Holiday
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/109.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Pandemic
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/75.mkv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Outcast - O Ultimo Templario
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/108.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Os Deuses Do Egipto
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/100.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,O Cacador E A Rainha Do Gelo
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/122.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Nowhere Boys: The Book Of Shadows
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/107.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Norm - O Heroi Do Artico
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/129.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Mothers And Daughters
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/106.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Misconduct
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/105.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Midnight Special
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/104.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Lego Scooby-doo!: Haunted Hollywood
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/102.mkv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Leao Da Estrela
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/131.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Lake Eerie
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/94.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Kindergarten Cop 2
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/101.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Killing Jesus
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/88.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Jarhead 3: The Siege
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/87.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,I Am Wrath
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/80.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Hush
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/74.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Horas Decisivas
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/121.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Holidays
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/92.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Factor De Risco
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/123.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Emelie
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/84.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Duplo Confronto
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/110.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Diablo
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/90.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Devdas
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/99.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Decay
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/82.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Deadpool
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/79.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Como Ser Solteira
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/93.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Capitao America: Guerra Civil
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/98.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Cabin Fever
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/81.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Brothers
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/97.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Boog E Elliot Aventura Na Floresta
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/128.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Barbie E As Agentes Secretas
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/89.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Assalto A Londres
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/103.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,As Cinquenta Sombras De Black
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/85.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Arranha Ceus
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/86.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Antonio Raminhos Apresenta As Marias
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/96.mkv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Amor Em Roma
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/78.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,10 Cloverfield Lane
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/77.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Umrao Jaan
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/61.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,The Hoarder
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/64.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,The Girl In The Photographs
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/69.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Star Wars: O Despertar Da Forca
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/51.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Snoopy E Charlie Brown: Peanuts
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/50.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Remember
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/49.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Ramaiya Vastavaiya
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/68.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Policias Em Grandes Apuros
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/71.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Orgulho E Preconceito E Guerra
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/48.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,O Principezinho
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/52.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Muito A Frente
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/67.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Kung Fu Panda 3
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/47.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Jazbaa
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/65.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,James White
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/63.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Ip Man 3
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/46.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Heropanti
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/56.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Get A Job
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/54.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Fourth Man Out
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/45.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Ek Tha Tiger
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/62.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Curse Of The Witching Tree
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/55.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Bem Vindo Ao Afeganistao
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/53.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,As Armas De Jane
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/59.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,A Viagem De Arlo
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/43.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,A Guarda Do Leao O Regresso Do Rugido
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/70.mkv?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,A 5 Vaga
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/42.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Victor Frankenstein
+http://149.202.72.15:8000/movie/afonso/jorge/791.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Verdade
+http://149.202.72.15:8000/movie/afonso/jorge/792.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,The Overnight
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/29.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,The Lobster
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/26.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,The Forest
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/25.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,The Boy
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/20.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Terminus
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/3.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Standoff
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/24.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Southbound
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/23.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,So Podiam Ser Irmas
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/38.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Sem Compromissos
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/19.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Samurai Cop 2: Deadly Vengeance
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/39.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Rainha Do Deserto
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/22.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Point Break Cacadores De Emocoes
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/37.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Pan: Viagem A Terra Do Nunca
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/10.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Pai So Ha Um
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/36.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Os Coopers Sao O Maximo
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/17.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Os 33
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/4.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,O Segredo Dos Seus Olhos
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/12.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Moonwalkers
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/18.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Monster High: Boo York, Boo York Pt
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/9.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Junto Ao Mar
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/41.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Jogos Da Fome - A Revolta 2
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/35.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Jeruzalem
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/6.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Hotel Transylvania 2 Pt
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/28.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Forsaken
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/27.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Criminal Activities
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/16.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Cartel Land
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/5.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,American Hero
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/14.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,Alvin E Os Esquilos: A Grande Aventura
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/44.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,*****erers
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/7.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,A Ultima Noitada
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/32.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,A Senhora Da Furgoneta
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/33.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,A Modista
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/30.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,90 Minutes In Heaven
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/40.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/lhmtv-bonus.png" group-title="Sessão Bonus" ,45 Anos
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/11.mp4?LHMTv
