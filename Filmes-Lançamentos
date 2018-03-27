@@ -1,6 +1,28 @@
 #EXTM3U
 
 
+
+#EXTINF:-1 tvg-logo="https://goo.gl/cgybHP" group-title="2018",CÍRCULO DE FOGO A REVOLTA
+http://player720p.com/filmes/circulodefogo.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/o7ca5y" group-title="2018",CONSPIRAÇÃO TERRORISTA
+http://player720p.com/filmes/conspiracao.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/zmxFAv" group-title="2018",PERDA TOTAL
+http://player720p.com/filmes/perdatotal.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/LC7GWt" group-title="2018",LIGA DOS DEUSES
+http://chronos.feralhosting.com/locaweb123/2017/filmes/2017/l1g4d05d3u535.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/pYNeNe" group-title="2018",STEEL RAIN
+http://player720p.com/filmes/steel.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/Uu337B" group-title="2018",VAMPS A MORTE NÃO EXISTE PARA O AMOR
+http://player720p.com/filmes/vamps.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/Xugavp" group-title="2018",PEDRO COELHO
+http://player720p.com/filmes/pedrocoelho.mp4
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/fpeX7q6878v3Oo6uoQvKzBzK7Ls.jpg" group-title="2018",Tomb Raider: A Origem
 http://player720p.com/filmes/tomb.mp4
 
