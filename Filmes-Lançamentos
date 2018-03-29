@@ -1,6 +1,44 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-logo="https://goo.gl/gauQ2M" group-title="2018", THE POST: A GUERRA SECRETA (LEG - 2018)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/THEPOST2017LEG-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/KPKTWC" group-title="2018", O DESTINO DE UMA NAÇÃO (LEG)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/DARKEST2017LEG-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/tqYgpE" group-title="2018", ESPIÃO POR ACASO (DUB)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/ESPIAO2018LEG-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/cLTazL" group-title="2018", GOSTO SE DISCUTE (NAC)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/G0ST0S3DISCUT3-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/BBject" group-title="2018", HACKER: TODO CRIME TEM UM INÍCIO (DUB)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/HACKERDUB-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/5P128M" group-title="2018", DOENTES DE AMOR (DUB)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/BIGSICKDUB-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/LRFFpa" group-title="2018", The Outsider (LEG)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/THEOUTSIDE2018LEG-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/Gh8nGb" group-title="2018", BRAVEN (LEG)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/BRAVEN18LEG-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/kR2prc" group-title="2018", LEGO: SUPER-HEROES - THE FLASH (LEG)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/LEGOTHEFLASHLEG-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/yEDFYo" group-title="2018", PADDINGTON 2 (DUB)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/PADDINGTON2-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/KWPp68" group-title="2018", CORRIDA MORTAL 4 (LEG)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/DEATHRACE4-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/xfZtWm" group-title="2018", BENJI (DUB)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/BENJI2018DUB-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/qMMdq7" group-title="2018", FALA SÉRIO MÃE! (NAC)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/FALASERIEMAE-ALTO.mp4
 
 #EXTINF:-1 tvg-logo="https://goo.gl/cgybHP" group-title="2018",CÍRCULO DE FOGO A REVOLTA
 http://player720p.com/filmes/circulodefogo.mp4
