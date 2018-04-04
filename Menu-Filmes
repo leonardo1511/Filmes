@@ -3,7 +3,7 @@
 <channels>
 
 <channel>
-<name>Filmes 2018</name>
+<name>[COLOR white][B]Filmes 2018[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/aWa5PVa.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo/Filmes/master/Filmes-Lan%C3%A7amentos</externallink>
 <fanart></fanart>
@@ -11,7 +11,15 @@
 </channel>
 
 <channel>
-<name>Filmes De Guerra</name>
+<name>[COLOR white][B]Filmes De Ação[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/SblvvAw.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/tvfogo/Filmes/master/Filmes-Ação</externallink>
+<fanart></fanart>
+<info>TV FOGO HD</info>
+</channel>
+
+<channel>
+<name>[COLOR white][B]Filmes De Guerra[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/TSEd64m.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo/Filmes/master/Filmes-Guerra</externallink>
 <fanart></fanart>
@@ -19,7 +27,7 @@
 </channel>
 
 <channel>
-<name>Filmes De Terror</name>
+<name>[COLOR white][B]Filmes De Terror[/B][/COLOR]</name>
 <thumbnail>http://img.cintiadisse.com.br/2015/10/filmes-de-terror-960x500.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo/Filmes/master/Filmes-Terror</externallink>
 <fanart></fanart>
@@ -27,7 +35,7 @@
 </channel>
 
 <channel>
-<name>Filmes De Faroeste</name>
+<name>[COLOR white][B]Filmes De Faroeste[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/vDNb82x.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo/Filmes/master/Filme-Faroeste</externallink>
 <fanart></fanart>
@@ -35,7 +43,7 @@
 </channel>
 
 <channel>
-<name>Filmes De Ficção Cientifica</name>
+<name>[COLOR white][B]Filmes De Ficção Cientifica[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/5OXoIO3.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo/Filmes/master/Filme-Ficção-Cientifica</externallink>
 <fanart></fanart>
@@ -43,15 +51,43 @@
 </channel>
 
 <channel>
-<name>Filmes Nacionais</name>
+<name>[COLOR white][B]Filmes Nacionais[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/t8O5KiW.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo/Filmes/master/Filmes-Nacionais</externallink>
 <fanart></fanart>
 <info>TV FOGO HD</info>
 </channel>
 
+<channels>
+<name>[COLOR white][B]Comédia[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/UUChJAL.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/ceB3fJWZ</externallink>
+<fanart>https://goo.gl/E55DJs</fanart>
+</channel>
+		
+<channels>
+<name>[COLOR white][B]Animação[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/KLJZRU7.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/iSRwCWBR</externallink>
+<fanart>https://goo.gl/E55DJs</fanart>
+</channel>
+ 
+<channels>
+<name>[COLOR white][B]Aventura[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/xaeuR1Y.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/biR3WiFx</externallink>
+<fanart>https://goo.gl/E55DJs</fanart>
+</channel>
+		
+<channels>
+<name>[COLOR white][B]Filmes De Super-Heróis[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/WH6yTzb.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/hDPDyTXs</externallink>
+<fanart>https://goo.gl/E55DJs</fanart>
+</channel>
+
 <channel>
-<name>Filmes Gospel</name>
+<name>[COLOR white][B]Filmes Gospel[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/1eaRUHq.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo/Filmes/master/Filmes-Gospel</externallink>
 <fanart></fanart>
@@ -59,7 +95,7 @@
 </channel>
 
 <channel>
-<name>Filmes que Marcaram Epoca</name>
+<name>[COLOR white][B]Filmes que Marcaram Epoca[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/UstPceh.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo/Filmes/master/Filmes-que-Marcaram-Epoca</externallink>
 <fanart></fanart>
