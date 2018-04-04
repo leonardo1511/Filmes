@@ -1,11 +1,4 @@
-<?xml version="2.0" encoding="utf-8"?>
+#EXTM3U
 
-
-<item>
-<title>[COLOR white][B]Batalha de Honra (Dublado) - 1993 - 720p[/B][/COLOR]</title>
-<link>http://d3fbpmqp71o92o.ec.cx/RedeCanais/RedeCanais/RCFServer3/ondemand/BTLHDHNR.mp4|Referer=http://www.redecanais.com.br/</link>
-<thumbnail>http://megafilmestorrents.net/wp-content/uploads/2016/10/MV5BMTY0Mjg5NTgwMF5BMl5BanBnXkFtZTcwMTIyMzMyMQ@@._V1_.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/KMgRfQID9W8/maxresdefault.jpg</fanart>
-<genre>Ação</genre>
-<info>Os amigos Jun Bo e Chin Bo crescem juntos no templo Shaolin e se tornam grandes lutadores. Entretanto, acabam fugindo do templo devido às suas atitudes indisciplinares. Tendo que viver fora do templo, os dois amigos se adaptam à nova realidade, aos problemas financeiros e a tirania do governo explorador. Jun Bo decide ajudar a humilde população, mas Chin Bo se alista no exército real traindo a confiança do amigo e passam a lutar em lados opostos.</info>
-</item>
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/KMgRfQID9W8/maxresdefault.jpg" group-title="Filmes De Ação",[COLOR white][B]Batalha de Honra (Dublado) - 1993 - 720p[/B][/COLOR]
+http://d3fbpmqp71o92o.ec.cx/RedeCanais/RedeCanais/RCFServer3/ondemand/BTLHDHNR.mp4|Referer=http://www.redecanais.com.br/
