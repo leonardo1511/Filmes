@@ -43,6 +43,14 @@
 </channel>
 
 <channel>
+<name>Filmes Nacionais</name>
+<thumbnail>https://i.imgur.com/t8O5KiW.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/tvfogo/Filmes/master/Filmes-Nacionais</externallink>
+<fanart></fanart>
+<info>TV FOGO HD</info>
+</channel>
+
+<channel>
 <name>Filmes Gospel</name>
 <thumbnail>https://i.imgur.com/1eaRUHq.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo/Filmes/master/Filmes-Gospel</externallink>
