@@ -1,1093 +1,860 @@
-#EXTM3U
-
-################## FILMES DE TERROR ########################
-
-
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/1QkR6C2qt51GzarGnk0f4Ki7bxS.jpg" group-title="Filmes De Terror", O DIGNO
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/ODGNO.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ESIDi9f.jpg" group-title="Filmes De Terror", O MISTÉRIO DE CANDYMAN
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/OMSTRDCNDYMN.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", CANDYMAN 2: A VINGANÇA
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/CNDMN2.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", CANDYMAN: DIA DOS MORTOS
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/CNDMN3.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", CAÇADA BRUTAL
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/CACDBRTL.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", A TRANSFIGURAÇÃO
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/ATRNSFGRCAO.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="https://www.popfilmeshd.net/wp-content/uploads/2018/01/8ppkhu3pO3fnXr05YeE7ryKloVd-185x278.jpg" , AS FITAS DE POUGHKEEPSIE
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/ASFTSDPUGKPS.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", A CIDADE DO HORROR: AMITYVILLE
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/ACIDHNR.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror",  AMITYVILLE 2: A POSSESSÃO
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/AMTVL2.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", AMITYVILLE 3: O DEMÔNIO
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/AMTVL3.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", AMITYVILLE 4: A FUGA DO MAL 
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/AMTVL4.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", AMITYVILLE 5: A MALDIÇÃO LEG.
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/AMTVL5LEG.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", AMITYVILLE 6: UMA QUESTÃO DE HORA 1992
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/AMTVL6.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", AMITYVILLE 7: UMA NOVA GERAÇÃO
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/AMTVL7LEG.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", AMITYVILLE 8: A CASA MALDITA 
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/AMTVL8.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", HORROR EM AMITYVILLE 
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/HOREMAMTVL.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", THE AMITYVILLE HAUNTING LEG.
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/THEAMSVLELEG.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", AMITYVILLE: O DESPERTAR 2017
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/AMTVLODSPRTR.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", A CASA FIM DOS TEMPOS
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/ACSDFMDSTMP.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", SHARKNADO 
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/SHRKND1.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", SHARKNADO 2: A SEGUNDA ONDA
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/SHRKND2.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", SHARKNADO 3: OH, NÃO! 
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/SHRKND3.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", SHARKNADO 4: CORRA PARA O QUARTO
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/SHRKND4.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", SHARKNADO 5: VORACIDADE GLOBAL 
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/SHRKND5.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", CREEP LEG.
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/CREPLEG.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", CREEP 2 
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/CREP2.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", CÃES ASSASSINO
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/CASSNSNOS.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", A HORA DO LOBISOMEM
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/AHRDLBSMN.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", A CASA DO ESPANTO 
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/ACSDESPNT.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", A CASA DO ESPANTO II
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/ACSDESPNT2.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", A CASA DO ESPANTO III
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/ACSDESPNT3.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", A CASA DO ESPANTO IV: DECISÃO PARA A LOUCURA
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/ACSDESPNT4.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", TEMPOS DOCES- TEMPOS AMARGOS
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/TMPSDCSTMPSAMRGS.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", O RETORNO DO PALHAÇO ASSASSINO
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/ORTNDPLCASNO.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", SONO MORTAL
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/SONMRTL.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", ROBERT O BONECO LEG.
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/RBRTOBNCOLEG.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", A Maldição do Boneco Robert
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/AMLDCDBNCRBRT.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", O CRIADOR DO BONECO ROBERT
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/OCRADRDBNCORBRT.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", BONECO DE NEVE LEG.
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/BNCDNVELEG.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", O Quarto Dos Esquecidos
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/OQRTDSESQCDS.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", O Perigo Bate à Porta
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/OPRGBTAPRT.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", O FIM DO DIA
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/OFMDODIA.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", O CANAL
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/OCANL.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", O LOBISOMEM
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/OLBSOME.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", DIA DE TRABALHO MORTAL
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/DIADTRBLHMTL.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", NATAL EM EL CAMINO
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/NTLEMELCMNO.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="https://www.popfilmeshd.net/wp-content/uploads/2017/12/6hD7Y7C6nMmt0HqRbPVswDALYEh-185x278.jpg" , NÃO DESLIGUE
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/NDSLG.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", MECÂNICA DAS SOMBRAS
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/MECMDSMBRS.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", KRAMPUS: O TERROR DO NATAL 
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/KRMPSOTRODNTL.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", KRAMPUS 2: O RETORNO DO DEMÔNIO LEG.
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/KRMPS2ORTNDMNLEG.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", INVASÃO ZUMBI
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/INVSZMB.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", DOMINAÇÃO
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/DMNCAO.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", DEMÔNIO DE NEON
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/DEMODNEN.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", SAM WAS HERE 
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/SAMWSHRE.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", DEATH NOTE 
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/DTHNT.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", DEATH NOTE: ILUMINANDO UM NOVO MUNDO LEG.
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/DTHNTIUNM.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", CLOWNTERGEIST
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/CLWNTRGST.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", MÃE!
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/MAE.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", CONEXÃO MORTAL
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/CNXMRTL.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", O CEMITÉRIO MALDITO 
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/CMTRMLDT.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", O PREDADOR
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/OPRDR.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", O PREDADOR 2: A CAÇADA CONTINUA
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/PRDRS2.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", ALIEN O 8º PASSAGEIRO 1979
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/ALIEN.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", ALIENS: O RESGATE
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/ALIENORSGT.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", ALIEN 3 
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/ALIEN3.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", ALIEN: A RESSURREIÇÃO 
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/ALIENARSSC.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", ALIEN VS. PREDADOR 
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/ALIENVSPRDR.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", ALIEN VS. PREDADOR 2 
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/ALIENVSPRDR2.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", PROMETHEUS
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/PROMTHS.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://ncdn-a.akamaihd.net/wp-content/uploads/2017/07/AlienCovenant.jpg" , ALIEN COVENANT
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/ALIENCVNT.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", A COISA 
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/ACOISA.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", A ALCATEIA 
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/AALCTIA.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", RESIDENT EVIL: O HÓSPEDE MALDITO
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/REVIL01.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", RESIDENT EVIL 2: APOCALIPSE 
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/REVIL02.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", RESIDENT EVIL 3: A EXTINÇÃO
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/REVIL03.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", RESIDENT EVIL 4: RECOMEÇO 
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/REVIL04.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", RESIDENT EVIL 5: RETRIBUIÇÃO
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/REVIL05.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", RESIDENT EVIL 6: O CAPÍTULO FINAL 
-http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/REVIL06.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", O CHAMADO
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OCHMD.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", O CHAMADO 2
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OCHMD2.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", O CHAMADO 3
-http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/OCHMD3.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", O CHAMADO 3 LEG.
-http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/OCHMD3LEG.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", O OLHO DO MAL 
-http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/OLHDML.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", ALÉM DA REALIDADE 
-http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/ALMDRLD.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", ANJOS DA NOITE: UNDERWORLD
-http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/ANJSDNT1.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", ANJOS DA NOITE: A EVOLUÇÃO
-http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/ANJSDNT2.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", ANJOS DA NOITE: A REBELIÃO
-http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/ANJSDNT3.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", ANJOS DA NOITE: O DESPERTAR
-http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/ANJSDNT4.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://ncdn-a.akamaihd.net/wp-content/uploads/2017/03/01-1.jpg" , ANJOS DA NOITE 5 – GUERRAS DE SANGUE
-http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/ANJSDNT5.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", O ALBERGUE
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OALBRG.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", O ALBERGUE 2
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OALBRGPT2.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", O ALBERGUE 3
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OALBRGPT3.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", A MÚMIA
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AMUMIA.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", O RETORNO DA MÚMIA
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ORTNDAMUMIA.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", A MÚMIA: TUMBA DO IMPERADOR DRAGÃO
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AMUMIATMBDIMPRDDRG.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", FRANKENSTEIN VS. A MÚMIA 
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/FRNKSTNVSMUMIA.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", MÚMIA A RESSURREIÇÃO
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/MUMARSRCAO.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", A MÚMIA 2017
-http://themediafire.club/ondemand/AMUMIA2017DUB%20BAIXO.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", JOGO DE ASSASSINOS
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/JGSDASINS.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", GOOSEBUMPS: MONSTROS E ARREPIOS
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/GSBUMPSMNSTREARPS.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", A MORTE TE DÁ PARABÉNS 
-http://server01.dropapk.com:182/d/apcy6whs4tcdvbi46kyzdvc7y4tgsunhodq4q3pzfxnpbcp7nyzmhccc5u7tiynmbeut3fio/video.mp4
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", A MORTE TE DÁ PARABÉNS LEG.
-http://themediafire.club/ondemand/MORTE%20PARABENS%20LEGENDADO.mp4
-
-#EXTINF:-1 tvg-logo="https://www.popfilmeshd.net/wp-content/uploads/2018/01/tAcsTHfzYwxe0QkarzHqNfnqvxa-185x278.jpg" , VENDE-SE ESTA CASA
-http://cloud.popfilmeshd.net/popfilmes/FILMES/DUBLADO/VECDUB-ALTO.mp4
-
-#EXTINF:-1 tvg-logo="https://www.popfilmeshd.net/wp-content/uploads/2018/01/7rwjO4mFBwiLHVHL21uGXtwW9TI-185x278.jpg" , MATADORES DE VAMPIRAS LÉSBICAS
-http://cloud.popfilmeshd.net/popfilmes/FILMES/DUBLADO/MDVLDUB-ALTO.mp4
-
-#EXTINF:-1 tvg-logo="https://www.popfilmeshd.net/wp-content/uploads/2018/01/mvjzPdvobEhLLqtmFNADEl1xPrF-185x278.jpg" , ELOISE
-http://cloud.popfilmeshd.net/popfilmes/FILMES/DUBLADO/ELOISEDUB-ALTO.mp4
-
-#EXTINF:-1 tvg-logo="https://www.popfilmeshd.net/wp-content/uploads/2018/01/Cacador-185x278.png" , CAÇADOR DE DEMÔNIOS
-http://cloud.popfilmeshd.net/popfilmes/FILMES/DUBLADO/CDDDUB-ALTO.mp4
-
-#EXTINF:-1 tvg-logo=https://www.popfilmeshd.net/wp-content/uploads/2018/01/foMQIyZGeqTB1GUGDkJLEvVzHk9-185x278.jpg"" , A COLHEITA DO MAL
-http://cloud.popfilmeshd.net/popfilmes//FILMES/filmehd/Colheita.do.Mal.2007.BluRay.720p.DTS.x264-CHD.DUAL-KALAZANS.mp4
-
-#EXTINF:-1 tvg-logo="https://www.popfilmeshd.net/wp-content/uploads/2018/01/guSJHOHL5i24Rc5Oen681RxpksX-185x278.jpg" , ANACONDA
-http://cloud.popfilmeshd.net/popfilmes//FILMES/filmehd/A/Anaconda.1997.1080p.BluRay.5.1.x264.DUAL-WWW.BLUDV.COM.mp4
-
-#EXTINF:-1 tvg-logo="https://www.popfilmeshd.net/wp-content/uploads/2018/01/o8AMenKpX8eEDI1SAA6M8Jj7er5-185x278.jpg" , ANACONDA 2 – A CAÇADA PELA ORQUÍDEA SANGRENTA
-http://cloud.popfilmeshd.net/popfilmes//FILMES/filmehd/A/Anaconda.2.A.Ca%C3%A7ada.Pela.Orqu%C3%ADdea.Sangrenta.2004.1080p.HDTV.5.1.x264.DUAL-WWW.BLUDV.COM.mp4
-
-#EXTINF:-1 tvg-logo="https://www.popfilmeshd.net/wp-content/uploads/2018/01/ahR8YoAxgaVlApZCm0zDJ8D0mjI-185x278.jpg" , A MORTE CONVIDA PARA DANÇAR
-http://cloud.popfilmeshd.net/popfilmes//FILMES/filmehd/A/A%20Morte%20Convida%20para%20Dan%C3%A7ar%20[Dublado].mp4
-
-#EXTINF:-1 tvg-logo="https://www.popfilmeshd.net/wp-content/uploads/2018/01/Um-Monstro-no-Caminho-185x278.jpg" , UM MONSTRO NO CAMINHO
-http://cloud.popfilmeshd.net/popfilmes///FILMES/DUBLADO/UMNCDUB-ALTO.mp4
-
-#EXTINF:-1 tvg-logo="https://www.popfilmeshd.net/wp-content/uploads/2017/12/mXKpCgZNokswSFLfckUwUS0xWLF-185x278.jpg" , A CASA DE CERA
-http://cloud.popfilmeshd.net/popfilmes//FILMES/DUBLADO/ACDCDUB-ALTO.mp4
-
-#EXTINF:-1 tvg-logo="https://www.popfilmeshd.net/wp-content/uploads/2017/12/fF33nRbgvxNgTTPUuNqNsRPYmxZ-185x278.jpg" , GANTZ: O
-http://cloud.popfilmeshd.net/popfilmes//FILMES/DUBLADO/GANTZDUB-ALTO.mp4
-
-#EXTINF:-1 tvg-logo="https://www.popfilmeshd.net/wp-content/uploads/2017/12/cVuSB61AdEMr07U6kAt2DbqDZTG-185x278.jpg" , INFERNO NO FAROESTE
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/INFRNOFRSTE.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="https://www.popfilmeshd.net/wp-content/uploads/2017/11/fe77gXticagBT15eQZzWtIYcujb-185x278.jpg" , ADVOGADO DO DIABO
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ADVGDIAB.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="https://www.popfilmeshd.net/wp-content/uploads/2017/11/ipyGr2ckw6I1aRmUjYtjJLOT5fP-185x278.jpg" , BLADE – O CAÇADOR DE VAMPIROS
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/BLADE1.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="https://www.popfilmeshd.net/wp-content/uploads/2017/11/nezC9IlK5WDIC5aGcbepqu9hOLC-185x278.jpg" , BLADE II – O CAÇADOR DE VAMPIROS
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/BLADE2.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="https://www.popfilmeshd.net/wp-content/uploads/2017/11/2WLdRruqgXSDxZMQ0flG3ajMWFd-185x278.jpg" , BLADE: TRINITY
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/BLADE3.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="https://www.popfilmeshd.net/wp-content/uploads/2017/10/A-Baba-185x278.jpg" , A BABÁ
-http://cloud.popfilmeshd.net/popfilmes/FILMES/DUBLADO/ABABADUB-ALTO.mp4
-
-#EXTINF:-1 tvg-logo="https://www.popfilmeshd.net/wp-content/uploads/2017/08/mjePfoOJ96jJ9BNn3yaqiujUTUc-185x278.jpg" , AO CAIR DA NOITE
-http://cloud.popfilmeshd.net/popfilmes//FILMES/filmehd/A/Ao.Cair.da.Noite.2017.720p.BluRay.x264.BLOW.DUAL-SynysteR.mp4
-
-#EXTINF:-1 tvg-logo="https://www.popfilmeshd.net/wp-content/uploads/2017/09/yGMnu5JddJXl87S9wmDGPAKF75W-185x278.jpg" , CONSTANTINE
-http://cloud.popfilmeshd.net/popfilmes///FILMES/DUBLADO/CONSTANTINEDUB-ALTO.mp4
-
-#EXTINF:-1 tvg-logo="https://www.popfilmeshd.net/wp-content/uploads/2017/08/7UTJijCUO1PlHBZBYEzj9HkrR0E-185x278.jpg" , GAROTA INFERNAL
-http://cloud.popfilmeshd.net/popfilmes///FILMES/DUBLADO/GIDUB-ALTO.mp4
-
-#EXTINF:-1 tvg-logo="https://www.popfilmeshd.net/wp-content/uploads/2017/08/91nevZBrxdwDQn9FnirDP4dyDen-185x278.jpg" , EU SOU A LENDA
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/EUSOUALND.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="https://www.popfilmeshd.net/wp-content/uploads/2017/05/ztYvYWpSpFtzM2w5MwsmNzzQbJg-185x278.jpg" , FRAGMENTADO
-http://cloud.popfilmeshd.net/popfilmes//FILMES/DUBLADO/FRAGDUB-ALTO.mp4
-
-#EXTINF:-1 tvg-logo="https://www.popfilmeshd.net/wp-content/uploads/2017/04/tYcqX5qRNE0i5sagiJIXbprPoLg-185x278.jpg" , SALA VERDE
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/SALVRD.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/A0RoSZh8PEYJgDMgM2EV7Ycz3dR.jpg" , CORRA!
-http://themediafire.club/ondemand/CORRADUB%20BAIXO.mp4
-
-#EXTINF:-1 tvg-logo="https://www.xfilmesonlinegratis.com/wp-content/uploads/2017/11/amores-canibais-10958-poster-180x260.jpg" , AMORES CANIBAIS
-https://www.ultacine.xyz/link/xjSjRDE0wKUqIDt/360/ed932a1115a71d927eb1310a2dd5ee42/
-
-#EXTINF:-1 tvg-logo="https://www.xfilmesonlinegratis.com/wp-content/uploads/2017/11/jogo-perigoso-10946-poster-180x260.jpg" , JOGO PERIGOSO 
-https://www.ultacine.xyz/link/p2EJqjdU1dEXPD8/360/ed932a1115a71d927eb1310a2dd5ee42/
-
-#EXTINF:-1 tvg-logo="https://www.xfilmesonlinegratis.com/wp-content/uploads/2017/11/madrugada-dos-mortos-10867-poster-180x260.jpg" , MADRUGADA DOS MORTOS
-https://www.ultacine.xyz/link/f9t3ECDkoMA882A/360/ed932a1115a71d927eb1310a2dd5ee42/
-
-#EXTINF:-1 tvg-logo="https://www.xfilmesonlinegratis.com/wp-content/uploads/2017/11/nunca-diga-seu-nome-10738-poster-180x260.jpg" , NUNCA DIGA SEU NOME
-https://www.ultacine.xyz/link/E8UTXSouWqNVMOB/360/ed932a1115a71d927eb1310a2dd5ee42/
-
-#EXTINF:-1 tvg-logo="https://www.xfilmesonlinegratis.com/wp-content/uploads/2017/11/apocalipse-10579-poster-180x260.jpg" , APOCALIPSE
-https://www.ultacine.xyz/link/nNJvvrSBmGBO4dN/360/ed932a1115a71d927eb1310a2dd5ee42/
-
-#EXTINF:-1 tvg-logo="https://www.xfilmesonlinegratis.com/wp-content/uploads/2017/11/a-colina-escarlate-10152-poster-180x260.jpg" , A COLINA ESCARLATE
-https://www.ultacine.xyz/link/DymCYcDx7GSup7F/360/ed932a1115a71d927eb1310a2dd5ee42/
-
-#EXTINF:-1 tvg-logo="https://www.xfilmesonlinegratis.com/wp-content/uploads/2017/11/o-espirito-de-goodnight-lane-9952-poster-180x260.jpg" , O ESPÍRITO DE GOODNIGHT LANE
-https://www.ultacine.xyz/link/BJFF7WPK5rKmbOB/360/ed932a1115a71d927eb1310a2dd5ee42/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", PRIMITIVO
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PRMTVO.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", STIGMATA 
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/STGMT.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", DOOM: A PORTA DO INFERNO
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/DOMAPRTDINFN.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", A MORTE DO DEMÔNIO
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AMRTDPDMNIO.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", LOBOS
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/LOBOS.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", CASTELO DO MEDO 
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/CSTLDMD.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", O NEVOEIRO
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ONVOERO.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", JOGOS MORTAIS
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/JGSMRTS01.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", JOGOS MORTAIS II
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/JGSMRTAS02.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", JOGOS MORTAIS III
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/JGSMRTAS03.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", JOGOS MORTAIS IV
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/JGSMRTAS04.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", JOGOS MORTAIS V
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/JGSMRTAS05.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", JOGOS MORTAIS VI
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/JGSMRTS06.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", JOGOS MORTAIS O FINAL
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/JGSMRTAS07.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/7ZEsWfBHPaHk2IvoUnFxyh01t8l.jpg" , JOGOS MORTAIS- JIGSAW LEG.
-http://cloud.popfilmeshd.net/popfilmes//FILMES/DUBLADO/JM8CAM-BAIXO.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/7ZEsWfBHPaHk2IvoUnFxyh01t8l.jpg" , JOGOS MORTAIS- JIGSAW
-http://server02.dropapk.com:182/d/axctwwhs4tcdvbi46kyzhwa6sahogj236zq7hcc56fsjljj7wfgwoqd76r4diwmyh7hkc7we/video.mp4
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", OLHOS FAMINTOS
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OLHSFAMTS1.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", OLHOS FAMINTOS 2
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OLHSFAMTS2.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", OLHOS FAMINTOS 3 LEG.
-http://cloud.popfilmeshd.net/popfilmes//FILMES/LEGENDADO/OF3LEG-ALTO.mp4
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", NA TOCA DO TIGRE
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/NATCADTRG.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", PERIGO EXTREMO
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/PRGEXTRMO.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="https://www.popfilmeshd.net/wp-content/uploads/2017/12/9IrYVdXVUVNGHZf1KvoKaeGx4IM-185x278.jpg" , MAMA
-http://cloud.popfilmeshd.net/popfilmes//FILMES/DUBLADO/MAMADUB-ALTO.mp4
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", AMIZADE DESFEITA
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/AMZDSFTA.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="https://static.vibe.com/files/article_images/IT-Movie-Poster.jpg" , IT: UMA OBRA-PRIMA DO MEDO LEG.
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ITUMOBRPRMDMD.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", IT: A COISA
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/ITACOS.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", IT: A COISA LEG.
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/ITACOSLEG.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9b/Annabelle-poster.jpg" , ANNABELLE
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ANBL.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="https://www.popfilmeshd.net/wp-content/uploads/2017/10/Annabelle-2-185x278.jpg" ,  ANNABELLE 2: A CRIAÇÃO DO MAL
-http://cloud.popfilmeshd.net/popfilmes//FILMES/filmehd/A/Annabelle.2.A.Criacao.do.Mal.2017.1080p.BluRay.x264-SPARKS.DUAL-RK.mp4
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", O EXORCISTA
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OEXRCSTA.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/medias/nmedia/18/97/14/81/20511176.jpg" , O EXORCISTA - O INÍCIO
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OEXCSTOINC.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="https://art-s.nflximg.net/2c266/851ea84a698369f4fdd2aa6f4216949b9942c266.jpg" , O EXORCISMO DE ANNA ECKLUND
-http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/OEXCSMDANECKLN.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://bocadoinferno.com.br/wp-content/uploads/2013/04/O-%C3%9Altimo-Exorcismo-2010.jpg" , O ÚLTIMO EXORCISMO
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OULTMEXCSM.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://c4.quickcachr.fotos.sapo.pt/i/o8e148be4/14975911_fjFQ1.jpeg" , O ÚLTIMO EXORCISMO: PARTE II
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OULTMEXCSMPT2.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/90/67/48/20107748.jpg" , O EXORCISMO DE EMILY ROSE 
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OEXRCSMDEMLR.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://ncdn-a.akamaihd.net/wp-content/uploads/2017/05/3.jpg" , CORRA!
-http://zeus.netcine.tv/httpdelivery/filmes2017/CORRADUB-BAIXO.mp4
-
-#EXTINF:-1 tvg-logo="http://ncdn-a.akamaihd.net/wp-content/uploads/2017/04/482058.jpg" , FRAGMENTADO
-http://zeus.netcine.tv/httpdelivery/filmes2017/FRAGDUB-BAIXO.mp4
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", DOCE VINGANÇA
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/DCVNGCA1.mp4
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes De Terror", DOCE VINGANÇA 2
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/DCVNGCA2.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/original/dddMs71BNjmkzvmpSrMdcrKYXZR.jpg" , DOCE VINGANÇA 3
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/DCVNGCA3.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="https://www.justwatch.com/images/poster/233474/s592" , O DENTISTA 
-http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/ODNTS.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://www.dicasodonto.com.br/wp-content/uploads/2010/07/The-dentist2.jpg" , O DENTISTA 2
-http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/ODNTS2.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://img.moviepostershop.com/hidden-movie-poster-2009-1020529987.jpg" , ESCONDIDOS
-http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/ESCNDS.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="https://www.papodecinema.com.br/wp-content/uploads/2017/03/20170303-uma-noite-de-crime-1.jpg" , UMA NOITE DE CRIME
-http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/UMNTDCRM.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://telecinetv.com.br/wp-content/plugins/RSSPoster_PRO/cache/e3f41_20141213-uma-noite-de-crime-anarquia.jpg" , UMA NOITE DE CRIME 2: ANARQUIA
-http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/UMNTDCRM2ARQU.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://cinemabh.com/wp-content/uploads/2016/05/12-Horas-para-Sobreviver-poster-02.jpg" , UMA NOITE DE CRIME 3: 12 HORAS PARA SOBREVIVER: O ANO DA ELEIÇÃO
-http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/UMNTDCRM3.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://www.megafilmestorrent.cc/wp-content/uploads/2017/09/ouija-onde-tudo-comecou-poster.jpg" , OUIJA: ONDE TUDO COMEÇOU 
-http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/OUJONDTDCM.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/vxgS-PGBLNM/maxresdefault.jpg" , OUIJA: O JOGO DOS ESPÍRITOS
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OUIJAOJGDSESPRTS.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/vxgS-PGBLNM/maxresdefault.jpg" , OUIJA: O JOGO DOS ESPÍRITOS LEG.
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OUIJAOJGDSESPRTSLEG.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1280_720/pictures/15/03/24/15/05/425866.jpg" , OUIJA: A RESSURREIÇÃO
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OUIJAOARSRCAO.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/01/ed/f6/01edf6dedd098ed5560c9ef0c4289815.jpg" , OUIJA: EXORCISMO 
-http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/OUJEXRCMS.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/Ouija...%20E%20o%20Jogo%20Continua.jpg" , OUIJA... E O JOGO CONTINUA
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/OUJEOJGCNTUA.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2016/08/Ouija2posterbr.jpg" , OUIJA: ORIGEM DO MAL 
-http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/OUJORGMDML.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://is2.mzstatic.com/image/thumb/Video49/v4/56/ba/11/56ba112b-f520-6bcf-8f82-55de0b8b695e/source/1200x630bb.jpg" , FUGINDO DO INFERNO
-http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/FGNDINFNO.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="https://cdn.x2n.com.br/~baixedetudo.net/imagens/a.volta_.do_.juizo_.final_.jpg" , A VOLTA DO JUÍZO FINAL
-http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/AVLTDJZFNL.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/93/98/96/20293294.jpg" , A BRUXA DE BLAIR 1999
-http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/ABRXDBLR.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/93/99/02/20293363.jpg" , A BRUXA DE BLAIR: O LIVRO DAS SOMBRAS
-http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/ABRXDBLR2.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/16/09/05/15/42/354197.jpg" , A BRUXA DE BLAIR 2016
-http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/BRXDBLR.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/16/09/05/15/42/354197.jpg" , A BRUXA DE BLAIR LEG. 2016
-http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/BRXDBLRLEG.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1280_720/pictures/14/03/19/16/52/111057.jpg" , OS PÁSSAROS
-http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/OSPSRS.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/vUpD-MepkKU/movieposter.jpg" , AMERICAN POLTERGEIST 
-http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/AMRCNPLTGST.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://bocadoinferno.com.br/wp-content/uploads/2016/06/Quando-as-Luzes-se-Apagam-2016.jpg" , QUANDO AS LUZES SE APAGAM
-http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/QNDASLZSAPGM.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/16/06/14/16/42/132481.jpg" , ÁGUAS RASAS
-http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/AGUSRAS.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-3_PfnDyLg9Q/UAg8zZ11WjI/AAAAAAAAARM/qH9FhU61PXc/s320/k9b28y.jpg" , NAVIO FANTASMA
-http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/NVFNTSM.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/210/166/21016629_2013062820083878.jpg" , INVOCAÇÃO DO MAL
-http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/INVCAODML.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/16/04/18/20/43/025084.jpg" , INVOCAÇÃO DO MAL 2
-http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/INVCAODML2.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/14/06/11/16/28/333909.jpg" , TREM FANTASMA 
-http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/TRMFNTSM.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://www.vortexcultural.com.br/images/2016/01/20151119-victor-frankenstein-poster.jpg" , VICTOR FRANKENSTEIN
-http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/VCTFRNKSTEN.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/15/08/20/19/00/086541.jpg" , FRANKENSTEIN
-http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/FRNKSTEN.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="https://ottvsimg.singularcdn.net.br/cov/a2.043521/0043521_200.jpg" , ELE NUNCA MORRE 
-http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/ELENCMRR.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="https://totallypretentious.files.wordpress.com/2015/09/the-people-under-the-stairs.jpg" , AS CRIATURAS ATRÁS DAS PAREDES
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ASCRTURSARSDPRDS.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://horrornews.net/wp-content/uploads/2011/05/OminousPoster.jpg" , A RESSURREIÇÃO DO ANTICRISTO 
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ARSRCAODANTCRST.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/_jgdLeuToF-U/TSjTz8XXGqI/AAAAAAAAErI/l6byjoOivBc/s1600/The-Final.jpg" , O FINAL 
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/AFNL.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/93/17/69/20240110.jpg" , UM DRINK NO INFERNO 
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/UDRNKNINFRN.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/93/17/73/20240142.jpg" , UM DRINK NO INFERNO 2: TEXAS SANGRENTO 
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/UDRNKNINFRN2.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="https://www.popfilmeshd.net/wp-content/uploads/2017/12/oQ27jYistGziEJbIQCXgAYlVpvn-185x278.jpg" , UM DRINK NO INFERNO 3 – A FILHA DO CARRASCO
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/UDRNKNINFRN3.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://www.wellgousa.com/sites/default/files/theatrical/Heropage-980x560_25.jpg" , DEAD SNOW 2: RED VS. DEAD
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/DEDSNW2RDVSDED.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="https://img.fstatic.com/8iAx21TenofQpIsvFb4wkB6C0us=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2011/09/dc5b48378aa5e0379c41193de417c288.jpg" , BONECA ASSASSINA
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/BONCASSNA.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/dvd-a-seita-D_NQ_NP_14585-MLB2791797671_062012-F.jpg" , A SEITA
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ASITA.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/14/06/24/22/09/278160.jpg" , CANIBAIS
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/CANBS.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTU0MzU3NzYzM15BMl5BanBnXkFtZTgwODU3NjAwODE@._V1_SY1000_CR0,0,704,1000_AL_.jpg" , PERSEGUIÇÃO
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/PRSGCAO.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://bocadoinferno.com.br/wp-content/uploads/2013/04/Pague-para-Entrar-Reze-para-Sair-1981-4.jpg" , PAGUE PARA ENTRAR- REZE PARA SAIR
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/PGPRENTRRZPRSIR.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/15/07/20/17/08/257546.jpg" , O SEGREDO DA BORBOLETA
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OSGRDBRLTA.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://bocadoinferno.com.br/wp-content/uploads/2013/04/Gritos-Mortais-2007-2.jpg" , GRITOS MORTAIS 
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/GRTSMORTS.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/16/05/18/21/56/490816.jpg" , REGRESSO DO MAL 
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/RGRSDMAL.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://www.heuvi.com.br/wp-content/uploads/2013/06/0-Exterminio.jpg" , EXTERMÍNIO 
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/EXTRMN1.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://bocadoinferno.com.br/wp-content/uploads/2014/04/Exterm%C3%ADnio-2-2007-5.jpg" , EXTERMÍNIO 2
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/EXTRMN2.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/91/31/38/20277419.jpg" , A ENTIDADE 
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/AENTDADE1.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="https://focanapipoca.files.wordpress.com/2015/09/a-entidade-2.jpg" , A ENTIDADE 2
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/AENTDADE2.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="https://mindreels.files.wordpress.com/2015/06/spring-dvd-fbart.jpg" , PRIMAVERA
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/PRMVRA.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/15/04/27/19/58/151029.jpg" , A VISITA
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/AVISTA.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-EslGShfbWLk/U2zvuw7odUI/AAAAAAAAJZg/9wqaqwqF8NQ/s1600/Halloween+-+A+Noite+do+Terror.jpg" , HALLOWEEN: A NOITE DO TERROR
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/HALWEN01.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-9kvutip7Xwg/U2zmPH9KQsI/AAAAAAAAJZQ/PNn9MY_omSY/s1600/Halloween+2+-+O+Pesadelo+Continua!.jpg" , HALLOWEEN II: O PESADELO CONTINUA
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/HALWEN02.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-tOY0gkGI5oc/TfANicjtEyI/AAAAAAAAAcQ/zSzqT8CftD0/s250/Halloween%2B3%2B-%2BA%2BNoite%2Bdas%2BBruxas.jpg" , HALLOWEEN III: A NOITE DAS BRUXAS
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/HALWEN03.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/87/80/06/19961679.jpg" , HALLOWEEN IV: O DIA DAS BRUXAS
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/HALWEN04.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-zMUii0k1KYw/VyfuzfQEPUI/AAAAAAAAG8U/XRUwNWhif1YmpkHiXEbJ50E3CABPY9G5ACLcB/s1600/577%2B1989%2BHALLOWEEN%2BV.jpg" , HALLOWEEN V: A VINGANÇA DE MICHAEL MYERS
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/HALWEN05.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="https://img.fstatic.com/AoCZhA5HKEzFTPVK3XLrswXsCKc=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2012/01/208b95d4e9c5e6ab169dc443ec1151a0.jpg" , HALLOWEEN VI: A ÚLTIMA VINGANÇA 
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/HALWEN06.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/5/5e/HalloweenH20poster.jpg/200px-HalloweenH20poster.jpg" , HALLOWEEN H20: 20 ANOS DEPOIS
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/HALWENH20.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://tv.aladin.info/film/logo/2447.jpg" , HALLOWEEN: RESSURREIÇÃO
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/HALWENRSRCAO.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://server8.redecanais.tv/imgs-videos/Halloween%20-%20O%20In%C3%ADcio.jpg" , HALLOWEEN: O INÍCIO
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/HALWENOINICIO.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/8f/Halloween2009.jpg/200px-Halloween2009.jpg" , HALLOWEEN 2- 2009
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/HALWENRII.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/87/89/84/20028680.jpg" , ATIVIDADE PARANORMAL 
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ATVDADPRNRML1.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://bocadoinferno.com.br/wp-content/uploads/2013/07/Atividade-Paranormal-2-2010-6.jpg" , ATIVIDADE PARANORMAL 2
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ATVDADPRNRML2.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/atividade-paranormal-3-filme-dvd-sobrenatural-original-D_NQ_NP_666201-MLB20287967323_042015-F.jpg" , ATIVIDADE PARANORMAL 3
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ATVDADPRNRML3.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/medias/nmedia/18/92/25/00/20210038.jpg" ,  ATIVIDADE PARANORMAL 4
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ATVDADPRNRML4.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/87/91/92/19962893.jpg" , ATIVIDADE PARANORMAL: TÓQUIO
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ATVDADPRNRMLTOKYO.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/13/12/04/21/53/316990.jpg" , ATIVIDADE PARANORMAL: MARCADOS PELO MAL
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ATVDADPRNRMLMRCDPMAL.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/15/08/11/18/17/579808.jpg" , ATIVIDADE PARANORMAL: DIMENSÃO FANTASMA
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ATVDADPRNRMLDMFANT.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_300_300/pictures/15/03/09/21/23/308238.jpg" , HELLRAISER: RENASCIDO DO INFERNO
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/HELRISR01.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://bocadoinferno.com.br/wp-content/uploads/2014/12/Hellraiser-2-1988-7.jpg" , HELLRAISER II: RENASCIDO DAS TREVAS
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/HELRISR02.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://bocadoinferno.com.br/wp-content/uploads/2014/12/Hellraiser-3-1992-6.jpg" , HELLRAISER III: INFERNO NA TERRA
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/HELRISR03.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://bocadoinferno.com.br/wp-content/uploads/2014/12/Hellraiser-4-1996-5.jpg" , HELLRAISER IV: HERANÇA MALDITA
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/HELRISR04.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Hellraiserinferno.jpg/220px-Hellraiserinferno.jpg" , Hellraiser V: Inferno
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/HELRISR05.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://bocadoinferno.com.br/wp-content/uploads/2014/12/Hellraiser-6-2002-5.jpg" , HELLRAISER VI: CAÇADOR DO INFERNO 
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/HELRISR6.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://bocadoinferno.com.br/wp-content/uploads/2014/12/Hellraiser-7-2005-7.jpg" , HELLRAISER VII: O RETORNO DOS MORTOS
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/HELRISR07.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://bocadoinferno.com.br/wp-content/uploads/2014/12/Hellraiser-8-2005-6.jpg" , HELLRAISER VIII: O MUNDO DO INFERNO
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/HELRISR08.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://movienews.ro/wp-content/uploads/2011/08/Hellraiser-_Revelations.jpg" , HELLRAISER: REVELAÇÕES
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/HELRISR09.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://www.alemdaimaginacao.com/Noticias/Christine/christine_capa.jpg" , CHRISTINE, O CARRO ASSASSINO 1983
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/CRSTNOCRASSANO.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/14/12/01/16/00/050092.jpg" , A PROFECIA
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/APRFCA1.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://bocadoinferno.com.br/wp-content/uploads/2013/04/A-Profecia-2-1978-4.jpg" , A PROFECIA II: DAMIEN
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/APRFCA2.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://bocadoinferno.com.br/wp-content/uploads/2013/04/A-Profecia-3-1981-3.jpg" , A PROFECIA III: O CONFLITO FINAL
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/APRFCA3.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="https://i2.wp.com/noset.com.br/wp-content/uploads/2016/11/omen-6.jpg" , A PROFECIA IV: O DESPERTAR
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/APRFCA4.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/14/12/01/16/19/346220.jpg" , A PROFECIA 2006
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/APRFCA2006.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/15/06/29/17/05/240048.jpg" , EXORCISTAS DO VATICANO
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/EXRCSTDVTCN.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/15/03/09/20/43/047501.jpg" , O MASSACRE DA SERRA ELÉTRICA
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OMSCRDSRELTRC1.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/medias/nmedia/18/93/18/61/20240530.jpg" , O MASSACRE DA SERRA ELÉTRICA: PARTE II
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OMSCRDSRELTRC2.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_aX7VSRMlQI4/TFIp-iq5hJI/AAAAAAAADtU/Oj6_eZgzox0/s400/O+Massacre+Da+Serra+El%C3%A9trica+3.jpg" , O MASSACRE DA SERRA ELÉTRICA III
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OMSCRDSRELTRC3.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://bocadoinferno.com.br/wp-content/uploads/2014/04/O-Retorno-1994-12.jpg" , O MASSACRE DA SERRA ELÉTRICA: O RETORNO
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OMSCRDSRELTRCRTRNO.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="https://static.cineclick.com.br/sites/adm/uploads/banco_imagens/53/260x365_519ebbde0d1f3.jpg" , O MASSACRE DA SERRA ELÉTRICA 2003
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OMSCRDSRELTRC2003.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1280_720/pictures/210/069/21006915_2013051800092352.jpg" , O MASSACRE DA SERRA ELÉTRICA: O INÍCIO
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OMSCRDSRELTRCOINCIO.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/93/03/26/20498578.jpg" , O MASSACRE DA SERRA ELÉTRICA 3D: A LENDA CONTINUA
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OMSCRDSRELTRCOALNDCNT.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://www.gstatic.com/tv/thumb/movieposters/11669008/p11669008_p_v8_aa.jpg" , ALWAYS WATCHING: A MARBLE HORNETS STORY 
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/AWAMHS.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_EdLf_Onq3Yc/TImSynaSQDI/AAAAAAAAAFc/tZFS8v3iQPk/s1600/001.jpg" , BRINQUEDO ASSASSINO
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/BRNQDASASN1.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="https://vignette3.wikia.nocookie.net/horrormovies/images/3/35/Childs_play_two_xlg.jpg/revision/latest?cb=20130419183907" , BRINQUEDO ASSASSINO 2
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/BRNQDASASN2.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="https://www.megafilmesserieshd.com/wp-content/uploads/2016/11/1poster-44.jpg" , BRINQUEDO ASSASSINO 3
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/BRNQDASASN3.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://overflix.com/uploads/monthly_2017_07/1poster-45.jpg.c14fd36eb52c6dcf8f60b93c90971d41.jpg" , A NOIVA DE CHUCKY
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ANVDCHCKY.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://www.zoom-cinema.fr/media/photos/1061/affiche-americaine.jpg" , O FILHO DE CHUCKY
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OFLHDCHCKY.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-bRkJfrRRZ44/UkQgszbbhlI/AAAAAAAACVE/d6Fpf6xeqow/s1600/A+Maldi%C3%A7ao+de+Chucky.jpg" , A MALDIÇÃO DE CHUCKY
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/AMLDCAODCHCKY.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://cinepop.com.br/wp-content/uploads/2017/09/cultodechucky_10.jpg" , O CULTO DE CHUCKY
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/OCLTDCHCK.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://cinepop.com.br/wp-content/uploads/2017/09/cultodechucky_10.jpg" , O CULTO DE CHUCKY LEG.
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OCLTDCHCKLEG.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/210/142/21014288_20130620182809006.jpg" , UMA CHAMADA PERDIDA
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/UMCHMDPRDA.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/medias/nmedia/18/93/48/60/20259212.jpg" , PREMONIÇÃO
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PRMNCAO1.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/r_1280_720/medias/nmedia/18/87/84/65/19972224.jpg" , PREMONIÇÃO 2
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PRMNCAO2.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://bocadoinferno.com.br/wp-content/uploads/2013/03/Premoni%C3%A7%C3%A3o-3-2006-5.jpg" , PREMONIÇÃO 3
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PRMNCAO3.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://www.cinepop.com.br/cartazes/premonicao4_6.jpg" , PREMONIÇÃO 4
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PRMNCAO4.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="https://movietips.files.wordpress.com/2012/01/premonicao5.jpg" , PREMONIÇÃO 5
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PRMNCAO5.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://cdn.cinepop.com.br/2013/07/panico_2.jpg" , PÂNICO
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PNC1.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="https://pausadrammatica.files.wordpress.com/2015/09/panico-2.jpg" , PÂNICO 2
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PNC2.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/medias/nmedia/18/96/27/30/20456789.jpg" , PÂNICO 3
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PNC3.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-vTwe5_EjStc/TamzeBsW3_I/AAAAAAAAAMY/DTlweuDDDpw/s1600/PosterCinema-Scream4.jpg" , PÂNICO 4
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PNC4.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/15/07/13/17/07/278184.jpg" , PACTO MALIGNO
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PCTMLGNO.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="https://st.kp.yandex.net/images/film_big/806686.jpg" , O MISTERIOSO CASO DE JUDITH WINSTEAD
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OMSTRSCSDJDTWNST.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://filmescult.xpg.uol.com.br/imagem/d3887b107d58ea45455ca6dbd2d54d1d.jpg" , O MESTRE DOS BRINQUEDOS
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OMSTRDSBRNQDS.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://musicaecinema.com/wp-content/uploads/2014/06/sexta-feira-13.jpg" , SEXTA FEIRA 13
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SXTFR13PTI.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/bc/Friday_the_13th_part2.jpg/200px-Friday_the_13th_part2.jpg" , SEXTA-FEIRA 13: PARTE II
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SXTFR13PTII.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/bGtJJvr.jpg" , SEXTA FEIRA 13: PARTE III
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SXTFR13PTIII.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://bocadoinferno.com.br/wp-content/uploads/2013/12/Sexta-Feira-13-Parte-6-1986-3.jpg" , SEXTA FEIRA 13  PARTE IV: O CAPÍTULO FINAL
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SXTFR13PTIV.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="https://sebodomessias.com.br/imagens/produtos/5/59241_sf13v.jpg" , SEXTA FEIRA 13 PARTE V: UM NOVO RECOMEÇO
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SXTFR13PTV.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://bocadoinferno.com.br/wp-content/uploads/2013/12/Sexta-Feira-13-Parte-6-1986-3.jpg" , SEXTA FEIRA 13 PARTE VI: JASON VIVE
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SXTFR13PTVI.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-aqMDhu7tqIU/UbFI3-x0nRI/AAAAAAAAGQs/fcPfG4aPU8M/s1600/Sexta-Feira+13+-+Parte+7.jpg" , SEXTA FEIRA 13 PARTE VII: A MATANÇA CONTINUA 
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SXTFR13PTVII.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ZOeG0fI.png" , SEXTA FEIRA 13 PARTE VIII: JASON ATACA EM NOVA YORK
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SXTFR13PTVIII.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://bocadoinferno.com.br/wp-content/uploads/2017/01/Jason-Vai-para-o-Inferno-1993-6.jpg" , JASON VAI PARA O INFERNO: A ÚLTIMA SEXTA-FEIRA
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SXTFR13PTIX.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/15/03/10/20/18/175541.jpg" , SEXTA FEIRA 13 2009
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SXTFR13.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zdfRa0FLVxfRwWhwitIZhjEIepI.jpg" , JASON X
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/JSNX.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://bocadoinferno.com.br/wp-content/uploads/2016/05/Freddy-Vs-Jason-2003-21.jpg" , FREDDY X JASON
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/FRDVSJSN.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="https://equipeprojetor.files.wordpress.com/2013/05/a-hora-do-pesadelo-1984.jpg" , A HORA DO PESADELO 
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AHRDPSDL01.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/medias/nmedia/18/87/92/36/19962939.jpg" , A HORA DO PESADELO II: A VINGANÇA DE FREDDY
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AHRDPSDL02.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="https://img.fstatic.com/NhxMDddYnkkA_yt8wT66-K8j2HQ=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2012/01/6472df00af75bdbb9d4bc25002762c77.jpg" , A HORA DO PESADELO III: OS GUERREIROS DOS SONHOS
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AHRDPSDL03.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://cinema10.com.br/upload/filmes/filmes_1944_A-Hora-do-Pesadelo-4-Poster.jpg" , A HORA DO PESADELO IV: O MESTRE DOS SONHOS
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AHRDPSDL04.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="https://equipeprojetor.files.wordpress.com/2013/05/a-hora-do-pesadelo-5-o-maior-horror-de-freddy.jpg" , A HORA DO PESADELO V
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AHRDPSDL05.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/EZsmNPW.png" , A HORA DO PESADELO VI:  O MAIOR HORROR DE FREDDY
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AHRDPSDL06.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="https://dvdbash.files.wordpress.com/2015/10/a-nightmare-on-elm-street-freddy-krueger-064-posters-dvdbash.jpg" , O NOVO PESADELO: O RETORNO DE FREDDY KRUEGER
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AHRDPSDL07.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/ee/A_Nightmare_on_Elm_Street_2010_poster.jpg" , A HORA DO PESADELO 2010
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AHRDPSDL08.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://filmesegames.com.br/wp-content/uploads/2015/04/dg-dance-collection-2000s.jpg" , INSENSÍVEIS
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/INSNSVS.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/87/35/37/20039772.jpg" , A MULHER DE PRETO
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AMLHRDPRT01.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/14/12/08/12/29/137270.jpg" , A MULHER DE PRETO 2: ANJO DA MORTE 
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AMLHRDPRT02.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://meialua.gamehall.uol.com.br/wp-content/uploads/2015/07/Amaldicoado_horns_Daniel_Radcliffe_Juno_temple-01.jpg" , AMALDIÇOADO
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AMLSCADO.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://bocadoinferno.com.br/wp-content/uploads/2013/04/Sobrenatural-2011-3.jpg" , SOBRENATURAL
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SBRNTRL.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://cdn.cinepop.com.br/2013/09/sobrenatural2_6.jpg" , SOBRENATURAL: CAPÍTULO 2
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SBRNTRLCP2.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="https://robertagui.files.wordpress.com/2015/06/sobrenaturalorigem_2.jpg" , SOBRENATURAL: A ORIGEM
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/SBRNTRLAORGM.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="https://www.popfilmeshd.net/wp-content/uploads/2018/01/hsO2XzROSI9WT21DjItGZN0NI0X-185x278.jpg" , SOBRENATURAL: A ÚLTIMA CHAVE
-http://cloud.popfilmeshd.net/popfilmes/FILMES/SOBRENATURAL-4-DUB-BAIXO.mp4
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-FT9VfV298UM/T59ggsLmNII/AAAAAAAAETo/0UUHp1W-_Ks/s1600/silent_hill_ver11.jpg" , TERROR EM SILENT HILL
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/TREMSLNTHLL.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="https://dailydead.com/wp-content/uploads/2012/10/Silent-Hill-3D-Illustrated.jpg" , SILENT HILL: REVELAÇÃO
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SLNTHLLRVLCAO.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/05/Venom_poster.jpg" , VENOM 
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/VENOM.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://fr.web.img4.acsta.net/pictures/14/07/30/12/55/041801.jpg" , REMANESCENTE: ESQUECIDOS POR DEUS
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/RMSCNTESQPRDES.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://bocadoinferno.com.br/wp-content/uploads/2013/03/Pacto-Secreto-2009-3.jpg" , PACTO SECRETO
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PCTSCRT.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/87/34/65/20028736.jpg" , O RITUAL 
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ORTAL.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Hannibal_movie_poster.jpg/220px-Hannibal_movie_poster.jpg" , HANNIBAL 
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/HNBL.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/14/10/07/22/16/591185.jpg" , O SILÊNCIO DOS INOCENTES
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OSLNCDSINCTS.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://www.ccine10.com.br/wp-content/uploads/2013/09/CARRIE-A-ESTRANHA.jpg" , CARRIE A ESTRANHA 1976
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/CRIEAESTNH1976.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-IA2bwP9an7g/UqPDX-muDUI/AAAAAAAAARg/E7i5kJJXhI8/s1600/carrie-poster2.jpg" , CARRIE A ESTRANHA 2013
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/CRIEAESTNH2013.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/medias/nmedia/18/93/11/58/20392738.jpg" , JOÃO E MARIA: CAÇADORES DE BRUXAS
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/JAOEMRA01.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="https://maniacosporfilme.files.wordpress.com/2014/05/hansel-gretel-get-baked.jpg" , JOÃO E MARIA: E A BRUXA DA FLORESTA NEGRA
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/JAOMRAEABXDFLRSNG.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="https://www.dvdsreleasedates.com/posters/800/T/The-Town-That-Dreaded-Sundown-2014-movie-poster.jpg" , ASSASSINO INVISÍVEL
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ASSNINVSL.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/14/06/27/13/57/247158.jpg" , A MARCA DO MEDO
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AMRCDMDDUB.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91YAcdKEXHL._SY550_.jpg" , A LENDA DO CAVALEIRO SEM CABEÇA
-
-#EXTINF:-1 tvg-logo="https://imgur.com/HiBo5S8.jpg" , CEMITERIO MALDITO
-https://docs.google.com/file/d/0B68ljHcAU_cqX2lRdGVUM1RGRlk/preview
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/R2Zdo3y.jpg" , CEMITERIO MALDITO 2 
-https://docs.google.com/file/d/0B68ljHcAU_cqaUZobXRMbDltQ2c/preview
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g4uBZJp.jpg" , A NOITE DOS MORTOS VIVOS
-https://docs.google.com/file/d/0B2121ln_EvAcWERaVUtSYWFEZ2M/preview
-
-#EXTINF:-1 tvg-logo="http://megaboxfilmesonline.com/wp-content/uploads/2016/10/capa17-136x186.jpg" ,  CABANA DO INFERNO 2 
-https://docs.google.com/file/d/0ByMKgzgG_howVVZTZG5VUERkYzQ/preview
-
-#EXTINF:-1 tvg-logo="https://tv.olink.pm/filmes/img/As%20Horas%20Finais.jpg" , AS HORAS FINAIS
-http://lh3.googleusercontent.com/cH83OiKgb7TOBwzH5pFBqQiH7fzhL-q84Rj3KWaAqOnvUQdyoG6SM1o3nb3EVZo9m3M=m22
-
-#EXTINF:-1 tvg-logo="http://tv.olink.pm/filmes/img/A%20Casa%20dos%20Sonhos.jpg" , A CASA DOS SONHOS
-https://lh3.googleusercontent.com/NY0r-rUlyr-Sbghk6f-94wm5jFOzfLIIrl_mMcJ4G6kcrspBPRuxL5iSh-OFc4V7drI=m22
-
-#EXTINF:-1 tvg-logo="http://tv.olink.pm/filmes/img/N%C3%BAmero%2023.jpg" , NÚMERO 23
-http://lh3.googleusercontent.com/LhHu2bvj-bfFr7SoIVPdGs01MK0D-iCrIQJTZiE16afIJ-mrC-nBLXE5V4DMDh5T6Pc=m22
-
-#EXTINF:-1 tvg-logo="https://tv.olink.pm/filmes/img/A%20Pir%C3%A2mide.jpg" , A PIRÂMIDE
-http://lh3.googleusercontent.com/zrJcfkxC35iTC9yUmiSOP0sovzL_DGsx395oIZ6gbli3cW_aOYlP9tsWk2QKkGCJX3Y=m22
-
-#EXTINF:-1 tvg-logo="https://tv.olink.pm/filmes/img/A%20Apari%C3%A7%C3%A3o.jpg" , A APARIÇÃO
-http://lh3.googleusercontent.com/utUcgRsWsz93UGIiJZqd3G_vkX_dg-nzJ9NLDWOGGqlDcCbmVoPruCJUDpS1vNvnf98=m22
-
-#EXTINF:-1 tvg-logo="https://tv.olink.pm/filmes/img/A%20Casa%20Silenciosa.jpg" , A CASA SILENCIOSA
-http://lh3.googleusercontent.com/yJ-S24r4AJlv6Q_yTdZb0ee-qXVn52ElrTDjZykrPUFQjlBYfdyXyasYVG7vyUrZgv0=m22
-
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/14/06/17/20/27/286744.jpg" , DRÁCULA: A HISTÓRIA NUNCA CONTADA
-http://lh3.googleusercontent.com/94NPclUDQdLLaGAmIMSJvzOeCh4oi3bLDHVjJ23GM6D9qhFoOTRGUsPzhxdd3E2_c9Y=m22
-
-#EXTINF:-1 tvg-logo="https://tv.olink.pm/filmes/img/Remanescentes.%20Esquecidos%20por%20Deus.jpg" , Remanescentes: Esquecidos por Deus
-https://lh3.googleusercontent.com/Sj-CuKKKdZXKQ-3Dgldl53m7JmXTYtJf9Qg-PxZ3W3bIeorYqn4EuiJW-Yl4uq90DrA=m22
-
-#EXTINF:-1 tvg-logo="https://tv.olink.pm/filmes/img/O%20Pesadelo.jpg" , O PESADELO
-http://lh3.googleusercontent.com/f3dBHt8JF8L4Soeu5AyALB2aPoAHHLSRMesZu0u85Zl-x5WOhsECM5cLNTKyaVKtrZ8=m22
-
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/14/07/25/21/11/140979.jpg" , TUSK: A TRANSFORMAÇÃO
-http://lh3.googleusercontent.com/9MCmZ1Nhegr_OOsBp8osYJFhLWUfo_vZj3WkFQN2nuGgXBVcqsxYc4V0OkCljDmCHRU=m22
-
-#EXTINF:-1 tvg-logo="https://tv.olink.pm/filmes/img/Assim%20na%20Terra%20Como%20no%20Inferno.jpg" , ASSIM NA TERRA COMO NO INFERNO
-https://lh3.googleusercontent.com/OjMYmXFMjbJ8JcROTPTHo5QDd6H0ChNl6m3u1h_QyLJQ_jhuyGfA0AIeSapDsH-MKss=m22
-
-#EXTINF:-1 tvg-logo="https://tv.olink.pm/filmes/img/O%20%C3%9Altimo%20Sacramento.jpg" , O ÚLTIMO SACRAMENTO
-http://lh3.googleusercontent.com/UGgqs0BOEeUSVXr1_wICIDhv9Nbau7AldrffjjwiHx_goVeUoqsIr8Y31VCqa03oaEw=m22
-
-#EXTINF:-1 tvg-logo="https://tv.olink.pm/filmes/img/O%20Espelho.jpg" , O ESPELHO
-http://lh3.googleusercontent.com/NEilD3mr2kDwAF7-geNdmkjPsrlDD8hbd0KGzI23v37BkVdhIGPKK6lLMkjCTVYm6C4=m22
-
-#EXTINF:-1 tvg-logo="https://tv.olink.pm/filmes/img/Sinistro.%20A%20Maldi%C3%A7%C3%A3o%20do%20Lobisomem.jpg" , SINISTRO: A MALDIÇÃO DO LOBISOMEM
-https://lh3.googleusercontent.com/svY7Yre1dwQc5m0QSfHa4Ies_wiDdKCFDg25ldw45J-X4rXkKAqme6GQGrHbzOI2bTk=m22
-
-#EXTINF:-1 tvg-logo="https://tv.olink.pm/filmes/img/Abdu%C3%A7%C3%A3o.jpg" , ABDUÇÃO
-http://lh3.googleusercontent.com/UzUuEBhH7bOXG7gDtInM7G2ypzQEVYu_r-rgUBwmYUHNBhO_rGn3dEKTOhZIJ-AsfHQ=m22
-
-#EXTINF:-1 tvg-logo="https://tv.olink.pm/filmes/img/O%20Pacto.jpg" , O PACTO
-http://lh3.googleusercontent.com/cs9A3n0coNPiHzigwr83u0-IPMHDxHS9PURpi7LD2VWc3TYk40mkM-k8L9MSNlu95jo=m22
-
-#EXTINF:-1 tvg-logo="https://tv.olink.pm/filmes/img/Stake%20Land.%20Anoitecer%20Violento.jpg" , STAKE LAND: ANOITECER VIOLENTO
-http://lh3.googleusercontent.com/9nYQAvCg4VL6KWUJI9FSjKhm2dUvUx_8wX9D-Km8oq2IRtoGxZaaOpqxOPIVXqCFHYA=m22
-
-#EXTINF:-1 tvg-logo="https://tv.olink.pm/filmes/img/Constantine.jpg" , CONSTANTINE
-http://lh3.googleusercontent.com/dlnZgTV55Z3t18eGbhW7muszzU4u41AVL0vi29ZsZ70aex-aYEPyteV88mlTQkvZZ20=m22
-
-#EXTINF:-1 tvg-logo="https://tv.olink.pm/filmes/img/Meu%20Beb%C3%AA%20%C3%A9%20o%20Diabo.jpg" , MEU BEBÊ É O DIABO 
-https://lh3.googleusercontent.com/zJWfSt6vRDd0UQeuZPdYV5mnj3EHR_GbJAw64QRNXi8tAiRrGOpl1cRGI84nT3TtHEk=m22
-
-#EXTINF:-1 tvg-logo="https://tv.olink.pm/filmes/img/Todo%20Mundo%20Quase%20Morto.jpg" , TODO MUNDO QUASE MORTO
-http://lh3.googleusercontent.com/U4sQ9Q63ZsWI9qUSwfwhejHGjiRNOVtUQxjyhiyGY57gxBR0ddsgFqCMNuYIi6eAzZc=m22
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-C3WfqjixB10/VXqRs7ncxVI/AAAAAAAADzE/h70IReHcDTU/s1600/Espelhos%2Bdo%2BMedo.jpg" , ESPELHOS DO MEDO
-http://lh3.googleusercontent.com/SKmr9b160VFcDbzYMXaATGtlwNSyyIgSsAyxIAyXxANu2hCs7rC2cujKYcroY250C42q1EmWz50=m22
-
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/16/03/29/16/29/520783.jpg" , A ÚLTIMA PREMONIÇÃO
-https://lh3.googleusercontent.com/IvP0vvEKirm9DhhSYoAdYIzKscWV1ZOh6txTYRGsE7Yvu1207cxiWWEETyQoS6bCv52QtD24aZsYvw=m22
-
-#EXTINF:-1 tvg-logo="http://telecine.img.estaticos.tv.br/cache/cartazes/a-epidemia_cartaz_220x283.jpg" , A EPIDEMIA
-http://media-br-am.crackle.com/1/7/v6/je3lf_480p.mp4|Referer=http://www.redecanais.com/
-
-#EXTINF:-1 tvg-logo="http://www.ccine10.com.br/wp-content/uploads/2013/10/O-Iluminado.jpg" , O ILUMINADO 
-https://docs.google.com/file/d/0B1RqLvgCQR6waG5FbHRTZVBmR1U/preview
-
-#EXTINF:-1  tvg-logo="http://i.imgur.com/g3SOWpz.jpg"  ,O LABIRINDO DO FAUNO
-https://lh3.googleusercontent.com/vbNSy6qWPvjb7PL51RH1Q2jtY2_FbLIondQpAiII4PiEahxtCBpmxRWxviB3dA9EbsfRO72GZA=m18
-
-#EXTINF:-1 tvg-logo="http://i0.wp.com/www.popfilmeshd.net/wp-content/uploads/2016/10/uToDyadv9wfKnsFSC45r0JCs0RK.jpg?resize=185%2C278" , PANICO NA FLORESTA 1
-https://lh3.googleusercontent.com/kE9KHYJuzKRphu5Szqrlq_IG4S1xFSwhtcn5gh5UsZGDT5ZEXkDoNPfekf7y9_wMGX1I5aPA3Q=m18
-
-#EXTINF:-1 tvg-logo="http://i1.wp.com/www.popfilmeshd.net/wp-content/uploads/2016/10/b26T9VE7ARktL6QCVWZm5DsPbsA.jpg?resize=185%2C278" , PANICO NA FLORESTA 2
-https://lh3.googleusercontent.com/aBMVgo7zW1OGec3G9yQPlguHOf5hPhHOK9ebGJILpyfmS7Adt6ecDZif4PkdwebLpZlL3wzQHg=m18
-
-#EXTINF:-1 tvg-logo="http://i2.wp.com/www.popfilmeshd.net/wp-content/uploads/2016/10/schshByxLlL6654EEkSyxPgkyuw.jpg?resize=185%2C278" , PANICO NA FLORESTA 3
-https://lh3.googleusercontent.com/vCZk_UpHfHrvSh0UCr2FE-nNmpiOhXPKjscOFQn3G8GnYQJ7cw4MLerXQn-73M0dEtGoCsIjww=m18
-
-#EXTINF:-1 tvg-logo="http://i2.wp.com/www.popfilmeshd.net/wp-content/uploads/2016/10/hA6h7wjSAudw0hIVCUDs6KD0b9E.jpg?resize=185%2C278" , PANICO NA FLORESTA 4
-https://lh3.googleusercontent.com/CKPWF63MrAUpz5D9nzbyTz3SFUdzcEtx3ckiq3Qcxp6Jca_MK9b7_v5qWD1uKE6kyNhiQZHw3g=m18
-
-#EXTINF:-1 tvg-logo="http://i2.wp.com/www.popfilmeshd.net/wp-content/uploads/2016/10/gr1fcMtcgg9ipMQ33V2sVcH5AXO.jpg?resize=185%2C278" , PANICO NA FLORESTA 5
-https://lh3.googleusercontent.com/jeKvlfMV_lf1sGZpY1FJuidT5LXWuwrMjB-NRPV276UzZflnxKSlc8PtUEFvnqUTiEUIaa3NAw=m18
-
-#EXTINF:-1 tvg-logo="http://i0.wp.com/www.popfilmeshd.net/wp-content/uploads/2016/10/9m2ish4m3tbCMCr9gxal9LgybYG.jpg?resize=185%2C278" , PANICO NA FLORESTA 6
-https://lh3.googleusercontent.com/emtk3lVyD4zMnH85_8xaUy1w4jxhg1qKhMzDlzgp_YpyDlbEUG7R3v6DlBh4xviZPpIsxaK50w=m18
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Invocação do Mal 2 (Dublado) - 2016 - 1080p[/B][/COLOR]</title>
+		<link>http://d3eryu5vlst7sb.ec.cx/RedeCanais/RedeCanais/RCFServer3/ondemand1/INVCAODML2.mp4|Referer=http://www.redecanais.com.br/</link>
+		<thumbnail>http://br.web.img3.acsta.net/pictures/16/04/18/20/43/025084.jpg</thumbnail>
+		<fanart>http://seriesemcena.com.br/wp-content/uploads/2016/04/Invoca%C3%A7%C3%A3o-do-Mal-2-Poster-Main-2.jpg</fanart>
+		<info>Os famosos demonologistas Lorraine e Ed Warren viajam ao norte de Londres. Lá eles ajudam uma mãe solteira que cria quatro filhos sozinha em uma casa atormentada por espíritos malignos.</info>
+		<genre>Terror</genre>
+	</item>
+
+
+
+	<item>
+		<title>[COLOR white][B]Quando as Luzes se Apagam (Dublado) - 2016 - 1080p[/B][/COLOR]</title>
+		<link>http://d3eryu5vlst7sb.ec.cx/RedeCanais/RedeCanais/RCFServer3/ondemand1/QNDASLZSAPGM.mp4|Referer=http://www.redecanais.com.br/</link>
+		<thumbnail>http://br.web.img3.acsta.net/r_1280_720/pictures/16/04/08/20/47/242656.jpg</thumbnail>
+		<fanart>https://i.ytimg.com/vi/aH3lLOumNoQ/hq720.jpg</fanart>
+		<info>Rebecca saiu de casa e pensou que iria esquecer seus medos da infância, já que nunca soube o que era real e o que não quando as luzes se apagavam. Agora, seu irmão Martin vive os mesmos eventos que já testaram a sanidade de Rebecca.</info>
+		<genre>Terror</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Águas Rasas (Dublado) - 2016 - 1080p[/B][/COLOR]</title>
+		<link>http://d3eryu5vlst7sb.ec.cx/RedeCanais/RedeCanais/RCFServer3/ondemand1/AGUSRAS.mp4|Referer=http://www.redecanais.com.br/</link>
+		<thumbnail>http://br.web.img3.acsta.net/pictures/16/03/21/09/49/592714.jpg</thumbnail>
+		<fanart>http://noset.com.br/wp-content/uploads/2016/08/maxresdefault-13.jpg</fanart>
+		<info>No momento em que a jovem Nancy surfa sozinha em uma praia isolada, é atacada por um enorme tubarão branco. Ferida, mas a poucos metros da praia, ela tem que lutar por sua vida até conseguir sair da água.</info>
+		<genre>Terror</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Anjos da Noite: Guerras De Sangue (Dublado) - 2016 - 1080p[/B][/COLOR]</title>
+		<link>http://d3eryu5vlst7sb.ec.cx/RedeCanais/RedeCanais/RCFServer3/ondemand1/ANJSDNT5.mp4|Referer=http://www.redecanais.com.br/</link>
+		<thumbnail>http://br.web.img3.acsta.net/pictures/16/09/13/10/01/479417.jpg</thumbnail>
+		<fanart>https://i.ytimg.com/vi/zqP1Jmsw72U/maxresdefault.jpg</fanart>
+		<info>Com a ajuda de seus aliados, a vampira híbrida Selene tenta por fim à guerra eterna entre vampiros e Lycans, mesmo que isso signifique o sacrifício total.</info>
+		<genre>Terror</genre>
+	</item>
+
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/QNDASLZSAPGM.mp4
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Doce Vingança 3: A Vingança é Minha (Dublado) - 2016 - 1080p[/B][/COLOR]</title>
+		<link>http://d83tbaqcuezmn.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/DCVNGCA3.mp4|Referer=http://www.redecanais.com.br/</link>
+		<thumbnail>http://br.web.img2.acsta.net/r_1280_720/pictures/16/06/22/17/19/099819.jpg</thumbnail>
+		<fanart>https://image.tmdb.org/t/p/original/pA64Ov7lDpwXBu33yq0KpmAOYJL.jpg</fanart>
+		<info>Jennifer Hills ainda é atormentada pelo estupro brutal que sofrera há vários anos. Ela muda de identidade e de cidade, juntando-se a um grupo de apoio, a fim de juntar as peças de uma vida nova. Porém, quando os assassinos de sua amiga são libertados, e as histórias de estupradores em série começam a assombrá-la, Jennifer vai caçá-los e fazer justiça com as próprias mãos - e fazê-los pagar por seus crimes das piores maneiras imaginadas.</info>
+		<genre>Terror</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Ouija: Origem Do Mal (Dublado) - 2017 - 1080p[/B][/COLOR]</title>
+		<link>http://d3eryu5vlst7sb.ec.cx/RedeCanais/RedeCanais/RCFServer3/ondemand1/OUJORGMDML.mp4|Referer=http://www.redecanais.com.br/</link>
+		<thumbnail>http://br.web.img3.acsta.net/r_1280_720/pictures/16/06/23/18/55/294204.jpg</thumbnail>
+		<fanart>https://i.ytimg.com/vi/Ayd1f2RBr1A/maxresdefault.jpg</fanart>
+		<info>Doris é uma menina solitária e sua mãe finge se comunicar com espíritos. Certo dia, a garota usa um tabuleiro de Ouija para contato com o falecido pai e uma série de seres malignos se apoderam de seu corpo.</info>
+		<genre>Terror</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Ouija: A Ressurreição (Dublado) - 2015 - 1080p[/B][/COLOR]</title>
+		<link>http://d83tbaqcuezmn.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OUIJAOARSRCAO.mp4|Referer=http://www.redecanais.com.br/</link>
+		<thumbnail>http://br.web.img3.acsta.net/r_1280_720/pictures/15/03/24/15/05/425866.jpg</thumbnail>
+		<fanart>https://s2-ssl.dmcdn.net/eoZqz.jpg</fanart>
+		<info>Um grupo de jovens fica preso em um teatro graças à intervenção de um espírito maligno, libertado através de um tabuleiro Ouija.</info>
+		<genre>Terror</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Ouija Exorcismo (Dublado) - 2016 - 1080p[/B][/COLOR]</title>
+		<link>http://d3eryu5vlst7sb.ec.cx/RedeCanais/RedeCanais/RCFServer3/ondemand1/OUJEXRCMS.mp4|Referer=http://www.redecanais.com.br/</link>
+		<thumbnail>http://br.web.img2.acsta.net/r_1280_720/pictures/15/12/14/14/48/142393.jpg</thumbnail>
+		<fanart>https://s-media-cache-ak0.pinimg.com/originals/01/ed/f6/01edf6dedd098ed5560c9ef0c4289815.jpg</fanart>
+		<info>Em 1985, um célebre exorcista aprisionou um demônio horroroso dentro de um tabuleiro ouija. Pensando ser um jogo de tabuleiro, seu filho joga sem obedecer as regras, e o demônio acaba sendo solto. Para salvar seu filho, o exorcista o envia para longe até que o demônio pudesse ser destruído. Trinta anos depois de sua morte, seu neto encontra o tabuleiro e acaba cometendo o mesmo erro que seu pai. Agora, o mal está de volta e vagando pela terra, para aterrorizar os responsáveis ??pela sua prisão</info>
+		<genre>Terror</genre>
+	</item>
+	
+	<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]O Chamado 3 (Dublado) - 2017 - 1080p[/B][/COLOR]</title>
+		<link>http://d3eryu5vlst7sb.ec.cx/RedeCanais/RedeCanais/RCFServer3/ondemand1/OCHMD3.mp4|Referer=http://www.redecanais.com.br/</link>
+		<thumbnail>http://br.web.img2.acsta.net/pictures/17/01/05/22/10/519378.jpg</thumbnail>
+		<fanart>https://i.ytimg.com/vi/a2WwhQ2poPY/maxresdefault.jpg</fanart>
+		<info>Julia resolve se distanciar do namorado Holt após assistir uma fita amaldiçoada. Depois, eles terão que se unir para salvarem suas vidas de uma possuída Samara.</info>
+		<genre>Terror</genre>
+	</item>
+
+	<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Ouija: Onde Tudo Começo (Dublado) - 2011 - 1080p[/B][/COLOR]</title>
+		<link>http://d3eryu5vlst7sb.ec.cx/RedeCanais/RedeCanais/RCFServer3/ondemand1/OUJONDTDCM.mp4|Referer=http://www.redecanais.com.br/</link>
+		<thumbnail>http://br.web.img2.acsta.net/r_1280_720/pictures/14/01/30/15/38/550167.jpg</thumbnail>
+		<fanart>https://i1.wp.com/www.cinemundo.net.br/wp-content/uploads/2016/12/OUIJA-2-ET.jpg</fanart>
+		<info>Cinco amigos filmam uma sessão de uso do tabuleiro Ouija, que atrai espíritos malignos que começam a persegui-los.</info>
+		<genre>Terror</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Invocação do Mal (Dublado) - 2013 - 1080p[/B][/COLOR]</title>
+		<link>http://d3eryu5vlst7sb.ec.cx/RedeCanais/RedeCanais/RCFServer3/ondemand1/INVCAODML.mp4|Referer=http://www.redecanais.com.br/</link>
+		<thumbnail>http://br.web.img2.acsta.net/pictures/210/166/21016629_2013062820083878.jpg</thumbnail>
+		<fanart>https://www.blahcultural.com/wp-content/uploads/2014/05/conjuring.jpg</fanart>
+		<info>Os investigadores paranormais Ed e Lorraine Warren trabalham para ajudar a família aterrorizada por uma entidade demoníaca em sua fazenda.</info>
+		<genre>Terror</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Sobrenatural: A Origem (Dublado) - 2015 - 1080p[/B][/COLOR]</title>
+		<link>http://d83tbaqcuezmn.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/SBRNTRLAORGM.mp4|Referer=http://www.redecanais.com.br/</link>
+		<thumbnail>https://goo.gl/nhqig2</thumbnail>
+		<fanart>https://goo.gl/po31oU</fanart>
+		<info>Vítima de uma entidade sobrenatural perigosa, a adolescente Quinn Brenner busca a ajuda da médium Elise Rainier, que por meio de suas habilidades paranormais descobre a existência de um demônio com sede de almas humanas.</info>
+		<genre>Terror</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Sexta-Feira 13 (Dublado) - 2009 - 1080p[/B][/COLOR]</title>
+		<link>http://d83tbaqcuezmn.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SXTFR13.mp4|Referer=http://www.redecanais.com.br/</link>
+		<thumbnail>https://goo.gl/9o8u2t</thumbnail>
+		<fanart>https://goo.gl/j2pN3q</fanart>
+		<info>Sexta-Feira 13 é uma longa série de filmes de terror dos Estados Unidos criada pelo diretor Sean S. Cunninghan. A série já conta com 12 filmes, e a franquia já lucrou no total mais de 500.000.000 de dólares. O primeiro filme é de 1980.</info>
+		<genre>Terror</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]A Noiva de Chucky (Dublado) - 1999 - 720p[/B][/COLOR]</title>
+		<link>http://d83tbaqcuezmn.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ANVDCHCKY.mp4|Referer=http://www.redecanais.com.br/</link>
+		<thumbnail>https://goo.gl/oRrBnR</thumbnail>
+		<fanart>https://goo.gl/ufNpfS</fanart>
+		<info>Tiffany consegue resgatar os restos de Chucky que estavam sendo guardados como evidência policial, e com agulha, linha e uma caixa cheia de pedaços de bonecas velhas consegue refazê-lo. Através de um ritual vudu, ela faz com que a alma do seu ex-namorado volte para o boneco. Porém, o casal se desentende e Chucky acaba trancado em uma pequena jaula com uma boneca vestida de noiva.</info>
+		<genre>Terror</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Jogos Mortais (Dublado) - 2004 - 1080p[/B][/COLOR]</title>
+		<link>http://d83tbaqcuezmn.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/JGSMRTS01.mp4|Referer=http://www.redecanais.com.br/</link>
+		<thumbnail>https://goo.gl/y2q6zJ</thumbnail>
+		<fanart>https://goo.gl/TRGwsY</fanart>
+		<info>Dois homens acordam acorrentados em um banheiro e se descobrem prisioneiros de um serial killer que leva suas vítimas a situações limítrofes num jogo pela sobrevivência. Para se salvar, terão que desvendar juntos as peças desse quebra-cabeças.</info>
+		<genre>Terror</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Canibais (Dublado) - 2016 - 1080p[/B][/COLOR]</title>
+		<link>http://d83tbaqcuezmn.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/CANBS.mp4|Referer=http://www.redecanais.com.br/</link>
+		<thumbnail>https://goo.gl/VnkRJ6</thumbnail>
+		<fanart>https://goo.gl/eZ8YBR</fanart>
+		<info>Um grupo de estudantes ativistas viaja à Amazônia com o objetivo de proteger uma tribo. O avião em que eles estão cai no meio da mata e aqueles que sobrevivem são capturados por indígenas. O que eles não sabiam é que se trata de uma tribo de canibais.</info>
+		<genre>Terror</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Perseguição (Dublado) - 2016 - 720p[/B][/COLOR]</title>
+		<link>http://d83tbaqcuezmn.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/PRSGCAO.mp4|Referer=http://www.redecanais.com.br/</link>
+		<thumbnail>https://goo.gl/vXR3WS</thumbnail>
+		<fanart>https://goo.gl/14LpjB</fanart>
+		<info>Após cinco semanas pesadas de trabalho em uma refinaria de óleo, um grupo de trabalhadores retorna para o descanso merecido. Uma forte tempestade causa a queda do avião na imensidão gelada do Alasca, e apenas oito deles sobrevivem. Liderados pelo experiente caçador John Ottway, os homens seguem rumo ao sul, onde pretendem encontrar a segurança da civilização. Ferimentos mortais, a ameaça constante do gelo e uma alcateia de lobos famintos dificultam a jornada.</info>
+		<genre>Terror</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]A Entidade 2 (Dublado) - 2015 - 1080p[/B][/COLOR]</title>
+		<link>http://d83tbaqcuezmn.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/AENTDADE2.mp4|Referer=http://www.redecanais.com.br/</link>
+		<thumbnail>https://goo.gl/S159mS</thumbnail>
+		<fanart>https://goo.gl/6fMBbY</fanart>
+		<info>Jovem mãe se muda com os filhos de 9 anos para uma casa em uma área rural de uma cidade pequena. Não demora muito para ela descobrir que o lugar foi palco de estranhos acontecimentos e que sua família está marcada para morrer.</info>
+		<genre>Terror</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Regresso do Mal (Dublado) - 2016 - 1080p[/B][/COLOR]</title>
+		<link>http://d83tbaqcuezmn.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/RGRSDMAL.mp4|Referer=http://www.redecanais.com.br/</link>
+		<thumbnail>https://goo.gl/WxRBkZ</thumbnail>
+		<fanart>https://goo.gl/Pv9iUw</fanart>
+		<info>Assombrado por imagens assustadoras e mensagens inexplicáveis, um homem tenta descobrir o mistério por trás do desaparecimento de seu filho.</info>
+		<genre>Terror</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Premonição 5 (Dublado) - 2011 - 1080p[/B][/COLOR]</title>
+		<link>http://d83tbaqcuezmn.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PRMNCAO5.mp4|Referer=http://www.redecanais.com.br/</link>
+		<thumbnail>https://goo.gl/16kagk</thumbnail>
+		<fanart>https://goo.gl/jsoaMW</fanart>
+		<info>Um jovem tem uma premonição e salva um grupo de pessoas da morte quando uma ponte suspensa começa a desabar. Contudo, eles logo aprendem que não têm como fugir da morte.</info>
+		<genre>Terror</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]A Ressurreição do Anticristo (Dublado) - 2016 - 1080p[/B][/COLOR]</title>
+		<link>http://d83tbaqcuezmn.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ARSRCAODANTCRST.mp4|Referer=http://www.redecanais.com.br/</link>
+		<thumbnail>https://goo.gl/dRQEas</thumbnail>
+		<fanart>https://goo.gl/kEdDqD</fanart>
+		<info>Michael e Rachel ficam desolados quando seu filho de seis anos morre em um acidente trágico. Quando um estranho afirma que pode ressuscitar o menino, o casal aceita a oferta, mas a criança revivida não é a mesma que eles conheciam.</info>
+		<genre>Terror</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]O Chamado 2 (Dublado) - 2005 - 1080p[/B][/COLOR]</title>
+		<link>http://d83tbaqcuezmn.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OCHMD2.mp4|Referer=http://www.redecanais.com.br/</link>
+		<thumbnail>https://goo.gl/e2FKVu</thumbnail>
+		<fanart>https://goo.gl/JpEsj6</fanart>
+		<info>Seis meses depois do incidente com o vídeo, a jornalista Rachel se muda com seu filho, Aidan, para uma cidade litorânea para fugir de Samara. Rachel entra para um jornal pequeno e recebe a informação de que uma pessoa foi encontrada morta com o rosto desfigurado. Ela começa a investigar e descobre que a menina do vídeo continua a perseguir e espalhar o terror por meio da fita amaldiçoada. Samara reiniciou seu ciclo de assassinatos e agora está atrás de outras vítimas.</info>
+		<genre>Terror</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Jogos Mortais 2 (Dublado) - 2005 - 1080p[/B][/COLOR]</title>
+		<link>http://d83tbaqcuezmn.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/JGSMRTAS02.mp4|Referer=http://www.redecanais.com.br/</link>
+		<thumbnail>https://goo.gl/DhHwVy</thumbnail>
+		<fanart>https://goo.gl/UPUi7w</fanart>
+		<info>O detetive Eric Matthews consegue prender Jigsaw, o qual está morrendo. O que ele desconhece é que isso faz parte de um plano ainda maior do assassino sádico, que agora mantém o filho do policial como refém e pretende torná-lo uma de suas vítimas.</info>
+		<genre>Terror</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]O Massacre da Serra Elétrica (Dublado) - 2003 - 1080p[/B][/COLOR]</title>
+		<link>http://d83tbaqcuezmn.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OMSCRDSRELTRC2003.mp4|Referer=http://www.redecanais.com.br/</link>
+		<thumbnail>https://goo.gl/pv69ai</thumbnail>
+		<fanart>https://goo.gl/crdH3a</fanart>
+		<info>Em 1973, a polícia texana deu como encerrado o caso de um terrível massacre de 33 pessoas provocado por um homem que usava uma máscara feita de pele humana. Nos anos que se seguiram os policiais foram acusados de fazer uma péssima investigação e de terem matado o cara errado. Só que dessa vez, o único sobrevivente do massacre vai contar em detalhes o que realmente aconteceu na deserta estrada do Texas, quando ele e mais 4 amigos estavam indo visitar o seu avô.</info>
+		<genre>Terror</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]A Entidade (Dublado) - 2012 - 1080p[/B][/COLOR]</title>
+		<link>http://d83tbaqcuezmn.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/AENTDADE1.mp4|Referer=http://www.redecanais.com.br/</link>
+		<thumbnail>https://goo.gl/wcJuSW</thumbnail>
+		<fanart>https://goo.gl/4qJzP4</fanart>
+		<info>Um autor de romances criminais encontra uma caixa com filmagens antigas de crimes horripilantes, que parecem ter sido cometidos por um assassino em série. Ao investigar, ele e sua família se tornam alvos de uma entidade sobrenatural maligna.</info>
+		<genre>Terror</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Jogos Mortais 3 (Dublado) - 2006 - 1080p[/B][/COLOR]</title>
+		<link>http://d83tbaqcuezmn.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/JGSMRTAS03.mp4|Referer=http://www.redecanais.com.br/</link>
+		<thumbnail>https://goo.gl/L4krFZ</thumbnail>
+		<fanart>https://goo.gl/kWLmEb</fanart>
+		<info>Dr. Lynn Denlon se torna uma peça no último jogo sangrento do assassino Jigsaw. Raptada e levada para um armazém abandonado, ela encontra Jigsaw acamado e morrendo. Sua tarefa é manter o maníaco vivo, dando o tempo suficiente para Jeff, uma vítima, completar uma tarefa. Eles não sabem que Jigsaw, na verdade, tem um plano muito maior e mortal.</info>
+		<genre>Terror</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Jogos Mortais: O Final (Dublado) - 2010 - 1080p[/B][/COLOR]</title>
+		<link>http://d83tbaqcuezmn.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/JGSMRTAS07.mp4|Referer=http://www.redecanais.com.br/</link>
+		<thumbnail>https://goo.gl/k4W3qs</thumbnail>
+		<fanart>https://goo.gl/teqeWK</fanart>
+		<info>obreviventes se reúnem devido aos traumas adquiridos. Entre eles, o psicólogo que controla o encontro e não é uma vítima como as outras, mas tem segredos que podem reiniciar os ataques do psicopata.</info>
+		<genre>Terror</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]A Seita (Dublado) - 2016 - 1080p[/B][/COLOR]</title>
+		<link>http://d83tbaqcuezmn.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ASITA.mp4|Referer=http://www.redecanais.com.br/</link>
+		<thumbnail>https://goo.gl/qhtMii</thumbnail>
+		<fanart>https://goo.gl/H11zWt</fanart>
+		<info>Na década de 1980, vários membros da seita religiosa Véu do Céu cometeram suicídio coletivo. A único sobrevivente foi uma garoto de cinco anos. Vinte cinco anos depois, uma equipe, liderada por Maggie (Jessica Alba) deseja fazer um documentário sobre o tema e procura a sobrevivente. Eles voltam ao lugar onde tudo aconteceu e descobrem que há coisas estranhas no local.</info>
+		<genre>Terror</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Jogos Mortais IV (Dublado) - 2007 - 1080p[/B][/COLOR]</title>
+		<link>http://d83tbaqcuezmn.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/JGSMRTAS04.mp4|Referer=http://www.redecanais.com.br/</link>
+		<thumbnail>https://goo.gl/cXvd7z</thumbnail>
+		<fanart>https://goo.gl/3vEpUW</fanart>
+		<info>Um oficial tem apenas noventa minutos para salvar seu amigo, um comandante da SWAT, de uma série de armadilhas mortais.</info>
+		<genre>Terror</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Brinquedo Assassino 2 (Dublado) - 1990 - 720p[/B][/COLOR]</title>
+		<link>http://d83tbaqcuezmn.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/BRNQDASASN2.mp4|Referer=http://www.redecanais.com.br/</link>
+		<thumbnail>https://goo.gl/9BCk8o</thumbnail>
+		<fanart>https://goo.gl/4oWo6R</fanart>
+		<info>Após o último surto letal de Chucky, o fabricante do boneco assassino tenta salvar sua reputação remodelando-o. Mas ao fazê-lo, ressuscita a alma do homicida Charles Lee Ray, que retoma imediatamente sua índole assassina.</info>
+		<genre>Terror</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Fugindo Do Inferno (Dublado) - 2016 - 1080p[/B][/COLOR]</title>
+		<link>http://d3eryu5vlst7sb.ec.cx/RedeCanais/RedeCanais/RCFServer3/ondemand1/FGNDINFNO.mp4|Referer=http://www.redecanais.com.br/</link>
+		<thumbnail>https://goo.gl/tF3bTv</thumbnail>
+		<fanart>https://goo.gl/DmyWc6</fanart>
+		<info>Preso durante a Segunda Guerra Mundial em um campo de prisioneiros na Alemanha, um grupo de soldados aliados tem a intenção de sair, não só para escapar, mas também para atrair as forças nazistas para longe da batalha, para procurar os fugitivos. Entre os presos determinados a escaparem, estão o americano Capitão Virgil Hilts e o líder do esquadrão britânico Roger Bartlett. Burlando seus captores, eles cavam um túnel para a sua fuga.</info>
+		<genre>Terror</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Bruxa de Blair (Dublado) - 2016 - 1080p[/B][/COLOR]</title>
+		<link>http://d3eryu5vlst7sb.ec.cx/RedeCanais/RedeCanais/RCFServer3/ondemand1/BRXDBLR.mp4|Referer=http://www.redecanais.com.br/</link>
+		<thumbnail>https://goo.gl/U3Z82R</thumbnail>
+		<fanart>https://goo.gl/kPNPGL</fanart>
+		<info>Um grupo de três jovens cineastas desaparece ao entrar em uma floresta de Maryland para gravar um documentário sobre uma lenda local conhecida como A Bruxa de Blair. Anos depois, a câmera que usavam é encontrada.</info>
+		<genre>Terror</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Anjos da Noite: O Despertar (Dublado) - 2012 - 1080p[/B][/COLOR]</title>
+		<link>http://d3eryu5vlst7sb.ec.cx/RedeCanais/RedeCanais/RCFServer3/ondemand1/ANJSDNT4.mp4|Referer=http://www.redecanais.com.br/</link>
+		<thumbnail>http://t2.gstatic.com/images?q=tbn:ANd9GcQykgdDlaVyuxpABt-gllMN01QvjRmk1TsA_lCP9kkWvzYA9IC6</thumbnail>
+		<fanart>https://goo.gl/JSWbwc</fanart>
+		<info>Após passar anos em estado de coma induzido, a vampira Selene desperta e descobre que tem uma poderosa filha metade lobisomem, metade vampira. Agora Selene precisa defender a menina de um grupo de assassinos de lobisomens.</info>
+		<genre>Terror</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Atividade Paranormal: Dimensão Fantasma (Dublado) - 2015 - 1080p[/B][/COLOR]</title>
+		<link>http://d83tbaqcuezmn.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ATVDADPRNRMLDMFANT.mp4|Referer=http://www.redecanais.com.br/</link>
+		<thumbnail>https://goo.gl/uE6U3R</thumbnail>
+		<fanart>https://goo.gl/BDNGyB</fanart>
+		<info>Ryan Fleege, ao mudar-se para uma nova casa com a família, descobre uma caixa com dezenas de fitas cassete de décadas atrás e, estranhamente, as imagens parecem se comunicar com os vivos. Ryan também encontra uma câmera capaz de registrar atividades paranormais, e, com isso, ele passa a gravar fenômenos malignos que ameaçam seus entes queridos. Além de tudo disso, sua filha começa a se comunicar com um amigo imaginário.</info>
+		<genre>Terror</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Assassino Invisível (Dublado) - 2014 - 720p[/B][/COLOR]</title>
+		<link>http://d83tbaqcuezmn.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ASSNINVSL.mp4|Referer=http://www.redecanais.com.br/</link>
+		<thumbnail>https://goo.gl/zz4aEp</thumbnail>
+		<fanart>https://goo.gl/UD7Zmd</fanart>
+		<info>Um assassino em série mascarado aterroriza os moradores de uma pequena cidade. Sessenta e cinco anos depois do acontecido, surgem novas vítimas, e o mistério é ainda mais assustador.</info>
+		<genre>Terror</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Lobos (Dublado) - 2015 - 1080p/B][/COLOR]</title>
+		<link>http://d83tbaqcuezmn.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/LOBOS.mp4|Referer=http://www.redecanais.com.br/</link>
+		<thumbnail>https://goo.gl/EZmFDz</thumbnail>
+		<fanart>https://goo.gl/fPfmju</fanart>
+		<info>Lobo é o maior membro selvagem da família canidae. É um sobrevivente da Era do Gelo, originário do Pleistoceno Superior, cerca de 300 mil anos atrás.</info>
+		<genre>Terror</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]O Albergue 3 (Dublado) - 2011 - 720p[/B][/COLOR]</title>
+		<link>http://d83tbaqcuezmn.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OALBRGPT3.mp4|Referer=http://www.redecanais.com.br/</link>
+		<thumbnail>https://goo.gl/EqtB4s</thumbnail>
+		<fanart>https://goo.gl/K5i8FG</fanart>
+		<info>Quatro amigos são convidados para uma festa de solteiros em Las Vegas e se tornam peças de um jogo perverso de tortura em que os integrantes de uma organização chamada Clube de Caça Elite organizam o show mais sádico da cidade.</info>
+		<genre>Terror</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Frankenstein (Dublado) - 2016 - 1080p[/B][/COLOR]</title>
+		<link>http://d3eryu5vlst7sb.ec.cx/RedeCanais/RedeCanais/RCFServer3/ondemand1/FRNKSTEN.mp4|Referer=http://www.redecanais.com.br/</link>
+		<thumbnail>https://i0.wp.com/teaser-trailer.com/wp-content/uploads/frankenstein-poster.jpg?ssl=1</thumbnail>
+		<fanart>https://goo.gl/8TqEao</fanart>
+		<info>O cientista Victor Frankenstein e seu brilhante assistente, Igor Strausman, compartilham o desejo de ajudar a humanidade por meio de sua pesquisa inovadora sobre a imortalidade. Mas as experiências de Victor vão longe demais, e sua obsessão tem consequências terríveis. Apenas Igor pode trazer seu amigo de volta da beira da loucura e salvá-lo de sua criação monstruosa.</info>
+		<genre>Terror</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Jogos Mortais VI (Dublado) - 2009 - 1080p[/B][/COLOR]</title>
+		<link>http://d83tbaqcuezmn.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/JGSMRTS06.mp4|Referer=http://www.redecanais.com.br/</link>
+		<thumbnail>https://goo.gl/xLJxMo</thumbnail>
+		<fanart>https://goo.gl/KgLbAX</fanart>
+		<info>Com a influência de Jigsaw (Tobin Bell) direto das trevas, o detetive Hoffman (Costas Mandylor) é o novo herdeiro do assustador legado do assassino. Mas quando o FBI está prestes a capturá-lo, Hoffman inicia um jogo para revelar o grande esquema de Jigsaw.</info>
+		<genre>Terror</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Halloween 2 (Dublado) - 2009 - 720p[/B][/COLOR]</title>
+		<link>http://d83tbaqcuezmn.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/HALWENRII.mp4|Referer=http://www.redecanais.com.br/</link>
+		<thumbnail>https://goo.gl/pFuCZ1</thumbnail>
+		<fanart>https://goo.gl/yzzUZL</fanart>
+		<info>Um ano depois de escapar da morte nas mãos de Michael Myers (Tyler Mane), Laurie Strode está no seu limite depois da revelação do Dr. Loomis (Malcolm McDowell) de que ela é irmã de Michael. Mal sabe ela que o assassino está de volta em Haddonfield e, com visões da mãe morta (Sheri Moon Zombie), planeja uma sangrenta reunião em família.</info>
+		<genre>Terror</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Atividade Paranormal (Dublado) - 2007 - 720p[/B][/COLOR]</title>
+		<link>http://d83tbaqcuezmn.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ATVDADPRNRML1.mp4|Referer=http://www.redecanais.com.br/</link>
+		<thumbnail>https://goo.gl/NuitiQ</thumbnail>
+		<fanart>https://goo.gl/RC4hbi</fanart>
+		<info>Logo após se mudarem para uma nova casa, Katie e Micah ficam intrigados com o que parece ser uma presença sobrenatural que está agindo sobre o lugar. O casal decide capturar o possível fenômeno em vídeo, mas nenhum deles estava preparado para os acontecimentos que se seguem.</info>
+		<genre>Terror</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]O Novo Pesadelo - O Retorno de Freddy Krueger (Dublado) - 1994 - 1080p[/B][/COLOR]</title>
+		<link>http://d83tbaqcuezmn.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AHRDPSDL07.mp4|Referer=http://www.redecanais.com.br/</link>
+		<thumbnail>https://goo.gl/VRA2mC</thumbnail>
+		<fanart>https://goo.gl/KmKrdq</fanart>
+		<info>O filme "A Hora do Pesadelo" está perto de completar 10 anos. Uma das estrelas, Heather Langenkamp (Nancy Thompson), fica assustada ao ouvir por telefone uma voz bastante parecida com a de Freddy Krueger (Robert Englund), o vilão do filme. Pouco tempo depois o marido dela morre em um acidente de carro, sendo encontrado com as famosas marcas provocadas pela garra metálica de Freddy. Heather descobre que Wes Craven, diretor do filme original, está escrevendo o roteiro de uma sequência. É quando percebe que, para enfrentar Freddy, precisará voltar a interpretar Nancy Thomson, sua personagem no filme.</info>
+		<genre>Terror</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]A Morte do Demônio (Dublado) - 2013 - 1080p[/B][/COLOR]</title>
+		<link>http://d83tbaqcuezmn.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AMRTDPDMNIO.mp4|Referer=http://www.redecanais.com.br/</link>
+		<thumbnail>https://goo.gl/WEKxEL</thumbnail>
+		<fanart>https://goo.gl/eS4nUK</fanart>
+		<info>Mia é uma viciada em drogas que, para vencer seus demônios pessoais, vai com seu irmão David, a namorada do irmão, Natalie, e os amigos de infância Olivia e Eric até uma cabana rústica, que pertence à família. Assim que chegam, descobrem que a cabana foi invadida e que o porão parece uma espécie de altar, rodeado por animais mumificados, onde a descoberta de um Livro dos Mortos invoca forças demoníacas. A presença do mal os possui até que apenas um é deixado a lutar pela sobrevivência.</info>
+		<genre>Terror</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Halloween III: A Noite das Bruxas (Dublado) - 1982 - 1080p[/B][/COLOR]</title>
+		<link>http://d83tbaqcuezmn.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/HALWEN03.mp4|Referer=http://www.redecanais.com.br/</link>
+		<thumbnail>https://goo.gl/BdV78D</thumbnail>
+		<fanart>https://goo.gl/13ynwZ</fanart>
+		<info>Uma jovem investiga um fabricante de máscaras que pode ter sido o responsável pelo horrível assassinato de seu pai.</info>
+		<genre>Terror</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]O Albergue 2 (Dublado) - 2007 - 720p[/B][/COLOR]</title>
+		<link>http://d83tbaqcuezmn.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OALBRGPT2.mp4|Referer=http://www.redecanais.com.br/</link>
+		<thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/5/5f/Hostel_2.jpg/200px-Hostel_2.jpg</thumbnail>
+		<fanart></fanart>
+		<info>Três estudantes americanas decidem fazer uma excursão em Roma no fim de semana, com a intenção de conhecer um luxuoso spa. Mas em vez disso, elas são leiloadas por uma terrível organização que promove a tortura humana.</info>
+		<genre>Terror</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Escondidos (Dublado) - 2015 - 1080p[/B][/COLOR]</title>
+		<link>http://d3eryu5vlst7sb.ec.cx/RedeCanais/RedeCanais/RCFServer3/ondemand1/ESCNDS.mp4|Referer=http://www.redecanais.com.br/</link>
+		<thumbnail>https://goo.gl/2GqUEc</thumbnail>
+		<fanart>https://goo.gl/62gKNj</fanart>
+		<info>Trezentos e um dias após a explosão que mudou o mundo, Ray e sua família sobrevivem em um abrigo e esperam que, eventualmente, tudo volte ao normal. Mas algo desconhecido e perigoso se aproxima e a melhor opção é permanecerem escondidos.</info>
+		<genre>Terror</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Pacto Maligno (Dublado) - 2015 - 1080p[/B][/COLOR]</title>
+		<link>http://d83tbaqcuezmn.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PCTMLGNO.mp4|Referer=http://www.redecanais.com.br/</link>
+		<thumbnail>https://goo.gl/n6S5tM</thumbnail>
+		<fanart>https://goo.gl/fzfuhh</fanart>
+		<info>Dois irmãos travessos mudam-se com a mãe para a casa da avó, que necessita de cuidados especiais. Na residência, que fica em um local distante e isolado, eles fazem descobertas aterrorizantes sobre a verdadeira natureza da avó.</info>
+		<genre>Terror</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Extermínio (Dublado) - 2003 - 720p[/B][/COLOR]</title>
+		<link>http://d83tbaqcuezmn.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/EXTRMN1.mp4|Referer=http://www.redecanais.com.br/</link>
+		<thumbnail>https://goo.gl/XEDoVS</thumbnail>
+		<fanart>https://goo.gl/6ubRV9</fanart>
+		<info>Uma praga transforma a maioria da humanidade em zumbis sedentos de sangue. Um grupo ainda não afetado se prepara para a mais perigosa jornada de suas vidas: tentar chegar a uma fortaleza militar em Manchester.</info>
+		<genre>Terror</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]A Visita (Dublado) - 2015 - 1080p[/B][/COLOR]</title>
+		<link>http://d83tbaqcuezmn.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/AVISTA.mp4|Referer=http://www.redecanais.com.br/</link>
+		<thumbnail>https://goo.gl/Hwnupp</thumbnail>
+		<fanart>https://goo.gl/BCETZH</fanart>
+		<info>Uma adolescente e seu irmão mais novo descobrem um segredo chocante sobre seus avós ao se hospedarem em sua fazenda remota na Pensilvânia.</info>
+		<genre>Terror</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]American Poltergeist (Dublado) - 2015 - 1080p[/B][/COLOR]</title>
+		<link>http://d3eryu5vlst7sb.ec.cx/RedeCanais/RedeCanais/RCFServer3/ondemand1/AMRCNPLTGST.mp4|Referer=http://www.redecanais.com.br/</link>
+		<thumbnail>https://goo.gl/vvbgrt</thumbnail>
+		<fanart>https://goo.gl/a519zS</fanart>
+		<info>Eventos estranhos aterrorizam um grupo de amigos em uma casa assombrada.</info>
+		<genre>Terror</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]O Silêncio dos Inocentes (Dublado) - 1991 - 1080p[/B][/COLOR]</title>
+		<link>http://d83tbaqcuezmn.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OSLNCDSINCTS.mp4|Referer=http://www.redecanais.com.br/</link>
+		<thumbnail>https://goo.gl/AtJb2x</thumbnail>
+		<fanart>https://goo.gl/Aueoc6</fanart>
+		<info>Clarice Starling, uma das melhores estudantes da academia de treinamento do FBI. Jack Crawford quer que Clarice entreviste o Dr. Hannibal Lecter, um psiquiatra brilhante e também um psicopata violento, que cumpre prisão perpétua por vários atos de assassinato e canibalismo. Crawford acredita que Lecter pode ter uma visão em um caso e que Starling, como uma mulher jovem e atraente, pode ser a isca para atraí-lo.</info>
+		<genre>Terror</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Na Toca do Tigre (Dublado) - 2015 - 1080p[/B][/COLOR]</title>
+		<link>http://d83tbaqcuezmn.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/NATCADTRG.mp4|Referer=http://www.redecanais.com.br/</link>
+		<thumbnail>https://goo.gl/wKZVJo</thumbnail>
+		<fanart>https://goo.gl/XxMP87</fanart>
+		<info>Kelly tem o costume de ir até a casa do seu namorado às escuras, mas, um dia, assaltantes armados também entram na casa. Agora ela precisa usar toda a sua força para escapar da residência.</info>
+		<genre>Terror</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]A Profecia (Dublado) - 2006 - 1080p[/B][/COLOR]</title>
+		<link>http://d83tbaqcuezmn.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/APRFCA2006.mp4|Referer=http://www.redecanais.com.br/</link>
+		<thumbnail>https://goo.gl/bmfEqc</thumbnail>
+		<fanart>https://goo.gl/jXzH57</fanart>
+		<info>O embaixador americano e a esposa querem muito ter filhos. Quando ela dá à luz um bebê morto e um padre sugere que adotem um recém-nascido saudável e órfão, ele aceita sem contar à mulher. O que ele não sabe é que o bebê é o anticristo.</info>
+		<genre>Terror</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]O Nevoeiro (Dublado) - 2007 - 1080p[/B][/COLOR]</title>
+		<link>http://d83tbaqcuezmn.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ONVOERO.mp4|Referer=http://www.redecanais.com.br/</link>
+		<thumbnail>https://goo.gl/mVJM4B</thumbnail>
+		<fanart>https://goo.gl/c72Np4</fanart>
+		<info>Depois que uma tempestade causa danos em sua casa no Maine, David Drayton e seu jovem filho vão à cidade para conseguir alimentos e suprimentos. Logo depois, uma espessa neblina atinge a cidade, deixando várias pessoas presas na mercearia. Criaturas mortais aterrorizam a cidade, mas dentro do mercado um fanático exige que alguém se sacrifique.</info>
+		<genre>Terror</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Pânico (Dublado) - 1997 - 720p[/B][/COLOR]</title>
+		<link>http://d83tbaqcuezmn.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PNC1.mp4|Referer=http://www.redecanais.com.br/</link>
+		<thumbnail>https://goo.gl/yKu3F5</thumbnail>
+		<fanart>https://goo.gl/kVkRjw</fanart>
+		<info>Um grupo de jovens enfrenta um assassino mascarado que testa seus conhecimentos sobre filmes de terror. A pequena cidade de Woodsboro nunca mais será a mesma.</info>
+		<genre>Terror</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Primavera (Dublado) - 2014 - 1080p[/B][/COLOR]</title>
+		<link>http://d83tbaqcuezmn.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/PRMVRA.mp4|Referer=http://www.redecanais.com.br/</link>
+		<thumbnail>https://goo.gl/rw8tvd</thumbnail>
+		<fanart></fanart>
+		<info>Evan é um jovem americano que deixa a Califórnia e se refugia na Europa na esperança de deixar o seu passado para trás. Ele viaja ao longo da costa italiana como mochileiro, mas tudo muda quando para em um idílico vilarejo italiano, onde conhece a sensual e misteriosa Louise, uma estudante de ciências. Um romance começa a florescer entre os dois - mas Evan não demora a perceber que Louise esconde um segredo sombrio e monstruoso que coloca o relacionamento e suas próprias vidas em perigo.</info>
+		<genre>Terror</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+	<title>[COLOR white][B]Jason Vai para o Inferno: A Última Sexta-Feira (Dublado) - 1993 - 1080p[/B][/COLOR]</title>
+		<link>http://d83tbaqcuezmn.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SXTFR13PTIX.mp4|Referer=http://www.redecanais.com.br/</link>
+		<thumbnail>https://goo.gl/PU8pcs</thumbnail>
+		<fanart>https://goo.gl/63xvng</fanart>
+		<info>Jason sobrevive a um ataque e assume o corpo de um investigador. Depois de matar alguns policiais, volta a Crystal Lake para iniciar mais um massacre, porém, um caçador de recompensas descobre a única forma de acabar com o assassino.</info>
+		<genre>Terror</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]O Misterioso Caso de Judith Winstead (Dublado) - 2015 - 1080p[/B][/COLOR]</title>
+		<link>http://d83tbaqcuezmn.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OMSTRSCSDJDTWNST.mp4|Referer=http://www.redecanais.com.br/</link>
+		<thumbnail>https://goo.gl/h9ytfa</thumbnail>
+		<fanart>https://goo.gl/Y6P29t</fanart>
+		<info>Um episódio de possessão demoníaca em um laboratório de psicologia se torna uma grande questão de segurança nacional para o governo americano: Judith Winstead (Rya Kihlstedt), paciente do renomado psicólogo Dr. Henry West (William Mapother), comprovadamente possui poderes incontroláveis e obscuros que acabam sendo escondidos por décadas no sinistro Instituto Atticus.</info>
+		<genre>Terror</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Gritos Mortais (Dublado) - 2007 - 1080p[/B][/COLOR]</title>
+		<link>http://d83tbaqcuezmn.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/GRTSMORTS.mp4|Referer=http://www.redecanais.com.br/</link>
+		<thumbnail>https://goo.gl/HebpwM</thumbnail>
+		<fanart>https://goo.gl/k5M9cw</fanart>
+		<info>Jamie Ashen volta para sua assustadora cidade de Ravens Fair para tentar solucionar o mistério sobre o assassinato de sua esposa. Desesperado por respostas, Jamie encontra a maldição que tirou a vida de sua esposa e agora coloca a dele em risco.</info>
+		<genre>Terror</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]O Massacre da Serra Elétrica 3 (Dublado) - 1990 - 720p[/B][/COLOR]</title>
+		<link>http://d83tbaqcuezmn.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OMSCRDSRELTRC3.mp4|Referer=http://www.redecanais.com.br/</link>
+		<thumbnail>https://goo.gl/c2xzR2</thumbnail>
+		<fanart>https://goo.gl/2t8sxt</fanart>
+		<info>Um casal fica preso em um posto de gasolina no Texas e é surpreendido por um funcionário e sua escopeta. Quando acreditam que escaparam do maior perigo, uma terrível criatura mascarada aparece e os ameaça com uma serra elétrica.</info>
+		<genre>Terror</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Sexta-Feira 13 (Dublado) - 1980 - 1080p[/B][/COLOR]</title>
+		<link>http://d83tbaqcuezmn.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SXTFR13PTI.mp4|Referer=http://www.redecanais.com.br/</link>
+		<thumbnail>https://goo.gl/XqA8TH</thumbnail>
+		<fanart>https://goo.gl/jwKLzy</fanart>
+		<info>Sexta-Feira 13 é uma longa série de filmes de terror dos Estados Unidos criada pelo diretor Sean S. Cunninghan. A série já conta com 12 filmes, e a franquia já lucrou no total mais de 500.000.000 de dólares. O primeiro filme é de 1980.</info>
+		<genre>Terror</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Doom: A Porta do Inferno (Dublado) - 2006 - 720p[/B][/COLOR]</title>
+		<link>http://d83tbaqcuezmn.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/DOMAPRTDINFN.mp4|Referer=http://www.redecanais.com.br/</link>
+		<thumbnail>https://goo.gl/E6AeCF</thumbnail>
+		<fanart>https://goo.gl/wNQ4ik</fanart>
+		<info>A equipe do cientista Todd Carmack descobre que o cromossomo sintético que desenvolveu é perigoso demais quando aplicado em seres com traços psicóticos ou violentos. Depois que um assassino é testado com esse cromossomo e se transforma em um monstro destruidor, um sinal de quarentena é emitido. Há outros infectados. Um esquadrão de elite é destacado para tomar conta da situação. Ao entrar na área isolada, no entanto, o grupo percebe que talvez tenha subestimado a força dos que foram infectados.</info>
+		<genre>Terror</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]O Exorcista (Dublado) - 1974 - 1080p[/B][/COLOR]</title>
+		<link>http://d83tbaqcuezmn.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OEXRCSTA.mp4|Referer=http://www.redecanais.com.br/</link>
+		<thumbnail>https://goo.gl/Va9GpZ</thumbnail>
+		<fanart>https://goo.gl/YvWJFz</fanart>
+		 <info>Uma atriz vai gradativamente tomando consciência de que a sua filha de doze anos está tendo um comportamento completamente assustador. Deste modo, ela pede ajuda a um padre, que também é um psiquiatra, e este chega a conclusão de que a garota está possuída pelo demônio. Ele solicita então a ajuda de um segundo sacerdote, especialista em exorcismo, para tentar livrar a menina desta terrível possessão.</info>
+		<genre>Terror</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]O Albergue (Dublado) - 2006 - 720p[/B][/COLOR]</title>
+		<link>http://d83tbaqcuezmn.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OALBRG.mp4|Referer=http://www.redecanais.com.br/</link>
+		<thumbnail>https://goo.gl/pZEGRL</thumbnail>
+		<fanart>https://goo.gl/8SCNWb</fanart>
+		<info>Os melhores amigos Josh e Paxton decidem passar um verão viajando como mochileiros pela Europa. Em Amsterdã, eles conhecem Oli, um viajante da Islândia. Os três decidem investigar um boato sobre um albergue na Eslováquia repleto de mulheres sensuais e acabam sendo envolvidos em um jogo mortal.</info>
+		<genre>Terror</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Brinquedo Assassino (Dublado) - 1989 - 720p[/B][/COLOR]</title>
+		<link>http://d83tbaqcuezmn.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/BRNQDASASN1.mp4|Referer=http://www.redecanais.com.br/</link>
+		<thumbnail>https://goo.gl/a4uKV1</thumbnail>
+		<fanart>https://goo.gl/VrWvPM</fanart>
+		<info>Uma mulher compra para seu filho um boneco amaldiçoado por um serial killer, que acaba morto dentro uma loja de brinquedos. Antes, ele faz um ritual de vodu com o boneco, que ganha vida e se torna um assassino.</info>
+		<genre>Terror</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]A Final (Dublado) - 2010 - 720p[/B][/COLOR]</title>
+		<link>http://d83tbaqcuezmn.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/AFNL.mp4|Referer=http://www.redecanais.com.br/</link>
+		<thumbnail>https://goo.gl/Judzag</thumbnail>
+		<fanart>https://goo.gl/wdSJN5</fanart>
+		<info>Três estudantes marginalizados organizam um festa à fantasia elaborada, onde tornam-se brutalmente cruéis e se vingam dos alunos que costumam humilhá-los.</info>
+		<genre>Terror</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Pânico 2 (Dublado) - 1999 - 720p[/B][/COLOR]</title>
+		<link>http://d83tbaqcuezmn.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PNC2.mp4|Referer=http://www.redecanais.com.br/</link>
+		<thumbnail>https://goo.gl/BjQEyw</thumbnail>
+		<fanart>https://goo.gl/tfQDvf</fanart>
+		<info>Dois anos se passaram depois do massacre em Woodsboro, e Sidney e Randy tentam refazer suas vidas em outra cidade. Logo, porém, inicia-se uma onda de assassinatos brutais perpetrados por um psicopata mascarado.</info>
+		<genre>Terror</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Sexta-Feira 13: Parte II (Dublado) - 1981 - 1080p[/B][/COLOR]</title>
+		<link>http://d83tbaqcuezmn.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SXTFR13PTII.mp4|Referer=http://www.redecanais.com.br/</link>
+		<thumbnail>https://goo.gl/vpESbq</thumbnail>
+		<fanart>https://goo.gl/BSAnXT</fanart>
+		<info>O segundo filme da série de terror se concentra em um grupo de adolescentes que se reúne no acampamento Crystal Lake para treinamento, sob a tutela do conselheiro chefe Paul. Inevitavelmente, Paul relata a história de Jason Voorheees, um menino que se afogou no campo e cuja mãe assassinou um grupo de conselheiros como vingança. Ninguém leva a história a sério até que Jason começa, de um modo terrível, a eliminar as pessoas.</info>
+		<genre>Terror</genre>
+	</item>
+
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Sexta-Feira 13 - O Capítulo Final (Dublado) - 1984 - 1080p[/B][/COLOR]</title>
+		<link>http://d83tbaqcuezmn.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SXTFR13PTIV.mp4|Referer=http://www.redecanais.com.br/</link>
+		<thumbnail>https://goo.gl/EZu8eY</thumbnail>
+		<fanart>https://goo.gl/upJ8b4</fanart>
+		<info>Após ser morto e levado para um necrotério, Jason Voorhees ressuscita e começa mais uma interminável trilha de matança, enquanto prossegue na busca pelo caminho de casa, no acampamento Crystal Lake.</info>
+		<genre>Terror</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Halloween: A Noite do Terror (Dublado) - 1978 - 1080p[/B][/COLOR]</title>
+		<link>http://d83tbaqcuezmn.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/HALWEN01.mp4|Referer=http://www.redecanais.com.br/</link>
+		<thumbnail>https://goo.gl/CsmPqR</thumbnail>
+		<fanart>https://goo.gl/Gd6UTT</fanart>
+		<info>Um maníaco retorna à sua cidade natal para continuar o terror que ele começou há quinze anos.</info>
+		<genre>Terror</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Hannibal (Dublado) - 2001 - 1080p[/B][/COLOR]</title>
+		<link>http://d83tbaqcuezmn.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/HNBL.mp4|Referer=http://www.redecanais.com.br/</link>
+		<thumbnail>https://goo.gl/KP47E6</thumbnail>
+		<fanart>https://goo.gl/qtFqrF</fanart>
+		<info>Sete anos se passaram desde que Dr. Hannibal Lecter escapou da prisão e agora está solto na Europa. Mason Verger se lembra do assassino em série e é obcecado por vingança por ter sido sua sexta vítima. Embora horrivelmente desfigurado, sobreviveu. Verger percebe que, para encontrar Lecter, precisa despertar o interesse dele com uma isca: a agente do FBI Clarice Starling.</info>
+		<genre>Terror</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]As Criaturas Atrás das Paredes (Dublado) - 1992 - 1080p[/B][/COLOR]</title>
+		<link>http://d83tbaqcuezmn.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ASCRTURSARSDPRDS.mp4|Referer=http://www.redecanais.com.br/</link>
+		<thumbnail>https://goo.gl/RifiVK</thumbnail>
+		<fanart>https://goo.gl/xU9d5i</fanart>
+		<info>Para ganhar dinheiro e ajudar sua mãe doente a pagar o aluguel, um garoto pobre precisa entrar na mansão dos ricos proprietários do prédio onde vive. Porém, o que o menino não sabe é que nessa casa misteriosa moram dois homicidas com uma menina.</info>
+		<genre>Terror</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Remanescente: Esquecidos Por Deus (Dublado) - 2015 - 1080p[/B][/COLOR]</title>
+		<link>http://d83tbaqcuezmn.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/RMSCNTESQPRDES.mp4|Referer=http://www.redecanais.com.br/</link>
+		<thumbnail>https://goo.gl/Zge1jd</thumbnail>
+		<fanart>https://goo.gl/3afRuv</fanart>
+		<info>Um grupo de amigos se reúne para um casamento. Mas a cerimônia é interrompida por eventos apocalípticos e inimigos bíblicos. Os convidados são, então, obrigados a enfrentarem um futuro incerto. Eles têm que examinar suas vidas, amor e fé, para escolherem entre a redenção e a sobrevivência.</info>
+		<genre>Terror</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]A Hora do Pesadelo 3 - Os Guerreiros dos Sonhos (Dublado) - 1987 - 1080p[/B][/COLOR]</title>
+		<link>http://d83tbaqcuezmn.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AHRDPSDL03.mp4|Referer=http://www.redecanais.com.br/</link>
+		<thumbnail>https://goo.gl/Ze2ZdW</thumbnail>
+		<fanart>https://goo.gl/mXBEMP</fanart>
+		<info>Adolescentes internados em clínica psiquiátrica, atormentados por pesadelos parecidos, passam por tratamento com uma nova droga e juntam suas forças para tentar se livrar da influência nefasta de Freddy Krueger, o assassino que assombra suas noites.</info>
+		<genre>Terror</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Pânico 3 (Dublado) - 2000 - 720p[/B][/COLOR]</title>
+		<link>http://d83tbaqcuezmn.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PNC3.mp4|Referer=http://www.redecanais.com.br/</link>
+		<thumbnail>https://goo.gl/3vAHdH</thumbnail>
+		<fanart></fanart>
+		<info>Assassinatos levam uma jovem, um repórter e um ex-policial ao set de um filme de horror inspirado por acontecimentos aterrorizantes aos quais eles sobreviveram. Terceiro filme da série "Pânico". Um assassino copiador está à espreita.</info>
+		<genre>Terror</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]O Ritual (Dublado) - 720p - 2011[/B][/COLOR]</title>
+		<link>http://d83tbaqcuezmn.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ORTAL.mp4|Referer=http://www.redecanais.com.br/</link>
+		<thumbnail>https://goo.gl/ygKqJx</thumbnail>
+		<fanart>https://i.ytimg.com/vi/LqrKSKFFqoE/maxresdefault.jpg</fanart>
+		<info>Um seminarista é enviado ao Vaticano para estudar exorcismo, apesar de sua relutância e ceticismo em relação ao tema. Ao encontrar um veterano padre que já realizou milhares de exorcismos, sua incredulidade, porém, desaparece. E ele é atraído a solucionar um caso aterrorizante que o levará a questionar tudo em que acredita.</info>
+		<genre>Terror</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]Premonição (Dublado) - 2000 - 1080p[/B][/COLOR]</title>
+		<link>http://d83tbaqcuezmn.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PRMNCAO1.mp4|Referer=http://www.redecanais.com.br/</link>
+		<thumbnail>https://goo.gl/mhaHe5</thumbnail>
+		<fanart>https://goo.gl/tQhDhj</fanart>
+		<info>Alex Browning está embarcando em uma viagem para Paris. Alex sofre uma premonição, pela qual vê o avião explodir momentos depois de sair do chão. Alex insiste que todo mundo saia do avião e sete pessoas, incluindo Alex, são obrigados a desembarcar. Todos veem quando o avião realmente explode como uma bola de fogo. Ele e os outros sobreviventes brevemente enganam a morte, mas não serão capazes de evitar o seu destino por muito tempo. Um a um, esses fugitivos de destino viram vítimas da morte.</info>
+		<genre>Terror</genre>
+	</item>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+	<item>
+		<title>[COLOR white][B]João, Maria: E a Bruxa da Floresta Negra (Dublado) - 2014 - 1080p[/B][/COLOR]</title>
+		<link>http://d83tbaqcuezmn.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/JAOMRAEABXDFLRSNG.mp4|Referer=http://www.redecanais.com.br/</link>
+		<thumbnail>https://goo.gl/daNQf9</thumbnail>
+		<fanart>https://goo.gl/9hUR9W</fanart>
+		<info>O maconheiro Ashton Crawford e sua namorada Gretel estão no seu quarto fumando uma maconha especial, produzida por uma velha chamada Agnes. Quando o irmão de Gretel, Hansel, volta para casa, ela resolve fazer biscoitos de gengibre, enquanto Ashton vai comprar mais maconha de Agnes. O que eles não sabem é que Agnes é uma bruxa, e planeja devorar Ashton para recuperar a juventude. Gretel busca ajuda da polícia, mas eles sabem que Ashton é um maconheiro, então não a levam a sério.</info>
+		<genre>Terror</genre>
+	</item>
