@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/3jM4C1wJxHLWlF4tcSyyv6fnJPR.jpg" group-title="2018",Day of the Dead: Bloodline 2018
+http://185.38.12.50/sec/1522922131/33303636ca18c5aadd393cb8e2b25236ce3e465ca8fa1547/ivs/5d/fa/642a0061db4c/hls/tracks-3,4/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://g1filmesonline.info/wp-content/uploads/2018/04/7hi3yV5xT2mqm4Dvk8PIHzOt3dP-min.jpg" group-title="2018",JOGADOR Nº 1 DUBLADO
 http://player720p.com/filmes/jogadorn1.mp4
