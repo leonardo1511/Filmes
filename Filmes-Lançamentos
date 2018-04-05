@@ -1,6 +1,9 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-logo="http://g1filmesonline.info/wp-content/uploads/2018/04/7hi3yV5xT2mqm4Dvk8PIHzOt3dP-min.jpg" group-title="2018",JOGADOR Nº 1 DUBLADO
+http://player720p.com/filmes/jogadorn1.mp4
+
 #EXTINF:-1 tvg-logo="https://goo.gl/gauQ2M" group-title="2018", THE POST: A GUERRA SECRETA (LEG - 2018)
 http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/THEPOST2017LEG-ALTO.mp4
 
