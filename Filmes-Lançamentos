@@ -1,7 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/3jM4C1wJxHLWlF4tcSyyv6fnJPR.jpg" group-title="2018",Day of the Dead: Bloodline 2018
-http://185.38.12.50/sec/1522922131/33303636ca18c5aadd393cb8e2b25236ce3e465ca8fa1547/ivs/5d/fa/642a0061db4c/hls/tracks-3,4/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://g1filmesonline.info/wp-content/uploads/2018/04/7hi3yV5xT2mqm4Dvk8PIHzOt3dP-min.jpg" group-title="2018",JOGADOR Nº 1 DUBLADO
 http://player720p.com/filmes/jogadorn1.mp4
@@ -93,9 +92,6 @@ http://player720p.com/filmes/florestalouca.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/Fw9SjU" group-title="2018", STAR WARS 8: OS ÚLTIMOS JEDI (DUB)
 http://player720p.com/filmes/star.mp4
 
-#EXTINF:-1 tvg-logo="https://goo.gl/LRFFpa" group-title="2018", DÍVIDA PERIGOSA (LEG)
-http://185.38.12.48/sec/1522177967/323535397abbcf4feff105794240585e593b16a4b35ec729/ivs/34/6a/52b1884e1a50/hls/tracks-3,4/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://goo.gl/SN8Pc2" group-title="2018", JUMANJI: BEM-VINDO A SELVA (DUB)
 http://chronos.feralhosting.com/locaweb123/2017/filmes/2017/JUM4J1NDUB.mp4
 
@@ -135,9 +131,6 @@ http://player720p.com/filmes/j0g05m0rt415.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/TTg8GX" group-title="2018", O TOURO FERDINANDO (DUB)
 http://chronos.feralhosting.com/locaweb123/2017/filmes/2017/0t0ur0f3rd1n4nd0.mp4
 
-#EXTINF:-1 tvg-logo="https://goo.gl/xiUAS4" group-title="2018", ESPELHO (LEG)
-http://185.38.12.26/sec/1522179058/313739301a75c5377014602f6f1987df22c348e609c08717/ivs/38/ef/8fa30fb7ee83/hls/tracks-3,4/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://goo.gl/5MNeJg" group-title="2018", MUDO (DUB)
 http://chronos.feralhosting.com/locaweb123/2017/filmes/2017/mud0.mp4
 
@@ -161,9 +154,6 @@ http://chronos.feralhosting.com/locaweb123/2017/filmes/2017/loucuras.mp4
 
 #EXTINF:-1 tvg-logo="https://goo.gl/9WT2i7" group-title="2018", PAI EM DOSE DUPLA 2 (DUB)
 http://player720p.com/filmes/paiem.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8SZ9bv" group-title="2018", AMERICAN SATAN (LEG - 2018)
-http://37.220.39.62/sec/1522179957/383033398c08f6341a22766b110ca147b9948f55821f933f/ivs/76/52/2df3f8f82b21/hls/tracks-3,4/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/wa1G6Y" group-title="2018", ASSASSINATO NO EXPRESSO DO ORIENTE (DUB - 2018)
 http://chronos.feralhosting.com/locaweb123/2017/filmes/2017/bpl.mp4
