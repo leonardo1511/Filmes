@@ -1,14 +1,25 @@
 <?xml version="2.0" encoding="utf-8"?>
 
 
+
 <item>
-<title>[COLOR white][B]Rambo IV[/B][/COLOR]</title>
-<utube>2iQDS0tlRFM</utube>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQmLR2M4qTnhFZjgx4pvnfn_bFgVztwxH_QS6Emu2pOyPPdVBc</thumbnail>
+<title>[COLOR white][B]Rambo: Programado para Matar[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1u6yehFTuk-V8GMZSk7LhGDc-eiEMlho0/view|Referer=http://www.redecanais.com.br/</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/d/d6/First_blood_poster.jpg</thumbnail>
 <fanart>https://a.ltrbxd.com/resized/sm/upload/7z/5p/7z/z8/rambo-1200-1200-675-675-crop-000000.jpg?k=ff4611e6f1</fanart>
 <genre>Guerra</genre>
-<date>29 de fevereiro de 2008</date>
-<info>Vinte anos depois, John Rambo vive na Tailândia e leva uma vida simples e solitária nas montanhas, pescando e capturando cobras venenosas para vender. Um grupo de missionários precisa passar pelas minas terrestres escondidas pelo caminho que leva ao campo de refugiados, onde pretendem entregar suprimentos médicos e comida para a tribo Karen. Depois de muita insistência, Rambo aceita levá-los, porém, um tempo depois, o grupo é sequestrado pelo exército birmanês e o herói terá de resgatá-los.</info>
+<date>6 de novembro de 1982</date>
+<info>Um veterano da Guerra do Vietnã usa todo seu treinamento e agressividade exercitada nos campos de batalha quando é preso e torturado por policiais.</info>
+</item>
+
+<item>
+<title>[COLOR white][B]Rambo 2 - A Missão[/B][/COLOR]</title>
+<utube></utube>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVoJ4jWi0IlQDlNYNPKOC4A8-8fSZIq41FMD1-qiVzzG78-S4Ojg</thumbnail>
+<fanart>https://a.ltrbxd.com/resized/sm/upload/7z/5p/7z/z8/rambo-1200-1200-675-675-crop-000000.jpg?k=ff4611e6f1</fanart>
+<genre>Guerra</genre>
+<date>22 de maio de 1985</date>
+<info>Rambo está preso em uma penitenciária federal quando recebe uma proposta: será perdoado e reintegrado ao Exército se participar de uma missão no Vietnã, onde terá que enfrentar todo tipo de inimigos, inclusive oficiais americanos corruptos.</info>
 </item>
 
 <item>
@@ -22,23 +33,13 @@
 </item>
 
 <item>
-<title>[COLOR white][B]Rambo II - A Missão[/B][/COLOR]</title>
-<utube></utube>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVoJ4jWi0IlQDlNYNPKOC4A8-8fSZIq41FMD1-qiVzzG78-S4Ojg</thumbnail>
+<title>[COLOR white][B]Rambo 4[/B][/COLOR]</title>
+<utube>2iQDS0tlRFM</utube>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQmLR2M4qTnhFZjgx4pvnfn_bFgVztwxH_QS6Emu2pOyPPdVBc</thumbnail>
 <fanart>https://a.ltrbxd.com/resized/sm/upload/7z/5p/7z/z8/rambo-1200-1200-675-675-crop-000000.jpg?k=ff4611e6f1</fanart>
 <genre>Guerra</genre>
-<date>22 de maio de 1985</date>
-<info>Rambo está preso em uma penitenciária federal quando recebe uma proposta: será perdoado e reintegrado ao Exército se participar de uma missão no Vietnã, onde terá que enfrentar todo tipo de inimigos, inclusive oficiais americanos corruptos.</info>
-</item>
-
-<item>
-<title>[COLOR white][B]Rambo: Programado para Matar[/B][/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1u6yehFTuk-V8GMZSk7LhGDc-eiEMlho0/view|Referer=http://www.redecanais.com.br/</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/pt/d/d6/First_blood_poster.jpg</thumbnail>
-<fanart>https://a.ltrbxd.com/resized/sm/upload/7z/5p/7z/z8/rambo-1200-1200-675-675-crop-000000.jpg?k=ff4611e6f1</fanart>
-<genre>Guerra</genre>
-<date>6 de novembro de 1982</date>
-<info>Um veterano da Guerra do Vietnã usa todo seu treinamento e agressividade exercitada nos campos de batalha quando é preso e torturado por policiais.</info>
+<date>29 de fevereiro de 2008</date>
+<info>Vinte anos depois, John Rambo vive na Tailândia e leva uma vida simples e solitária nas montanhas, pescando e capturando cobras venenosas para vender. Um grupo de missionários precisa passar pelas minas terrestres escondidas pelo caminho que leva ao campo de refugiados, onde pretendem entregar suprimentos médicos e comida para a tribo Karen. Depois de muita insistência, Rambo aceita levá-los, porém, um tempo depois, o grupo é sequestrado pelo exército birmanês e o herói terá de resgatá-los.</info>
 </item>
 
 <item>
