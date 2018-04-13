@@ -34,11 +34,11 @@
 <info>TV FOGO HD</info>
 </channel>
 
-<channels> 
+<channel>
 <name>[COLOR white][B]Comédia[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/783kkJS.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo/Filmes/master/Comedia</externallink>
-<fanart>https://goo.gl/E55DJs</fanart>
+<fanart></fanart>
 <info>TV FOGO HD</info>
 </channel>
 
