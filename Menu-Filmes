@@ -34,6 +34,14 @@
 <info>TV FOGO HD</info>
 </channel>
 
+<channels> 
+<name>[COLOR white][B]Comédia[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/783kkJS.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/tvfogo/Filmes/master/Comedia</externallink>
+<fanart>https://goo.gl/E55DJs</fanart>
+<info>TV FOGO HD</info>
+</channel>
+
 <channel>
 <name>[COLOR white][B]Filmes De Terror[/B][/COLOR]</name>
 <thumbnail>http://img.cintiadisse.com.br/2015/10/filmes-de-terror-960x500.jpg</thumbnail>
