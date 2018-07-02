@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bvYjhsbxOBwpm8xLE5BhdA3a8CZ.jpg" , VINGADORES: GUERRA INFINITA
+http://cdn-srv1.unitplay.net/stream/ts/299536-avengers-infinity-war.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/knTo7oC.jpg" group-title="2018",Guerreira De Sangue 2018
 https://content.jwplatform.com/videos/1MhAQY2d-4ZePvwWs.mp4
