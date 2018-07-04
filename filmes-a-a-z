@@ -1,10 +1,8 @@
 <item>
-<title>[COLOR white][B]O Nevoeiro[COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
-<link>$doregex[TvFogoHD]ONVOERO.mp4|Referer=https://redecanais.ink/</link>
-<regex><name>TvFogoHD</name><expres> link: "(.*?).mp4</expres><page>https://redecanais.ink/player3/serverf2.php</page></regex>
+<title>[COLOR white][B]O Nevoeiro[/B][/COLOR]</title>
+<link>http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ONVOERO.mp4|Referer=https://redecanais.ink/</link>
 <thumbnail>https://i.imgur.com/Qs0jNHP.jpg?1</thumbnail>
 <info>Após uma violenta tempestade devastar a cidade de Maine, David Drayton (Thomas Jane) e Billy (Nathan Gamble), seu filho de 8 anos, correm rumo ao supermercado, temendo que os suprimentos se esgotem. Porém um estranho nevoeiro toma conta da cidade, o que faz com que David, Billy e outras pessoas fiquem presas no supermercado. Logo David descobre que há algo de sobrenatural envolvido e que, caso deixem o local, isto pode ser fatal.</info>
-<date>2007</date>
 </item>
 
 <item>
