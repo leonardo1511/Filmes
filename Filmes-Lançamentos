@@ -5,6 +5,75 @@
 </item>
 
 <item>
+<title>[COLOR white][B]Ella e John[/B][/COLOR]</title>
+<link>$doregex[TvFogoHD]ELEJHN.mp4|Referer=https://redecanais.ink/</link>
+<regex><name>TvFogoHD</name><expres> link: "(.*?).mp4</expres><page>https://redecanais.ink/player3/serverf4.php</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w300/vVxbWZuUOopIqN9ObJqPNL9k703.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w300/vVxbWZuUOopIqN9ObJqPNL9k703.jpg</fanart>
+<info>Septuagenários, o casal de aposentados Ella (Helen Mirren) e John (Donald Sutherland) decide fazer uma última viagem pelo país, de carro. Desafiando limites e receios os dois embarcam numa aventura transformadora que sai de Boston e tem como destino a antiga casa de Ernest Hemingway, na Flórida.
+</info>
+</item>
+
+<item>
+<title>[COLOR white][B]Amigos da Clínica[/B][/COLOR]</title>
+<link>$doregex[TvFogoHD]AMGSDCLNC.mp4|Referer=https://redecanais.ink/</link>
+<regex><name>TvFogoHD</name><expres> link: "(.*?).mp4</expres><page>https://redecanais.ink/player3/serverf4.php</page></regex>
+<thumbnail>https://3.bp.blogspot.com/-KUNxmKmSU74/WzZwDkhQ0PI/AAAAAAAAQDQ/vgG0Euwh4Xo70-QkTfeWmyalxY9RhncogCLcBGAs/s320/SDGSDS.jpg</thumbnail>
+<fanart>https://3.bp.blogspot.com/-KUNxmKmSU74/WzZwDkhQ0PI/AAAAAAAAQDQ/vgG0Euwh4Xo70-QkTfeWmyalxY9RhncogCLcBGAs/s320/SDGSDS.jpg</fanart>
+<info>Quatro homens tentam reinventar suas vidas e se reintegrar na sociedade depois de anos de abuso de substâncias químicas. O documentário é um olhar íntimo na força, coragem e irmandade que é precido para superar o vício e manter a sobriedade.
+</info>
+</item>
+
+<item>
+<title>[COLOR white][B]Além das Águas[/B][/COLOR]</title>
+<link>$doregex[TvFogoHD]ALMDSAGUA.mp4|Referer=https://redecanais.ink/</link>
+<regex><name>TvFogoHD</name><expres> link: "(.*?).mp4</expres><page>https://redecanais.ink/player3/serverf4.php</page></regex>
+<thumbnail>https://1.bp.blogspot.com/-L1duIpTvJuE/WzWSqK-m7JI/AAAAAAAAQC4/NCnxVaJAwmUkilIr6MjMV0FRA-qh58MtACLcBGAs/s320/bKjMGeU.jpg</thumbnail>
+<fanart>https://1.bp.blogspot.com/-L1duIpTvJuE/WzWSqK-m7JI/AAAAAAAAQC4/NCnxVaJAwmUkilIr6MjMV0FRA-qh58MtACLcBGAs/s320/bKjMGeU.jpg</fanart>
+<info>1943, Dinamarca. Um conflito tão grande, brutal e devastador como a Segunda Guerra Mundial provoca um grande fluxo de refugiados. Esta é a história de um grupo de judeus dinamarqueses que precisaram deixar tudo para trás e fugir para a Suécia.
+</info>
+</item>
+
+<item>
+<title>[COLOR white][B]Paulo, Apóstolo de Cristo[/B][/COLOR]</title>
+<link>$doregex[TvFogoHD]PALOAPSTLODCRST.mp4|Referer=https://redecanais.ink/</link>
+<regex><name>TvFogoHD</name><expres> link: "(.*?).mp4</expres><page>https://redecanais.ink/player3/serverf4.php</page></regex>
+<thumbnail>http://br.web.img3.acsta.net/c_215_290/pictures/18/04/10/19/11/1325949.jpg</thumbnail>
+<fanart>http://br.web.img3.acsta.net/c_215_290/pictures/18/04/10/19/11/1325949.jpg</fanart>
+<info>Paulo (James Faulkner) era conhecido como um dos perseguidores de cristãos mais cruel de seu tempo. Mas tudo muda quando ele tem um encontro com o próprio Jesus. A partir desse momento, esse jovem se torna um dos apóstolos mais infuentes do cristianismo.
+</info>
+</item>
+
+<item>
+<title>[COLOR white][B]Nada a Perder: Contra Tudo. Por Todos (Nacional)[/B][/COLOR]</title>
+<link>$doregex[TvFogoHD]NDAPRDR.mp4|Referer=https://redecanais.ink/</link>
+<regex><name>TvFogoHD</name><expres> link: "(.*?).mp4</expres><page>https://redecanais.ink/player3/serverf4.php</page></regex>
+<thumbnail>http://br.web.img3.acsta.net/c_215_290/pictures/18/01/25/16/50/4714941.jpg</thumbnail>
+<fanart>http://br.web.img3.acsta.net/c_215_290/pictures/18/01/25/16/50/4714941.jpg</fanart>
+<info>Cinebiografia autorizada do bispo evangélico Edir Macedo (Petrônio Gontijo), empresário fundador e líder espiritual da Igreja Universal do Reino de Deus e proprietário da Record TV. Baseado nos livros da trilogia homônica, conta a história do self made man que enfrentou diversos momentos de turbulência enquanto perseguia sua convicção.
+</info>
+</item>
+
+<item>
+<title>[COLOR white][B]Plano Quase Perfeito[/B][/COLOR]</title>
+<link>$doregex[TvFogoHD]PLNOQSEPRFTO.mp4|Referer=https://redecanais.ink/</link>
+<regex><name>TvFogoHD</name><expres> link: "(.*?).mp4</expres><page>https://redecanais.ink/player3/serverf4.php</page></regex>
+<thumbnail>https://filmesonline.online/uploads/posts/2018-04/1523824075_plano-quase-perfeito.jpg</thumbnail>
+<fanart>https://filmesonline.online/uploads/posts/2018-04/1523824075_plano-quase-perfeito.jpg</fanart>
+<info>Ib (Nicolas Bro) e Edward (Ulrich Thomsen) são dois comerciantes cansados de seus casamentos sem amor e sonham em viver uma boa vida. Juntos, eles decidem contratar um assassino russo de aluguel para matar suas esposas. Mas eles subestimam as mulheres, e os dois logo se encontram no topo de uma lista de mortes.
+</info>
+</item>
+
+<item>
+<title>[COLOR white][B]Minha Primeira Caçada[/B][/COLOR]</title>
+<link>$doregex[TvFogoHD]MNHAPRMRACACDA.mp4|Referer=https://redecanais.ink/</link>
+<regex><name>TvFogoHD</name><expres> link: "(.*?).mp4</expres><page>https://redecanais.ink/player3/serverf4.php</page></regex>
+<thumbnail>https://3.bp.blogspot.com/-9zAjHgKD_4g/Wz-BleE3QyI/AAAAAAAAQIw/CAx_eARxqKgzmgDlPDgz4vVwpQ0fxuSdwCLcBGAs/s320/WGRWGR.jpg</thumbnail>
+<fanart>https://3.bp.blogspot.com/-9zAjHgKD_4g/Wz-BleE3QyI/AAAAAAAAQIw/CAx_eARxqKgzmgDlPDgz4vVwpQ0fxuSdwCLcBGAs/s320/WGRWGR.jpg</fanart>
+<info>O grande caçador Buck Ferguson (Josh Brolin) e seu cinegrafista Don (Danny McBride) partem em busca de uma aventura épica durante o fim de semana para se reconectar com o filho de Buck (Montana Jordan), mas a reconciliação é mais difícil do que imaginava.</info>
+</item>
+
+<item>
 <title>[COLOR white][B]Sob a Pele do Lobo[/B][/COLOR]</title>
 <link>$doregex[TvFogoHD]SOBAPLEDOLBO.mp4|Referer=https://redecanais.ink/</link>
 <regex><name>TvFogoHD</name><expres> link: "(.*?).mp4</expres><page>https://redecanais.ink/player3/serverf4.php</page></regex>
