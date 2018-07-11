@@ -5,6 +5,15 @@
 </item>
 
 <item>
+<title>[COLOR white][B]Sob a Pele do Lobo[/B][/COLOR]</title>
+<link>$doregex[TvFogoHD]SOBAPLEDOLBO.mp4|Referer=https://redecanais.ink/</link>
+<regex><name>TvFogoHD</name><expres> link: "(.*?).mp4</expres><page>https://redecanais.ink/player3/serverf4.php</page></regex>
+<thumbnail>https://1.bp.blogspot.com/-82Fo2A1lmjM/W0DQMVNX9LI/AAAAAAAAQJI/RDEZR4hj9Fob4pO6A2qzivPc2e0B_n5MwCLcBGAs/s320/GHGTGT.jpg</thumbnail>
+<fanart>https://1.bp.blogspot.com/-82Fo2A1lmjM/W0DQMVNX9LI/AAAAAAAAQJI/RDEZR4hj9Fob4pO6A2qzivPc2e0B_n5MwCLcBGAs/s320/GHGTGT.jpg</fanart>
+<info>No final do século XIX, na Espanha, Martinón (Mario Casas) é um caçador que vive no alto das montanhas, a última pessoa em uma cidade fantasma. A conselho do amigo Severino (Kandido Uranda), ele compra Pascuala (Ruth Díaz) para ser sua esposa e ter seus filhos.</info>
+</item>
+
+<item>
 <title>[COLOR white][B]TAU[/B][/COLOR]</title>
 <link>$doregex[TvFogoHD]TAU.mp4|Referer=https://redecanais.ink/</link>
 <regex><name>TvFogoHD</name><expres> link: "(.*?).mp4</expres><page>https://redecanais.ink/player3/serverf4.php</page></regex>
@@ -1179,33 +1188,6 @@
 </item>
 
 <item>
-<title>[COLOR white][B][/B][/COLOR]</title>
-<link></link>
-<thumbnail></thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B][/B][/COLOR]</title>
-<link></link>
-<thumbnail></thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B][/B][/COLOR]</title>
-<link></link>
-<thumbnail></thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]ÚLTIMOS ADICIONADOS[/COLOR][/B]</title>
-<link>here</link>
-<thumbnail>http://i.imgur.com/S2fRyk7.png</thumbnail>
-</item>
-
-<item>
 <title>[COLOR white][B]ANNABELLE 2: A CRIAÇÃO DO MAL[/B][/COLOR]</title>
 <link>$doregex[TvFogoHD]|Referer=http://netcine.us/</link><regex><name>TvFogoHD</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[TvFogoHDOne]</page></regex><regex><name>TvFogoHDOne</name><expres>src="(.*)" fra</expres><page>$doregex[TvFogoHDTwo]</page></regex><regex><name>TvFogoHDTwo</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/annabelle-2-a-criacao-do-mal/</page></regex>
@@ -1387,54 +1369,6 @@
 <page>http://netcine.us/your-name/</page></regex>
 <thumbnail>http://t0.gstatic.com/images?q=tbn:ANd9GcRd9STc3gksJk6A5XLDyfjs1ZgazEuLvMu4K2kA2LbdoPumS3Jz</thumbnail>
 <info>Mitsuha é a filha do prefeito de uma pequena cidade, mas sonha em tentar a sorte em Tóquio. Taki trabalha em um restaurante em Tóquio e deseja largar o seu emprego. Os dois não se conhecem, mas estão conectados pelas imagens de seus sonhos.</info>
-</item>
-
-<item>
-<title>[COLOR white][B][/B][/COLOR]</title>
-<link></link>
-<thumbnail></thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B][/B][/COLOR]</title>
-<link></link>
-<thumbnail></thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B][/B][/COLOR]</title>
-<link></link>
-<thumbnail></thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B][/B][/COLOR]</title>
-<link></link>
-<thumbnail></thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B][/B][/COLOR]</title>
-<link></link>
-<thumbnail></thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B][/B][/COLOR]</title>
-<link></link>
-<thumbnail></thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]TOP LANÇAMENTOS 2017[/COLOR][/B]</title>
-<link>here</link>
-<thumbnail>http://i.imgur.com/S2fRyk7.png</thumbnail>
 </item>
 
 <item>
@@ -1721,41 +1655,6 @@
 <page>http://netcine.us/velozes-e-furiosos-8/</page></regex>
 <thumbnail>https://jovemnerd.com.br/wp-content/uploads/2017/01/f8-poster.jpg</thumbnail>
 <info>Dom (Vin Diesel) e Letty (Michelle Rodriguez) estão curtindo a lua de mel em Havana, mas a súbita aparição de Cipher (Charlize Theron) atrapalha os planos do casal. Ela logo arma um plano para chantagear Dom, de forma que ele traia seus amigos e passe a ajudá-la a obter ogivas nucleares. Tal situação faz com Letty reúna os velhos amigos, que agora precisam enfrentar Cipher e, consequentemente, Dom.</info>
-</item>
-
-
-<item>
-<title>[COLOR white][B][/B][/COLOR]</title>
-<link></link>
-<thumbnail></thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B][/B][/COLOR]</title>
-<link></link>
-<thumbnail></thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B][/B][/COLOR]</title>
-<link></link>
-<thumbnail></thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B][/B][/COLOR]</title>
-<link></link>
-<thumbnail></thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]OUTROS[/COLOR][/B]</title>
-<link>here</link>
-<thumbnail>http://i.imgur.com/S2fRyk7.png</thumbnail>
 </item>
 
 <item>
