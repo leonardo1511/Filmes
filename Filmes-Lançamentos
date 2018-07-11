@@ -5,6 +5,15 @@
 </item>
 
 <item>
+<title>[COLOR white][B]TAU[/B][/COLOR]</title>
+<link>$doregex[TvFogoHD]TAU.mp4|Referer=https://redecanais.ink/</link>
+<regex><name>TvFogoHD</name><expres> link: "(.*?).mp4</expres><page>https://redecanais.ink/player3/serverf4.php</page></regex>
+<thumbnail>https://1.bp.blogspot.com/-w2-zY7IZyz4/WzZatH8_pJI/AAAAAAAAQDE/V0GDETk9FVMGT5duDGJCwbAnJConb-CdgCLcBGAs/s320/SGFGFGF.jpg</thumbnail>
+<fanart>https://1.bp.blogspot.com/-w2-zY7IZyz4/WzZatH8_pJI/AAAAAAAAQDE/V0GDETk9FVMGT5duDGJCwbAnJConb-CdgCLcBGAs/s320/SGFGFGF.jpg</fanart>
+<info>Julia (Maika Monroe), foi sequestrada e agora é mantida em cativeiro para um experimento fatal. Ela é uma prisioneira de TAU, uma inteligência artificial avançada desenvolvida por Alex (Ed Skrein), o sequestrador. TAU controla uma casa futurista e inteligente, aparentemente à prova de fuga. Julia vai ter que correr contra o tempo para não ter o mesmo fim que as outras cobaias.</info>
+</item>
+
+<item>
 <title>[B][COLOR white]OS FAROFEIROS[/COLOR][/B]</title>
 <link>$doregex[TvFogoHD]|Referer=http://netcine.us/</link><regex><name>TvFogoHD</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[TvFogoHDOne]</page></regex><regex><name>TvFogoHDOne</name><expres>src="(.*)" fra</expres><page>$doregex[TvFogoHDTwo]</page></regex><regex><name>TvFogoHDTwo</name><expres>src="(.*2018.*?)" fra</expres>
 <page>http://netcine.us/os-farofeiros/</page></regex>
