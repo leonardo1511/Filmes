@@ -13,7 +13,15 @@
 <channel>
 <name>[COLOR white][B]Filmes Tv Fogo HD[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/Gktvh6O.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/tvfogo/Filmes/master/filmes-a-a-z</externallink>
+<externallink>https://raw.githubusercontent.com/tvfogo/Filmes/master/Filmes-TvFogoHD</externallink>
+<fanart></fanart>
+<info>TV FOGO HD</info>
+</channel>
+
+<channel>
+<name>[COLOR white][B]Filmes Rede Canais[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/CGRUsYP.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/tvfogo/Filmes/master/filmes-redecanais</externallink>
 <fanart></fanart>
 <info>TV FOGO HD</info>
 </channel>
