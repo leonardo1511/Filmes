@@ -13,7 +13,7 @@
 </item>
 
 <item>
-<title>[COLOR white][B]Todas As Razões Para Esquecer[COLOR gold]DUB[/COLOR][/B][/COLOR]</title>
+<title>[COLOR white][B]Todas As Razões Para Esquecer[/B][/COLOR]</title>
 <link>$doregex[TvFogoHD]TDSASRZSPRESQCR.mp4|Referer=https://redecanais.ink/</link>
 <regex><name>TvFogoHD</name><expres> link: "(.*?).mp4</expres><page>https://redecanais.ink/player3/serverf4.php</page></regex>
 <thumbnail>https://i.imgur.com/Tyq0frr.jpg</thumbnail>
