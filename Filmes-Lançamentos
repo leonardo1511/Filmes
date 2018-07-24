@@ -2575,7 +2575,7 @@
 <item>
 <title>[COLOR white][B]xXx: REATIVADO[/B][/COLOR]</title>
 <link>$doregex[TvFogoHD]TRPLXRATVD.mp4|Referer=https://redecanais.ink/</link>
-<regex><name>TvFogoHD</name><expres> link: "(.*?).mp4</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<regex><name>TvFogoHD</name><expres> link: "(.*?).mp4</expres><page>https://redecanais.ink/player3/serverf4.php</page></regex>
 <thumbnail>http://t3.gstatic.com/images?q=tbn:ANd9GcTZGIMnEFugThYH7TeP21E-AZlvv3-aJEBTKkD0c-dhae7fGTFh</thumbnail>
 <info>Xander Cage (Vin Diesel) desiste de sua aposentadoria quando Xiang, um guerreiro alfa mortal, coloca suas mãos em uma arma indestrutível chamada de "Caixa de Pandora". Xander recruta os melhores soldados do mundo para destruir o vilão e paralelamente tem que enfrentar uma resistência formada por governos corruptos de todo o mundo.</info>
 </item>
