@@ -8,6 +8,14 @@
 </item>
 
 <item>
+<title>[COLOR white][B]VINGADORES: GUERRA INFINITA[/B][/COLOR]</title>
+<link>$doregex[TvFogoHD]299536-avengers-infinity-war.mp4|Referer=https://unitplay.net/</link>
+<regex><name>TvFogoHD</name><expres>(.*?).unity</expres><page>http://bit.ly/rcfhd</page></regex>
+<thumbnail>http://t2.gstatic.com/images?q=tbn:ANd9GcS4neC_Y4U1G6u2QlEFqbCizheGBUnZg1w874qWbIcVlv9tPuSu</thumbnail>
+<info>Thanos (Josh Brolin) enfim chega à Terra, disposto a reunir as Joias do Infinito. Para enfrentá-lo, os Vingadores precisam unir forças com os Guardiões da Galáxia, ao mesmo tempo em que lidam com desavenças entre alguns de seus integrantes.</info>
+</item>
+
+<item>
 <title>[COLOR white][B]A Maldição da Casa Winchester[/B][/COLOR]</title>
 <link>https://ia601507.us.archive.org/26/items/A.Maldio.da.Casa.Winchester/A.Maldi%C3%A7%C3%A3o.da.Casa.Winchester.mp4</link>
 <thumbnail>https://i.imgur.com/xAyXDZL.jpg</thumbnail>
@@ -1252,14 +1260,6 @@
 <page>http://netcine.us/veronica/</page></regex>
 <thumbnail>http://cdnstk.ntcdn.us/wp-content/uploads/2018/03/MV5BMmRkMDQzYzItZDFhMS00YzM1LTk0ZGMtZmExMzdiNzEwOTE4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX700_AL_.jpg</thumbnail>
 <info>Madrid, década de 1990. Depois de fazer um Quija com amigos, uma adolescente é assediada por perigosas presenças sobrenaturais que ameaçam prejudicar toda a família. Inspirado por aterradores arquivos policiais nunca resolvidos.</info>
-</item>
-
-<item>
-<title>[COLOR white][B]VINGADORES: GUERRA INFINITA[/B][/COLOR]</title>
-<link>$doregex[TvFogoHD]299536-avengers-infinity-war.mp4|Referer=https://unitplay.net/</link>
-<regex><name>TvFogoHD</name><expres>(.*?).unity</expres><page>http://bit.ly/rcfhd</page></regex>
-<thumbnail>http://t2.gstatic.com/images?q=tbn:ANd9GcS4neC_Y4U1G6u2QlEFqbCizheGBUnZg1w874qWbIcVlv9tPuSu</thumbnail>
-<info>Thanos (Josh Brolin) enfim chega à Terra, disposto a reunir as Joias do Infinito. Para enfrentá-lo, os Vingadores precisam unir forças com os Guardiões da Galáxia, ao mesmo tempo em que lidam com desavenças entre alguns de seus integrantes.</info>
 </item>
 
 <item>
