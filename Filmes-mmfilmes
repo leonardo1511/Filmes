@@ -6,8 +6,8 @@ http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="" group-title="LANCAMENTOS",
 
-#EXTINF:-1 tvg-logo="" group-title="LANCAMENTOS",
-
+#EXTINF:-1 tvg-logo="https://goo.gl/rb53Zz" group-title="LANCAMENTOS",Vingadores: Guerra Infinita
+http://network.vstreaming.net/movies/infinitywar-dub-360p.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/qbht7p" group-title="LANCAMENTOS",Guerreiro da Escuridão
 http://network.vstreaming.net/movies/guerreirodaescuridao-dub-720p.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/y1KYtM" group-title="LANCAMENTOS",O Carma de um Assassino
