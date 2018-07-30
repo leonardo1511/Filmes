@@ -2,6 +2,10 @@
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EmoDrxJ.png" group-title="LANCAMENTOS",[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]LANÇAMENTOS 2018[/COLOR][/B]
 http://0.0.0.0
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/tq25d8" group-title="LANCAMENTOS",Deadpool 2 (LEG)
+http://network.vstreaming.net/movies/deadpool2-leg-720p.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/2kkTzQ" group-title="LANCAMENTOS",Rampage: Destruição Total (LEG)
 http://network.vstreaming.net/movies/rampage-leg-1080p.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/kc8t3p" group-title="LANCAMENTOS",Jurassic World: Reino Ameaçado
