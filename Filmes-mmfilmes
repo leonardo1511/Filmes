@@ -87,57 +87,38 @@ http://0.0.0.0
 
 
 
-#EXTINF:-1 tvg-logo="http://bit.ly/2HS0wvq" group-title="UNIVERSO MARVEL",CAPITAO AMERICA:O PRIMEIRO VINGADOR
+#EXTINF:-1 tvg-logo="http://www.mmfilmes.tv/wp-content/uploads/2016/09/capitao1-203x300.jpg" group-title="UNIVERSO MARVEL",CAPITAO AMERICA:O PRIMEIRO VINGADOR
 http://network.vstreaming.net/movies/capitaovingador-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2Houia4" group-title="UNIVERSO MARVEL",HOMEM DE FERRO
-http://bit.ly/manutenccao-kbrplay
-#EXTINF:-1 tvg-logo="http://bit.ly/2HmjYzt" group-title="UNIVERSO MARVEL",O INCRIVEL HULK
-http://bit.ly/manutenccao-kbrplay
-#EXTINF:-1 tvg-logo="http://bit.ly/2K6libw" group-title="UNIVERSO MARVEL",HOMEM DE FERRO 2
-http://bit.ly/manutenccao-kbrplay
-#EXTINF:-1 tvg-logo="http://bit.ly/2qSPpLE" group-title="UNIVERSO MARVEL",THOR
+#EXTINF:-1 tvg-logo="http://www.mmfilmes.tv/wp-content/uploads/2017/02/font-b-Thor-b-font-1-font-b-2-b-font-the-Dark-World-Movie-210x300.jpg" group-title="UNIVERSO MARVEL",THOR
 http://network.vstreaming.net/movies/thor-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2qUpges" group-title="UNIVERSO MARVEL",OS VINGADORES
-http://bit.ly/manutenccao-kbrplay
-#EXTINF:-1 tvg-logo="http://bit.ly/2HSHJQD" group-title="UNIVERSO MARVEL",HOMEM DE FERRO 3
-http://bit.ly/manutenccao-kbrplay
-#EXTINF:-1 tvg-logo="http://bit.ly/2qRBkxW" group-title="UNIVERSO MARVEL",THOR:O MUNDO SOMBRIO
+#EXTINF:-1 tvg-logo="http://www.mmfilmes.tv/wp-content/uploads/2016/11/21024039_20130801212713895-210x300.jpg" group-title="UNIVERSO MARVEL",THOR:O MUNDO SOMBRIO
 http://network.vstreaming.net/movies/thormundosombrio-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2qVkw8m" group-title="UNIVERSO MARVEL",CAPITAO AMERICA:O SOLDADO INVERNAL
-http://bit.ly/manutenccao-kbrplay
-#EXTINF:-1 tvg-logo="http://bit.ly/2JjwNuS" group-title="UNIVERSO MARVEL",GUARDIOES DA GALAXIA
+#EXTINF:-1 tvg-logo="http://www.mmfilmes.tv/wp-content/uploads/2017/02/guardioesdagalaxiapnacional2-203x300.jpg" group-title="UNIVERSO MARVEL",GUARDIOES DA GALAXIA
 http://network.vstreaming.net/movies/guardioesgalaxia-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2K8vmAF" group-title="UNIVERSO MARVEL",OS VINGADORES:ERA DE ULTRON
+#EXTINF:-1 tvg-logo="http://www.mmfilmes.tv/wp-content/uploads/2017/02/vingadores-era-de-ultron-poster-204x300.jpg" group-title="UNIVERSO MARVEL",OS VINGADORES:ERA DE ULTRON
 http://network.vstreaming.net/movies/eradeultron-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2K8vBf3" group-title="UNIVERSO MARVEL",HOMEM FORMIGA
+#EXTINF:-1 tvg-logo="http://www.mmfilmes.tv/wp-content/uploads/2018/07/2102620.jpg-c_215_290_x-f_jpg-q_x-xxyxx.jpg" group-title="UNIVERSO MARVEL",HOMEM FORMIGA
 http://network.vstreaming.net/movies/homemformiga-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2vATcC5" group-title="UNIVERSO MARVEL",CAPITAO AMERICA:GUERRA CIVIL
+#EXTINF:-1 tvg-logo="http://www.mmfilmes.tv/wp-content/uploads/2016/09/guerracivil-202x300.jpg" group-title="UNIVERSO MARVEL",CAPITAO AMERICA:GUERRA CIVIL
 http://network.vstreaming.net/movies/guerracivil-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2vDI8nF" group-title="UNIVERSO MARVEL",DOUTOR ESTRANHO
+#EXTINF:-1 tvg-logo="http://www.mmfilmes.tv/wp-content/uploads/2016/11/doutor-estranho-210x300.jpg" group-title="UNIVERSO MARVEL",DOUTOR ESTRANHO
 http://network.vstreaming.net/movies/drestranho-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2qPtEwk" group-title="UNIVERSO MARVEL",GUARDIOES DA GALAXIA 2
+#EXTINF:-1 tvg-logo="http://www.mmfilmes.tv/wp-content/uploads/2017/05/images-1-2-204x300.jpg" group-title="UNIVERSO MARVEL",GUARDIOES DA GALAXIA 2
 http://network.vstreaming.net/movies/guardioesgalaxia2-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2Hl3N5v" group-title="UNIVERSO MARVEL",HOMEM ARANHA:DE VOLTA AO LAR
+#EXTINF:-1 tvg-logo="http://www.mmfilmes.tv/wp-content/uploads/2017/07/homecomingposter-198x300.jpg" group-title="UNIVERSO MARVEL",HOMEM ARANHA:DE VOLTA AO LAR
 http://network.vstreaming.net/movies/voltaaolar-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2Hq1yCc" group-title="UNIVERSO MARVEL",THOR:RAGNAROK
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/7/7d/Thor_Ragnarok_poster.jpg/250px-Thor_Ragnarok_poster.jpg" group-title="UNIVERSO MARVEL",THOR:RAGNAROK
 http://network.vstreaming.net/movies/thorrag-dub-720p.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xnqzQzL.jpg" group-title="UNIVERSO DC",ORDEM CRONOLOGICA
-http://0.0.0.0
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2Hmp6HZ" group-title="UNIVERSO DC",HOMEM DE ACO
-http://bit.ly/manutenccao-kbrplay
-#EXTINF:-1 tvg-logo="http://bit.ly/2HoxmTC" group-title="UNIVERSO DC",BATMAN VS SUPERMAN:A ORIGEM DA JUSTICA
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/01/04/18/43/2155615.jpg" group-title="UNIVERSO DC",BATMAN VS SUPERMAN:A ORIGEM DA JUSTICA
 http://network.vstreaming.net/movies/batmanvsuperman-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2KaWLls" group-title="UNIVERSO DC",ESQUADRAO SUICIDA
-http://bit.ly/manutenccao-kbrplay
-#EXTINF:-1 tvg-logo="http://bit.ly/2JjPWwU" group-title="UNIVERSO DC",MULHER MARAVILHA
+#EXTINF:-1 tvg-logo="http://www.mmfilmes.tv/wp-content/uploads/2017/06/580546-203x300.jpg" group-title="UNIVERSO DC",MULHER MARAVILHA
 http://network.vstreaming.net/movies/mulhermaravilha-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2HoXj5N" group-title="UNIVERSO DC",LIGA DA JUSTICA
+#EXTINF:-1 tvg-logo="http://www.mmfilmes.tv/wp-content/uploads/2017/12/images-12-1-195x300.jpg" group-title="UNIVERSO DC",LIGA DA JUSTICA
 http://network.vstreaming.net/movies/ligajustica-dub-720p.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SblvvAw.jpg" group-title="ACAO",ACAO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SblvvAw.jpg" group-title="ACAO",[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]ACAO[/COLOR][/B]
 http://0.0.0.0
+
 
 #EXTINF:-1 tvg-logo="http://bit.ly/2A7jmym" group-title="ACAO",BATMAN BEGINS
 http://network.vstreaming.net/movies/batmanbegins-dub-720p.mp4
