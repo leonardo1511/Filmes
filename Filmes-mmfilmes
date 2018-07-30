@@ -3,7 +3,8 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EmoDrxJ.png" group-title="LANCAMENTOS",[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]LANÇAMENTOS 2018[/COLOR][/B]
 http://0.0.0.0
 
-
+#EXTINF:-1 tvg-logo="http://www.mmfilmes.tv/wp-content/uploads/2018/07/4723738.jpg-c_215_290_x-f_jpg-q_x-xxyxx.jpg" group-title="LANCAMENTOS",Jurassic World: Reino Ameaçado
+http://network.vstreaming.net/movies/jurassikworld2-dub-480p.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xAyXDZL.jpg" group-title="LANCAMENTOS",A Maldição da Casa Winchester
 http://network.vstreaming.net/movies/winchester-dub-1080p.mp4
 #EXTINF:-1 tvg-logo="http://bit.ly/2Oh1KmM" group-title="LANCAMENTOS",CIRCULO DE FOGO A REVOLTA
