@@ -31,6 +31,237 @@
 </item>
 
 <item>
+<title>[COLOR white][B]Deadpool 2 LEG[/B][/COLOR]</title>
+<link>$doregex[BP1]DEADP2LEG.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/serverf4.php</page></regex>
+<info>Quando o super soldado Cable (Josh Brolin) chega em uma missão para assassinar o jovem mutante Russel (Julian Dennison), o mercenário Deadpool (Ryan Reynolds) precisa aprender o que é ser herói de verdade para salvá-lo. Para isso, ele recruta seu velho amigo Colossus e forma o novo grupo X-Force, sempre com o apoio do fiel escudeiro Dopinder (Karan Soni).</info>
+<thumbnail>https://i.pinimg.com/236x/62/ba/e0/62bae0b6da69b77c705df781fb7bf208.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]O Grito 3: O Início do Fim[/B][/COLOR]</title>
+<link>$doregex[BP1]OGRTO3.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/serverf4.php</page></regex>
+<info>Jake (Matthew Knight) é o único remanescente de um massacre. Ele é perturbado pelas visões dos espíritos de Kayako e Toshio e, por causa disto, é hospitalizado pela doutora Sullivan (Shawnee Smith). A médica busca provas dos tormentos pelos quais passa seu paciente e, em meio às investigações, desconfia que a família que está morando na casa de Jake possa estar amaldiçoada. A única esperança de pôr fim à maldição é uma misteriosa mulher japonesa.</info>
+<thumbnail>https://i.imgur.com/jsNFL90.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]Uma Viagem Para Espanha[/B][/COLOR]</title>
+<link>$doregex[BP1]UMVGMPRESPNHA.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/serverf4.php</page></regex>
+<info>Os atores britânicos Steve Coogan e Rob Brydon continuam sua viagem ao longo da Europa. Depois da Itália, o destino escolhido é a Espanha, eles pretendem conhecer a culinária local. Entre uma garfada e outra, os dois comediantes conversam sobre paternidade, masculinidade e o envelhecimento, sempre com muito humor e provocações inusitadas.</info>
+<thumbnail>https://image.tmdb.org/t/p/w342/74RSdBGWdtbdClQ2NGJeTTyO7fq.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]Desaparecida[/B][/COLOR]</title>
+<link>$doregex[BP1]PRDA.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/serverf4.php</page></regex>
+<info></info>
+<thumbnail>http://image.tmdb.org/t/p/w185/qlmnsc0vXJ0l4PMg6wp9nJWPljD.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]Os Estranhos: Caçada Noturna[/B][/COLOR]</title>
+<link>$doregex[BP1]OSESTNHSCACDNTRNA.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/serverf4.php</page></regex>
+<info>Seguindo os acontecimentos do primeiro filme, uma nova família receberá a terrível visita de três psicopatas - que têm como único objetivo transformar suas vidas em um inferno na Terra.</info>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mVJDYyFdr5nxvErxX2OBxHwVgQI.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]O Rei da Montanha[/B][/COLOR]</title>
+<link>$doregex[BP1]OREIDMNTNHA.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/serverf4.php</page></regex>
+<info>O jovem Espen, conhecido como "Ash Lad", vive com a família em uma pequena fazenda que está em ruínas. Quando a princesa do reino é sequestrada pelo Rei da Montanha, um Troll gigantesco, uma grande recompensa é oferecida para quem conseguir salvá-la. Espen e os irmãos aceitam o desafio e vão em busca da beldade para que, assim, possam tirar a família da miséria.</info>
+<thumbnail>https://torrentfilmes.biz/wp-content/uploads/2018/08/o-rei-da-montanha-capa.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]O Pacote[/B][/COLOR]</title>
+<link>$doregex[BP1]OPCTE.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/serverf4.php</page></regex>
+<info>Quando cinco amigos adolescentes resolvem fazer um acampamento de primavera, um infeliz acidente desencadeia uma corrida contra o tempo na tentativa de salvar o bem mais precioso de um dos integrantes da turma.</info>
+<thumbnail>http://br.web.img3.acsta.net/c_215_290/pictures/18/07/16/13/53/5015999.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]O Motorista de Táxi[/B][/COLOR]</title>
+<link>$doregex[BP1]OMTRSTDTX.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/serverf4.php</page></regex>
+<info>Em maio de 1980, um taxista de Seul recebe uma proposta de um repórter estrangeiro que consiste em transportá-lo para Gwangju e depois voltar para o local de origem por uma bagatela que cobrirá meses de seu aluguel pedente. No local, o taxista descobre uma realidade que ainda não conhecia: a ditadura militar na Coreia, quando centenas de civis foram massacrados pelo governo.</info>
+<thumbnail>http://br.web.img2.acsta.net/c_215_290/pictures/17/12/12/13/06/1798473.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]Não Vai Dar[/B][/COLOR]</title>
+<link>$doregex[BP1]NVAIDA.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/serverf4.php</page></regex>
+<info>Com o baile de formatura quase chegando, três jovens fazem o pacto de perderem a virgindade na noite da festa. Os pais das três garotas descobrem o plano delas e saem para tentar impedir que elas façam sexo, antes que seja tarde demais.</info>
+<thumbnail>http://br.web.img3.acsta.net/c_215_290/pictures/17/12/19/17/28/4107004.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]A Sociedade Literária e A Torta De Casca De Batata[/B][/COLOR]</title>
+<link>$doregex[BP1]ASCDADELTRA.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/serverf4.php</page></regex>
+<info>Juliet Ashton (Lily James) é uma escritora na Londres de 1946 que decide visitar Guernsey, uma das Ilhas do Canal invadidas pela Alemanha durante a Segunda Guerra Mundial, depois que ela recebe uma carta de um fazendeiro contando sobre como um clube do livro local foi fundado durante a guerra. Lá ela constrói profundos relacionamentos com os moradores da ilha e decide escrever um livro sobre as experiências deles na guerra.</info>
+<thumbnail>http://br.web.img2.acsta.net/c_215_290/pictures/18/02/28/08/58/5406063.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]Tully LEG[/B][/COLOR]</title>
+<link>$doregex[BP1]TULYLEG.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/serverf4.php</page></regex>
+<info>Marlo (Charlize Theron), mãe de três filhos, sendo um deles um recém-nascido, vive uma vida muito atarefada, e, certo dia, ganha de presente de seu irmão: uma babá para cuidar das crianças durante a noite. Antes um pouco hesitante, Marlo acaba se surpreendendo com Tully (Mackenzie Davis).</info>
+<thumbnail>https://image.tmdb.org/t/p/w342/p2bZj0w99kTXlrcsWTFpVaG3qwo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]O Que de Verdade Importa LEG[/B][/COLOR]</title>
+<link>$doregex[BP1]OQDVRDIMPRTALEG.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/serverf4.php</page></regex>
+<info>Alec Bailey é um engenheiro frustrado que vive em Londres. Ele trabalha consertando eletrodomésticos, mas o dinheiro que ganha não é suficiente para pagar as suas contas. Tudo muda quando um tio distante aparece em sua vida com uma proposta irrecusável: pagar todas as dívidas e despesas de Alec desde que ele se mude para Nova Escócia, no Canadá, por uma ano. Sem muitas alternativas, o jovem aceita o acordo e inicia uma nova fase de sua vida, agora em um novo país, podendo recomeçar do zero.</info>
+<thumbnail>https://image.tmdb.org/t/p/w185/4DbX6KxQMPYq7Ac9MTiv7EJ6JH8.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]Shiki Oriori: O Sabor da Juventude[/B][/COLOR]</title>
+<link>$doregex[BP1]SHKORIOSBRDJVNTD.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/serverf4.php</page></regex>
+<info>A história de três vidas em diferentes cidades da China que se cruzam para criar um só fim.</info>
+<thumbnail>https://1.bp.blogspot.com/-Oxj_rpdirPM/W2oO9mLsVTI/AAAAAAAA56k/mbDooNi03XgOopuervrIHESsw9BL-8D-ACLcBGAs/s1600/513347.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]Um Dia para Viver[/B][/COLOR]</title>
+<link>$doregex[BP1]UMDIAPRVIVR.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/serverf4.php</page></regex>
+<info>Um assassino (Ethan Hawke) ganha uma segunda chance quando seu empregador o traz de volta à vida temporariamente, logo após ter sido morto no trabalho. Ele ganha então 24 horas para realizar sua missão e se redimir.</info>
+<thumbnail>https://image.tmdb.org/t/p/w185/fsxaktz6uU0FbpXAhBTW5Srym2T.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]Wildling (Legendado)[/B][/COLOR]</title>
+<link>$doregex[BP1]WLDNGLEG.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/serverf4.php</page></regex>
+<info>Anna (Bel Powley) passou toda a sua infância sob os cuidados de um homem conhecido apenas como Papai (Brad Dourif). Ele a deixa trancada em um sótão, alertando-a sobre o Wildling, um monstro que come crianças e que vive do lado de fora. Aos 16 anos, Anna é resgatada pela xerife da Ellen Cooper (Liv Tyler) e a ajuda a começar uma nova vida como uma adolescente normal. Mas quando o corpo de Anna começa a florescer, seus pesadelos de infância voltam com um desejo de vingança e traz à tona um segredo sombrio.</info>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYjM2MGVmN2MtMDc3Ny00Nzk0LWFhMGUtNGQ0MDM5OTc5NDZlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]Para Sempre Chape (Nacional)[/B][/COLOR]</title>
+<link>$doregex[BP1]PRSMPRCHPE.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/serverf4.php</page></regex>
+<info>Em 2016, a Chapecoense, time de futebol da cidade de Chapecó, se classificou para a final do campeonato Sul-Americano, algo inédito para o clube até então. No entanto, a trajetória histórica foi interrompida no dia 28 de novembro do mesmo ano, quando o avião que transportava o time para a grande partida sofreu um grave acidente, provocando a morte de 71 pessoas. Depois de meses de luto e muita comoção, a Chapecoense se reergueu e deu continuidade ao legado daqueles que partiram, rumo ao topo novamente.</info>
+<thumbnail>https://cdn.ome.lt/Jm73QhTEyWKA8NEGh-a3Skw7duw=/480x360/smart/extras/conteudos/Para-Sempre-Chape-Capa.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]LBJ: A Esperança de Uma Nação[/B][/COLOR]</title>
+<link>$doregex[BP1]LBJAESPCDUMNC.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/serverf4.php</page></regex>
+<info>Após o trágico assassinato do Presidente Kennedy, em 1963, Lyndon Baines Johnson, até então vice-presidente, assume o cargo dentro de um contexto caótico. Rodeado por inimigos e sem legitimidade política, ele decide iniciar uma dura batalha à favor da aprovação do Ato dos Direitos Civis de Kennedy para garantir sua posição como líder do Poder Executivo.</info>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMzM2Njg5NDU4MF5BMl5BanBnXkFtZTgwMDMwMTQ1MzI@._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]A Morte do Superman[/B][/COLOR]</title>
+<link>$doregex[BP1]AMRTDSPRMN.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/serverf4.php</page></regex>
+<info>Um monstro gigantesco batizado de Doomsday surge do mundo subterrâneo para começar uma destruição em massa na cidade de Metropolis. A Liga da Justiça precisa intervir imediatamente, mas parece que só os poderes do Superman são compatíveis com o do terrível monstro. Em uma luta mortal, o destino do super-herói torna-se incerto.</info>
+<thumbnail>http://latiendadepeliculas.com/wp-content/uploads/2018/07/LA-MUERTE-DE-SUPERMAN-DVD.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]The Rider (Legendado)[/B][/COLOR]</title>
+<link>$doregex[BP1]THRDRLEG.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/serverf4.php</page></regex>
+<info>Depois de um acidente quase fatal na cabeça durante um rodeiro, um jovem cowboy passa a procurar uma nova identidade enquanto descobre o significado de ser um homem noc oração da América do norte.</info>
+<thumbnail>https://resizing.flixster.com/ebXWyfgn89FHiwFDH2_vJYcWlRo=/300x300/v1.bTsxMjY2MzcyOTtqOzE3Nzg2OzEyMDA7ODEwMDsxMjAwMA</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]Quem Tem Carma Nunca Alcança (Legendado)[/B][/COLOR]</title>
+<link>$doregex[BP1]QMTMCRMANCALCLEG.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/serverf4.php</page></regex>
+<info>Brij Mohan fingiu sua morte para escapar de uma vida monótona. Parecia uma ideia brilhante - até ele ser condenado à morte pelo seu próprio assassinato.</info>
+<thumbnail>https://image.tmdb.org/t/p/w300/uaR0c0n3wXAZhKNfhuyb3ojkSk4.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]Desejo de Matar[/B][/COLOR]</title>
+<link>$doregex[BP1]DESJODMTR.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/serverf4.php</page></regex>
+<info>Um homem gentil tem sua vida transformada quando sua família é abalada por um ato de violência que machuca a todos. Em busca de justiça, ele se transforma em uma máquina mortífera, para conseguir fazer justiça com as próprias mãos.</info>
+<thumbnail>http://cdnstk.ntcdn.us/wp-content/uploads/2018/05/desejo-de-matar.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLOR white][B]12 HERÓIS[/B][/COLOR]</title>
 <link>$doregex[BP1]12HERS.mp4|Referer=$doregex[BP2]</link>
 <regex><name>BP2</name><expres>(.*?).rss</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
