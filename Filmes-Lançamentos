@@ -11,8 +11,8 @@
 <regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://tv-fogo.github.io/HD/h15-servidor-rc</page></regex>
 <regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/serverf4.php</page></regex>
 <info>Quatro colegas de trabalho se programam para curtir o feriado prolongado em uma casa de praia e, chegando lá, descobrem que se meteram em uma tremenda roubada. Para começar o destino não é Búzios, mas Maringuaba; a residência alugada é encontrada caindo aos pedaços, bem diferente do prometido; a praia está sempre cheia; e as confusões são inúmeras.</info>
-<thumbnail>https://imgs.redecanais.ink/imgs-videos/RCServer06/imgs-videos/Os%20Farofeiros.jpg</thumbnail>
-<fanart></fanart>
+<thumbnail>http://i.imgur.com/5PThT2H.png</thumbnail>
+<fanart>http://i.imgur.com/5PThT2H.png</fanart>
 </item>
 
 <item>
