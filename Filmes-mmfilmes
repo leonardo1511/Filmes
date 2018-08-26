@@ -3,7 +3,6 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EmoDrxJ.png" group-title="LANCAMENTOS",[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]LANÇAMENTOS 2018[/COLOR][/B]
 http://0.0.0.0
 
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5PThT2H.png" group-title="LANCAMENTOS",Os Farofeiros
 http://bit.ly/TROSFARO
 #EXTINF:-1 tvg-logo="https://goo.gl/rb53Zz" group-title="LANCAMENTOS",Vingadores: Guerra Infinita
@@ -24,6 +23,8 @@ http://network.vstreaming.net/movies/jurassikworld2-dub-480p.mp4
 http://network.vstreaming.net/movies/winchester-dub-1080p.mp4
 #EXTINF:-1 tvg-logo="http://bit.ly/2Oh1KmM" group-title="LANCAMENTOS",CIRCULO DE FOGO A REVOLTA
 http://network.vstreaming.net/movies/pacificrimnovo-dub720p.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/knTo7oC.jpg" group-title="LANCAMENTOS",Guerreira De Sangue
+https://content.jwplatform.com/videos/1MhAQY2d-4ZePvwWs.mp4
 #EXTINF:-1 tvg-logo="http://bit.ly/2mI8Own" group-title="LANCAMENTOS",12 HEROIS
 http://network.vstreaming.net/movies/12strong-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://bit.ly/2Lkvqko" group-title="LANCAMENTOS",MARIA MADALENA
