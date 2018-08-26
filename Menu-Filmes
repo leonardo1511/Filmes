@@ -1,7 +1,5 @@
-<layouttype>thumbnail</layouttype>
- 
 <channels>
-
+</channels>
 <channel>
 <name>[COLOR white][B]LANÇAMENTOS 2018[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/EmoDrxJ.png</thumbnail>
@@ -9,7 +7,6 @@
 <fanart></fanart>
 <info>TV FOGO HD</info>
 </channel>
-
 <channel>
 <name>[COLOR white][B]Filmes Crackle[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/kbOXgCh.png</thumbnail>
@@ -17,7 +14,6 @@
 <fanart></fanart>
 <info>TV FOGO HD</info>
 </channel>
-
 <channel>
 <name>[COLOR white][B]Filmes Gospel[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/1eaRUHq.png</thumbnail>
@@ -25,7 +21,6 @@
 <fanart></fanart>
 <info>TV FOGO HD</info>
 </channel>
-
 <channel>
 <name>[COLOR white][B]Filmes que Marcaram Epoca[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/UstPceh.jpg</thumbnail>
@@ -33,7 +28,6 @@
 <fanart></fanart>
 <info>TV FOGO HD</info>
 </channel>
-
 <channel>
 <name>[COLOR white][B]Teste[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/UstPceh.jpg</thumbnail>
