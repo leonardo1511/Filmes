@@ -1,6 +1,13 @@
 <?xml version="2.0" encoding="utf-8" standalone="yes"?>
 
 <item>
+<title>novela</title>
+<link>plugin://plugin.video.openload?mode=streamURL&amp;url=https://openload.co/embed/l79m8dp-QNo/</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Tarzan, O Filho das Selvas</title>
 <utube>WgNqdztzw_0</utube>
 <thumbnail>http://4.bp.blogspot.com/-6DQntMtqW4o/TszOrjPMeJI/AAAAAAAAAvU/mJks_s5qrd0/s1600/Tarzan%252C+O+Filho+das+Selvas+%25281959%2529.jpg</thumbnail>
