@@ -1,13 +1,6 @@
 <channels>
 </channels>
 <channel>
-<name>[COLOR white][B]Filmes 2018[/B][/COLOR] [COLOR red][B]Off[/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/EmoDrxJ.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/tvfogo/Filmes/master/Filmes-mmfilmes</externallink>
-<fanart></fanart>
-<info>TV FOGO HD</info>
-</channel>
-<channel>
 <name>[COLOR white][B]Filmes Cine Clube Google Drive 2018[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/SqZomwK.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo/Filmes/master/Filmes-TvFogoHD</externallink>
