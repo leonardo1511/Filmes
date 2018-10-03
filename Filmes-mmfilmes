@@ -142,6 +142,8 @@ http://0.0.0.0
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1d1MoTjN1jGKe75hc52s_h7LZzALUb-AR
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lIKhue1.jpg" group-title="ACAO",Os Mercenarios 2
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1AS_w1FyqJeg0cPZlWVut4cYV7Hsazbpi
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e4qxo9U.jpg" group-title="ACAO",Os Mercenarios 3
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=16E0ujhDTeqhKUslYhSbiZECvM383ynZZ
 #EXTINF:-1 tvg-logo="http://bit.ly/2A7jmym" group-title="ACAO",BATMAN BEGINS
 http://earnings.maybeup.net/movies/batmanbegins-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2O7AXcB" group-title="ACAO",BATMAN O CAVALEIRO DAS TREVAS
