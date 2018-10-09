@@ -3,102 +3,114 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EmoDrxJ.png" group-title="LANCAMENTOS",[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]LANÇAMENTOS 2018[/COLOR][/B]
 http://0.0.0.0
 
+#EXTINF:-1 tvg-logo="https://goo.gl/oQPqap" group-title="LANCAMENTOS",Oito Mulheres e um Segredo
+http://cdn.toroflix.net/movies/oceans8-dub-1080p.mp4|Referer=http://www.mmfilmes.tv/
+#EXTINF:-1 tvg-logo="https://goo.gl/7B3Ysx" group-title="LANCAMENTOS",Deus Não Está Morto – Uma Luz na Escuridão (LEG)
+http://cdn.toroflix.net/movies/godsnotdead-leg-1080p.mp4|Referer=http://www.mmfilmes.tv/
+#EXTINF:-1 tvg-logo="https://goo.gl/Se56tb" group-title="LANCAMENTOS",Han Solo: Uma História Star Wars
+http://cdn.toroflix.net/movies/hansolo-dub-1080p.mp4|Referer=http://www.mmfilmes.tv/
+#EXTINF:-1 tvg-logo="https://goo.gl/nKnRNe" group-title="LANCAMENTOS",Megatubarão
+http://cdn.toroflix.net/movies/themegnew-dub-1080p.mp4|Referer=http://www.mmfilmes.tv/
+#EXTINF:-1 tvg-logo="https://goo.gl/ynUffe" group-title="LANCAMENTOS",Missão Impossível – Efeito Fallout
+http://cdn.toroflix.net/movies/missaoimpossivelnovo-dub-1080p.mp4|Referer=http://www.mmfilmes.tv/
+#EXTINF:-1 tvg-logo="https://goo.gl/rDuFYi" group-title="LANCAMENTOS",Hotel Transilvânia 3: Férias Monstruosas (LEG)
+http://cdn.toroflix.net/movies/hoteltransilvania3-leg-1080p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="https://goo.gl/9WDa5s" group-title="LANCAMENTOS",Verdade ou Desafio
-http://earnings.maybeup.net/movies/verdadeoudesafio-dub-1080p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/verdadeoudesafio-dub-1080p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="https://goo.gl/7oSF6n" group-title="LANCAMENTOS",Homem-Formiga e a Vespa
-http://earnings.maybeup.net/movies/homemformigaeavespa-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/homemformigaeavespa-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5PThT2H.png" group-title="LANCAMENTOS",Os Farofeiros
-http://earnings.maybeup.net/movies/osfarofeiros-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/osfarofeiros-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="https://goo.gl/rb53Zz" group-title="LANCAMENTOS",Vingadores: Guerra Infinita
-http://earnings.maybeup.net/movies/avengers2new-dub-1080p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/avengers2new-dub-1080p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="https://goo.gl/qbht7p" group-title="LANCAMENTOS",Guerreiro da Escuridão
-http://earnings.maybeup.net/movies/guerreirodaescuridao-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/guerreirodaescuridao-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="https://goo.gl/y1KYtM" group-title="LANCAMENTOS",O Carma de um Assassino
-http://earnings.maybeup.net/movies/ocarmadeumassassino-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/ocarmadeumassassino-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="https://goo.gl/Wddwxn" group-title="LANCAMENTOS",211: O Grande Assalto
-http://earnings.maybeup.net/movies/211ograndeassalto-dub-1080p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/211ograndeassalto-dub-1080p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="https://goo.gl/tq25d8" group-title="LANCAMENTOS",Deadpool 2 (LEG)
-http://earnings.maybeup.net/movies/deadpool2-leg-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/deadpool2-leg-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="https://goo.gl/2kkTzQ" group-title="LANCAMENTOS",Rampage: Destruição Total (LEG)
-http://earnings.maybeup.net/movies/rampage-leg-1080p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/rampage-leg-1080p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="https://goo.gl/kc8t3p" group-title="LANCAMENTOS",Jurassic World: Reino Ameaçado
-http://earnings.maybeup.net/movies/jurassikworld2-dub-480p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/jurassikworld2-dub-480p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xAyXDZL.jpg" group-title="LANCAMENTOS",A Maldição da Casa Winchester
-http://earnings.maybeup.net/movies/winchester-dub-1080p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/winchester-dub-1080p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2Oh1KmM" group-title="LANCAMENTOS",CIRCULO DE FOGO A REVOLTA
-http://earnings.maybeup.net/movies/pacificrimnovo-dub720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/pacificrimnovo-dub720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2mI8Own" group-title="LANCAMENTOS",12 HEROIS
-http://earnings.maybeup.net/movies/12strong-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/12strong-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2Lkvqko" group-title="LANCAMENTOS",MARIA MADALENA
-http://earnings.maybeup.net/movies/mariamadalena-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/mariamadalena-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2yLkUO3" group-title="LANCAMENTOS",O CULTO
-http://earnings.maybeup.net/movies/oculto-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/oculto-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2y23kF4" group-title="LANCAMENTOS",A ESCOLHA PERFEITA 3
-http://earnings.maybeup.net/movies/escolhaperfeita3-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/escolhaperfeita3-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2HJivmm" group-title="LANCAMENTOS",A CAMINHO DA FE
-http://earnings.maybeup.net/movies/acaminhodafe-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/acaminhodafe-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2LJ3ROo" group-title="LANCAMENTOS",A BARRACA DO BEIJO
-http://earnings.maybeup.net/movies/abarracadobeijo-leg-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/abarracadobeijo-leg-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2LMbgfA" group-title="LANCAMENTOS",OS CURADOS
-http://earnings.maybeup.net/movies/oscurados-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/oscurados-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2JzXU9G" group-title="LANCAMENTOS",DUDA E OS GNOMOS
-http://earnings.maybeup.net/movies/dudaeosgnomos-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/dudaeosgnomos-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2t0oPQY" group-title="LANCAMENTOS",COVIL DE LADROES
-http://earnings.maybeup.net/movies/covildeladroes-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/covildeladroes-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2JorDkU" group-title="LANCAMENTOS",TOMB RAIDER A ORIGEM
-http://earnings.maybeup.net/movies/tombraiderorigem-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/tombraiderorigem-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2t29zTR" group-title="LANCAMENTOS",COM AMOR SIMON
-http://earnings.maybeup.net/movies/comamorsimon-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/comamorsimon-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2suZ8IO" group-title="LANCAMENTOS",OS FAROFEIROS
-http://earnings.maybeup.net/movies/osfarofeiros-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/osfarofeiros-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2s0GQy8" group-title="LANCAMENTOS",O ESTRANGEIRO
-http://earnings.maybeup.net/movies/oestrangeiro-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/oestrangeiro-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2reYuOd" group-title="LANCAMENTOS",PANTERA NEGRA
-http://earnings.maybeup.net/movies/blackpanther-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/blackpanther-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2xf07BH" group-title="LANCAMENTOS",OS PARCAS
-http://earnings.maybeup.net/movies/osparcas-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/osparcas-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2sby00u" group-title="LANCAMENTOS",JUMANJI BEM VINDO A SELVA
-http://earnings.maybeup.net/movies/jumanji-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/jumanji-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2JMiFum" group-title="LANCAMENTOS",O TITAN
-http://earnings.maybeup.net/movies/thetitan-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/thetitan-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2GcpMtZ" group-title="LANCAMENTOS",50 TONS DE LIBERDADE
-http://earnings.maybeup.net/movies/fiftyshadesfreed-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/fiftyshadesfreed-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2roFOvv" group-title="LANCAMENTOS",A FORMA DA AGUA
-http://earnings.maybeup.net/movies/aformadaagua-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/aformadaagua-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2IOyljW" group-title="LANCAMENTOS",15:17 TREM PARA PARIS
-http://earnings.maybeup.net/movies/15h17tremparaparis-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/15h17tremparaparis-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2rV0YCm" group-title="LANCAMENTOS",BATMAN:GOTHAM BY GASLIGHT
-http://earnings.maybeup.net/movies/batmangaslight-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/batmangaslight-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2Iibt9d" group-title="LANCAMENTOS",ESQUADRAO SUICIDA:ACERTO DE CONTAS
-http://earnings.maybeup.net/movies/esquadraosuicidaacertodecontas-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/esquadraosuicidaacertodecontas-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2KWznsF" group-title="LANCAMENTOS",SOBRENATURAL:A ULTIMA CHAVE
-http://earnings.maybeup.net/movies/soobrenaturalultimachave-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/soobrenaturalultimachave-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2rI80K4" group-title="LANCAMENTOS",TOURO FERDINANDO
-http://earnings.maybeup.net/movies/ferdinand-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/ferdinand-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2KlOmel" group-title="LANCAMENTOS",VIVA A VIDA E UMA FESTA
-http://earnings.maybeup.net/movies/vivaavidaeumafesta-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/vivaavidaeumafesta-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2Iskahr" group-title="LANCAMENTOS",ANIQUILACAO
-http://earnings.maybeup.net/movies/annihilation-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/annihilation-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="https://goo.gl/Cf6xci" group-title="LANCAMENTOS",MAZE RUNNER:A CURA MORTAL
-http://earnings.maybeup.net/movies/mazerunnerdeathcure-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/mazerunnerdeathcure-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="https://goo.gl/jywbKd" group-title="LANCAMENTOS",OPERACAO RED SPARROW
-http://earnings.maybeup.net/movies/redsparrow-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/redsparrow-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2y91WAF" group-title="LANCAMENTOS",THE POST:A GUERRA SECRETA
-http://earnings.maybeup.net/movies/thepost-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/thepost-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2HM8ZPj" group-title="LANCAMENTOS",LEATHERFACE
-http://earnings.maybeup.net/movies/massacrenotexas-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/massacrenotexas-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2HMSum4" group-title="LANCAMENTOS",ADEUS CHRISTOPHER ROBIN
-http://earnings.maybeup.net/movies/adeuscristopher-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/adeuscristopher-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2lbr7ta" group-title="LANCAMENTOS",O VIGILANTE MASCARADO
-http://earnings.maybeup.net/movies/ovigilantemascarado-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/ovigilantemascarado-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2sVvsoC" group-title="LANCAMENTOS",PEQUENA GRANDE VIDA
-http://earnings.maybeup.net/movies/pequenagrandevida-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/pequenagrandevida-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2JOQG13" group-title="LANCAMENTOS",HONRA AO MERITO
-http://earnings.maybeup.net/movies/honraomerito-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/honraomerito-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2sXCRUm" group-title="LANCAMENTOS",A ARTE DA DISCORDIA
-http://earnings.maybeup.net/movies/thesquare-leg-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/thesquare-leg-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2yclPqB" group-title="LANCAMENTOS",ALVO TRIPLO
-http://earnings.maybeup.net/movies/alvotriplo-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/alvotriplo-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WH6yTzb.jpg" group-title="UNIVERSO MARVEL",[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]ORDEM CRONOLOGICA[/COLOR][/B]
@@ -107,33 +119,33 @@ http://0.0.0.0
 
 
 #EXTINF:-1 tvg-logo="http://www.mmfilmes.tv/wp-content/uploads/2016/09/capitao1-203x300.jpg" group-title="UNIVERSO MARVEL",CAPITAO AMERICA:O PRIMEIRO VINGADOR
-http://earnings.maybeup.net/movies/capitaovingador-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/capitaovingador-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://www.mmfilmes.tv/wp-content/uploads/2017/02/font-b-Thor-b-font-1-font-b-2-b-font-the-Dark-World-Movie-210x300.jpg" group-title="UNIVERSO MARVEL",THOR
-http://earnings.maybeup.net/movies/thor-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/thor-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://www.mmfilmes.tv/wp-content/uploads/2016/11/21024039_20130801212713895-210x300.jpg" group-title="UNIVERSO MARVEL",THOR:O MUNDO SOMBRIO
-http://earnings.maybeup.net/movies/thormundosombrio-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/thormundosombrio-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://www.mmfilmes.tv/wp-content/uploads/2017/02/guardioesdagalaxiapnacional2-203x300.jpg" group-title="UNIVERSO MARVEL",GUARDIOES DA GALAXIA
-http://earnings.maybeup.net/movies/guardioesgalaxia-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/guardioesgalaxia-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://www.mmfilmes.tv/wp-content/uploads/2017/02/vingadores-era-de-ultron-poster-204x300.jpg" group-title="UNIVERSO MARVEL",OS VINGADORES:ERA DE ULTRON
-http://earnings.maybeup.net/movies/eradeultron-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/eradeultron-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://www.mmfilmes.tv/wp-content/uploads/2018/07/2102620.jpg-c_215_290_x-f_jpg-q_x-xxyxx.jpg" group-title="UNIVERSO MARVEL",HOMEM FORMIGA
-http://earnings.maybeup.net/movies/homemformiga-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/homemformiga-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://www.mmfilmes.tv/wp-content/uploads/2016/09/guerracivil-202x300.jpg" group-title="UNIVERSO MARVEL",CAPITAO AMERICA:GUERRA CIVIL
-http://earnings.maybeup.net/movies/guerracivil-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/guerracivil-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://www.mmfilmes.tv/wp-content/uploads/2016/11/doutor-estranho-210x300.jpg" group-title="UNIVERSO MARVEL",DOUTOR ESTRANHO
-http://earnings.maybeup.net/movies/drestranho-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/drestranho-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://www.mmfilmes.tv/wp-content/uploads/2017/05/images-1-2-204x300.jpg" group-title="UNIVERSO MARVEL",GUARDIOES DA GALAXIA 2
-http://earnings.maybeup.net/movies/guardioesgalaxia2-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/guardioesgalaxia2-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://www.mmfilmes.tv/wp-content/uploads/2017/07/homecomingposter-198x300.jpg" group-title="UNIVERSO MARVEL",HOMEM ARANHA:DE VOLTA AO LAR
-http://earnings.maybeup.net/movies/voltaaolar-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/voltaaolar-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/7/7d/Thor_Ragnarok_poster.jpg/250px-Thor_Ragnarok_poster.jpg" group-title="UNIVERSO MARVEL",THOR:RAGNAROK
-http://earnings.maybeup.net/movies/thorrag-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/thorrag-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/01/04/18/43/2155615.jpg" group-title="UNIVERSO DC",BATMAN VS SUPERMAN:A ORIGEM DA JUSTICA
-http://earnings.maybeup.net/movies/batmanvsuperman-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/batmanvsuperman-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://www.mmfilmes.tv/wp-content/uploads/2017/06/580546-203x300.jpg" group-title="UNIVERSO DC",MULHER MARAVILHA
-http://earnings.maybeup.net/movies/mulhermaravilha-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/mulhermaravilha-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://www.mmfilmes.tv/wp-content/uploads/2017/12/images-12-1-195x300.jpg" group-title="UNIVERSO DC",LIGA DA JUSTICA
-http://earnings.maybeup.net/movies/ligajustica-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/ligajustica-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SblvvAw.jpg" group-title="ACAO",[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]ACAO[/COLOR][/B]
 http://0.0.0.0
@@ -145,414 +157,414 @@ plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/ope
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e4qxo9U.jpg" group-title="ACAO",Os Mercenarios 3
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=16E0ujhDTeqhKUslYhSbiZECvM383ynZZ
 #EXTINF:-1 tvg-logo="http://bit.ly/2A7jmym" group-title="ACAO",BATMAN BEGINS
-http://earnings.maybeup.net/movies/batmanbegins-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/batmanbegins-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2O7AXcB" group-title="ACAO",BATMAN O CAVALEIRO DAS TREVAS
-http://earnings.maybeup.net/movies/cavaleirotrevas-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/cavaleirotrevas-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2mBzAGL" group-title="ACAO",BATMAN O CAVALEIRO DAS TREVAS RESSURGE
-http://earnings.maybeup.net/movies/cavaleiroressurge-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/cavaleiroressurge-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2uW6uW6" group-title="ACAO",RESIDENT EVIL O HOSPEDE MALDITO
-http://earnings.maybeup.net/movies/residentevil-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/residentevil-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2uW1px0" group-title="ACAO",O HOBBIT UMA JORNADA INESPERADA
-http://earnings.maybeup.net/movies/jornadainesperada-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/jornadainesperada-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2MRxI8B" group-title="ACAO",O HOBBIT A BATALHA DOS 5 EXERCITOS
-http://earnings.maybeup.net/movies/cincoexercitos-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/cincoexercitos-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2JwtjVE" group-title="ACAO",ROGUE ONE
-http://earnings.maybeup.net/movies/rogueone-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/rogueone-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2L32GNz" group-title="ACAO",RESIDENT EVIL CAPITULO FINAL
-http://earnings.maybeup.net/movies/resident6-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/resident6-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2zOp3Bb" group-title="ACAO",ASSASSINS CREED
-http://earnings.maybeup.net/movies/asssassinscreed-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/asssassinscreed-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2LjXpAw" group-title="ACAO",A LEI DA NOITE
-http://earnings.maybeup.net/movies/aleidanoite-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/aleidanoite-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2JwSRCe" group-title="ACAO",ANIMAIS FANTASTICOS E ONDE HABITAM
-http://earnings.maybeup.net/movies/animaisfantasticos-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/animaisfantasticos-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2LunRnV" group-title="ACAO",PASSAGEIROS
-http://earnings.maybeup.net/movies/passageiros-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/passageiros-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2NWcarX" group-title="ACAO",RESIDENT EVIL RETRIBUICAO
-http://earnings.maybeup.net/movies/resident5-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/resident5-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2LnyokP" group-title="ACAO",60 SEGUNDOS
-http://earnings.maybeup.net/movies/60segundos-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/60segundos-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2usyRfk" group-title="ACAO",INDEPENDENCE DAY
-http://earnings.maybeup.net/movies/independenceday-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/independenceday-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2L35HxF" group-title="ACAO",PLANETA DOS MACACOS O CONFRONTO
-http://earnings.maybeup.net/movies/planetamacacosconfronto-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/planetamacacosconfronto-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2upZEc0" group-title="ACAO",ASSASSINO A PRECO FIXO 2
-http://earnings.maybeup.net/movies/precofixo-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/precofixo-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2uBtUQx" group-title="ACAO",ANJOS DA NOITE O DESPERTAR
-http://earnings.maybeup.net/movies/anjosdanoite4-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/anjosdanoite4-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2uqZQb2" group-title="ACAO",ANJOS DA NOITE GUERRAS DE SANGUE
-http://earnings.maybeup.net/movies/anjosnoitesangue-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/anjosnoitesangue-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="https://goo.gl/D5J9Rd" group-title="ACAO",FEITO NA AMERICA
-http://earnings.maybeup.net/movies/americanmade-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/americanmade-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2lMiuFK" group-title="ACAO",FALCAO NEGRO EM PERIGO
-http://earnings.maybeup.net/movies/falcaonegroemperigo-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/falcaonegroemperigo-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2tQsbGL" group-title="ACAO",MATRIX RELOADED
-http://earnings.maybeup.net/movies/matrixreloaded-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/matrixreloaded-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2yX9qXI" group-title="ACAO",INDEPENDENCE DAY O RESSURGIMENTO
-http://earnings.maybeup.net/movies/independenceresurgimento-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/independenceresurgimento-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2NcKDSM" group-title="ACAO",TROPA DE ELITE
-http://earnings.maybeup.net/movies/tropadeelite-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/tropadeelite-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2Kx2fu5" group-title="ACAO",TROPA DE ELITE 2
-http://earnings.maybeup.net/movies/elite2-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/elite2-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2tIZLPv" group-title="ACAO",JACK REACHER
-http://earnings.maybeup.net/movies/jackreachersemretorno-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/jackreachersemretorno-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2yZIWF8" group-title="ACAO",LUCY
-http://earnings.maybeup.net/movies/lucy-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/lucy-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2KAY5RM" group-title="ACAO",OBLIVION
-http://earnings.maybeup.net/movies/oblivion-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/oblivion-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2tvRyOA" group-title="ACAO",HORIZONTE PROFUNDO
-http://earnings.maybeup.net/movies/horizonteprofundo-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/horizonteprofundo-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2lDfnjf" group-title="ACAO",BLADE O CACADOR DE VAMPIROS
-http://earnings.maybeup.net/movies/blade-dub-480p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/blade-dub-480p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2MqN1El" group-title="ACAO",BLADE TRINITY
-http://earnings.maybeup.net/movies/bladetrinity-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/bladetrinity-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2KaLx4q" group-title="ACAO",O CONTADOR
-http://earnings.maybeup.net/movies/ocontador-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/ocontador-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2KoHnVG" group-title="ACAO",O APRENDIZ DE FEITICEIRO
-http://earnings.maybeup.net/movies/oaprendizdefeiticeiro-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/oaprendizdefeiticeiro-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2KjiPO3" group-title="ACAO",GIGANTES DE ACO
-http://earnings.maybeup.net/movies/giganteaco-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/giganteaco-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2tzgF35" group-title="ACAO",QUEBRANDO REGRAS
-http://earnings.maybeup.net/movies/quebrandoregras-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/quebrandoregras-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2MeSNZt" group-title="ACAO",SNIPER AMERICANO
-http://earnings.maybeup.net/movies/americansniper-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/americansniper-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2yyNzWx" group-title="ACAO",OPERACAO VALQUIRIA
-http://earnings.maybeup.net/movies/operacaovalquiria-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/operacaovalquiria-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2M7NoDh" group-title="ACAO",OPERACAO INVASAO
-http://earnings.maybeup.net/movies/operacaoinvasao-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/operacaoinvasao-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2yrFXoO" group-title="ACAO",TRUQUE DE MESTRE 2 ATO
-http://earnings.maybeup.net/movies/truquedemestre2-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/truquedemestre2-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2MH0okr" group-title="ACAO",CIRCULO DE FOGO
-http://earnings.maybeup.net/movies/pacificrim-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/pacificrim-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2tnaf6j" group-title="ACAO",SENHOR DOS ANEIS A SOCIEDADE DO ANEL
-http://earnings.maybeup.net/movies/sociedadeanel-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/sociedadeanel-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2JZk8BB" group-title="ACAO",SENHOR DOS ANEIS AS DUAS TORRES
-http://earnings.maybeup.net/movies/senhordosaneisduastorres-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/senhordosaneisduastorres-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2JStEH8" group-title="ACAO",TARTARUGAS NINJA FORA DAS SOMBRAS
-http://earnings.maybeup.net/movies/tartarugasninjasforadassombras-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/tartarugasninjasforadassombras-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2JZASW0" group-title="ACAO",X MEN APOCALIPSE
-http://earnings.maybeup.net/movies/xmenapocalipse-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/xmenapocalipse-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2JVOaWA" group-title="ACAO",VELOZES E FURIOSOS 7
-http://earnings.maybeup.net/movies/velozes7-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/velozes7-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2HQiYmG" group-title="ACAO",DEADPOOL
-http://earnings.maybeup.net/movies/deadpool-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/deadpool-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2lbu9xy" group-title="ACAO",MAIS FORTE QUE O MUNDO
-http://earnings.maybeup.net/movies/maisfortequeomundo-dub-360p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/maisfortequeomundo-dub-360p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2MplzaG" group-title="ACAO",NO LIMITE DO AMANHA
-http://earnings.maybeup.net/movies/limiteamanha-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/limiteamanha-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2JEF9Oh" group-title="ACAO",FACA SUA JOGADA
-http://earnings.maybeup.net/movies/facasuajogada-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/facasuajogada-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UUChJAL.jpg" group-title="COMEDIA",[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]COMEDIA[/COLOR][/B]
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="http://bit.ly/2O4C9xk" group-title="COMEDIA",ESPOSA DE MENTIRINHA
-http://earnings.maybeup.net/movies/esposadementirinha-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/esposadementirinha-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2LwN3NU" group-title="COMEDIA",A VIDA SECRETA DE WALTER MITTY
-http://earnings.maybeup.net/movies/waltermitty-leg-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/waltermitty-leg-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2NZEEAT" group-title="COMEDIA",COMO PERDER UM HOMEM EM 10 DIAS
-http://earnings.maybeup.net/movies/comoperderumhomemem10dias-dub-480p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/comoperderumhomemem10dias-dub-480p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2Nm3yda" group-title="COMEDIA",MINHA MAE E UMA PECA
-http://earnings.maybeup.net/movies/minhamaepeca-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/minhamaepeca-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2NXBX31" group-title="COMEDIA",SE BEBER NAO CASE
-http://earnings.maybeup.net/movies/beberncase1-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/beberncase1-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2zUePzA" group-title="COMEDIA",SE BEBER NAO CASE 2
-http://earnings.maybeup.net/movies/beberncase2-dub-480p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/beberncase2-dub-480p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2NV5Ctv" group-title="COMEDIA",SE BEBER NAO CASE 3
-http://earnings.maybeup.net/movies/beberncase3-dub-480p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/beberncase3-dub-480p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2JtW4SY" group-title="COMEDIA",MARLEY E EU
-http://earnings.maybeup.net/movies/marleyeeu-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/marleyeeu-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2Jt9Kh9" group-title="COMEDIA",QUASE 18
-http://earnings.maybeup.net/movies/quase18-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/quase18-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2LorpYX" group-title="COMEDIA",AMOR E AMIZADE
-http://earnings.maybeup.net/movies/amoramizade-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/amoramizade-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2tHf8rT" group-title="COMEDIA",TODO MUNDO EM PANICO 2
-http://earnings.maybeup.net/movies/todomundoempanico2-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/todomundoempanico2-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2Kx3UQl" group-title="COMEDIA",TODO MUNDO EM PANICO 3
-http://earnings.maybeup.net/movies/todomundoempanico3-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/todomundoempanico3-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2Kl9plY" group-title="COMEDIA",CAPITAO FANTASTICO
-http://earnings.maybeup.net/movies/capitaofantastico-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/capitaofantastico-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2MBlmR2" group-title="COMEDIA",SEX DRIVE RUMO AO SEXO
-http://earnings.maybeup.net/movies/rumoaosexo-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/rumoaosexo-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2yLSKT1" group-title="COMEDIA",VIZINHOS NADA SECRETOS
-http://earnings.maybeup.net/movies/vizinhossecretos-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/vizinhossecretos-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2N4xSJE" group-title="COMEDIA",50 TONS DE PRETO
-http://earnings.maybeup.net/movies/50tonsdepreto-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/50tonsdepreto-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2t81A8e" group-title="COMEDIA",FESTA DA SALSICHA
-http://earnings.maybeup.net/movies/festasalsicha-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/festasalsicha-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2JQGhCI" group-title="COMEDIA",SUPERBAD
-http://earnings.maybeup.net/movies/superbad-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/superbad-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2M4viCc" group-title="COMEDIA",VIZINHOS 2
-http://earnings.maybeup.net/movies/vizinhos2-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/vizinhos2-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2HPkbuk" group-title="COMEDIA",CLICK
-http://earnings.maybeup.net/movies/click-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/click-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2JBVW8F" group-title="COMEDIA",PROJETO X
-http://earnings.maybeup.net/movies/projetox-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/projetox-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2lc89m5" group-title="COMEDIA",AMERICAN PIE 2
-http://earnings.maybeup.net/movies/americanpie2-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/americanpie2-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2t7MO0I" group-title="COMEDIA",AMERICAN PIE 3
-http://earnings.maybeup.net/movies/americanpie3-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/americanpie3-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLJZRU7.jpg" group-title="INFANTIL",[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]INFANTIL[/COLOR][/B]
 http://0.0.0.0
 
 
 #EXTINF:-1 tvg-logo="http://bit.ly/2LgSJM0" group-title="INFANTIL",SING QUEM CANTA SEUS MALES ESPANTA
-http://earnings.maybeup.net/movies/sing-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/sing-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2uEo9S8" group-title="INFANTIL",OS SEM FLORESTA
-http://earnings.maybeup.net/movies/semfloresta-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/semfloresta-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2NqCV6X" group-title="INFANTIL",O EXPRESSO POLAR
-http://earnings.maybeup.net/movies/expressopolar-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/expressopolar-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2NmedEC" group-title="INFANTIL",PARANORMAN
-http://earnings.maybeup.net/movies/paranorman-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/paranorman-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2ml3GxR" group-title="INFANTIL",COMO TREINAR SEU DRAGAO
-http://earnings.maybeup.net/movies/comotreinaroseudragao-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/comotreinaroseudragao-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2L4axKU" group-title="INFANTIL",MOANA UM MAR DE AVENTURAS
-http://earnings.maybeup.net/movies/moana-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/moana-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2KtK1K3" group-title="INFANTIL",TA DANDO ONDA
-http://earnings.maybeup.net/movies/tadandoonda-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/tadandoonda-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2NbwSUt" group-title="INFANTIL",A ERA DO GELO
-http://earnings.maybeup.net/movies/gelo1-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/gelo1-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2yUnIZq" group-title="INFANTIL",A ERA DO GELO 2
-http://earnings.maybeup.net/movies/gelo2-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/gelo2-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2z4pXtg" group-title="INFANTIL",A ERA DO GELO 3
-http://earnings.maybeup.net/movies/gelo3-dub-360p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/gelo3-dub-360p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2KyUwLW" group-title="INFANTIL",A ERA DO GELO 4
-http://earnings.maybeup.net/movies/gelo4-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/gelo4-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2KtcSuM" group-title="INFANTIL",TROLLS
-http://earnings.maybeup.net/movies/trolls-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/trolls-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2tIqL0I" group-title="INFANTIL",WILLOW NA TERRA DA MAGIA
-http://earnings.maybeup.net/movies/willowmagia-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/willowmagia-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2IsoRa0" group-title="INFANTIL",O BOM GIGANTE AMIGO
-http://earnings.maybeup.net/movies/giganteamigo-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/giganteamigo-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2yHd7ke" group-title="INFANTIL",CEGONHAS A HISTORIA QUE NAO TE CONTARAM
-http://earnings.maybeup.net/movies/cegonhas-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/cegonhas-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2tit0aM" group-title="INFANTIL",PROCURANDO DORY
-http://earnings.maybeup.net/movies/procurandodory-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/procurandodory-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2I5aY1d" group-title="INFANTIL",ZOOTOPIA ESSA CIDADE E O BICHO
-http://earnings.maybeup.net/movies/zootopia-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/zootopia-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2M4OaRx" group-title="INFANTIL",HARRY POTTER E A PEDRA FILOSOFAL
-http://earnings.maybeup.net/movies/pedrafilosofal-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/pedrafilosofal-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2I4W0Z2" group-title="INFANTIL",HARRY POTTER E A CAMARA SECRETA
-http://earnings.maybeup.net/movies/camarasecreta-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/camarasecreta-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2tnguXA" group-title="INFANTIL",HARRY POTTER E O PRISIONEIRO DE AZKABAN
-http://earnings.maybeup.net/movies/prisioneiroazkaban-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/prisioneiroazkaban-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2t9TBI5" group-title="INFANTIL",HARRY POTTER E O CALICE DE FOGO
-http://earnings.maybeup.net/movies/calicedefogo-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/calicedefogo-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2M4Oyzt" group-title="INFANTIL",HARRY POTTER E A ORDEM DA FENIX
-http://earnings.maybeup.net/movies/ordemfenix-dub-360p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/ordemfenix-dub-360p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2M7oAf0" group-title="INFANTIL",HARRY POTTER E O ENIGMA DO PRINCIPE
-http://earnings.maybeup.net/movies/enigmadoprincipe-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/enigmadoprincipe-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2ypvY3j" group-title="INFANTIL",HARRY POTTER E AS RELIQUIAS DA MORTE 1
-http://earnings.maybeup.net/movies/reliquiaparte1-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/reliquiaparte1-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2I43taN" group-title="INFANTIL",HARRY POTTER E AS RELIQUIAS DA MORTE 2
 http://bit.ly/manutenccao-kbrplay
 #EXTINF:-1 tvg-logo="http://bit.ly/2Iw4jCc" group-title="INFANTIL",AS AVENTURAS DE TADEO 2
-http://earnings.maybeup.net/movies/aventurasdetadeo2-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/aventurasdetadeo2-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2rVZuIe" group-title="INFANTIL",SCOOBY DOO E O COMBATE DO SALSICHA
-http://earnings.maybeup.net/movies/scoobydoeocombatedesalsicha-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/scoobydoeocombatedesalsicha-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2LgO3D9" group-title="INFANTIL",MADAGASCAR 3:OS PROCURADOS
-http://earnings.maybeup.net/movies/madagascar3-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/madagascar3-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2wSjjF8" group-title="INFANTIL",O REI LEAO
-http://earnings.maybeup.net/movies/reileao-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/reileao-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2k8QkUj" group-title="INFANTIL",O REI LEAO 2
-http://earnings.maybeup.net/movies/reileao2-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/reileao2-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2s3Mkbx" group-title="INFANTIL",O REI LEAO 3
-http://earnings.maybeup.net/movies/reileao3-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/reileao3-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2LhGrjC" group-title="INFANTIL",UMA FLORESTA MUITO LOUCA
-http://earnings.maybeup.net/movies/umaflorestamuitolouca-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/umaflorestamuitolouca-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2wXh2bO" group-title="INFANTIL",A ESTRELA DE BELEM
-http://earnings.maybeup.net/movies/aestreladebelem-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/aestreladebelem-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2rWr7A8" group-title="INFANTIL",BIG PAI BIG FILHO
-http://earnings.maybeup.net/movies/bigpai-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/bigpai-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2IUnTaQ" group-title="INFANTIL",PICA PAU O FILME
-http://earnings.maybeup.net/movies/picapau-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/picapau-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2rVCpFt" group-title="INFANTIL",UMA FAMILIA FELIZ
-http://earnings.maybeup.net/movies/familiafeliz-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/familiafeliz-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2rUcu0U" group-title="INFANTIL",POKEMON EU ESCOLHO VOCE
-http://earnings.maybeup.net/movies/pokemon-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/pokemon-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2Gyoiut" group-title="INFANTIL",SHREK
-http://earnings.maybeup.net/movies/shrek-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/shrek-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2KGimC2" group-title="INFANTIL",SHREK 2
-http://earnings.maybeup.net/movies/shrek2-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/shrek2-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2Lg4IXl" group-title="INFANTIL",SHREK TERCEIRO
-http://earnings.maybeup.net/movies/shrek3-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/shrek3-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2wXlIyy" group-title="INFANTIL",SHREK PARA SEMPRE
-http://earnings.maybeup.net/movies/shreksempre-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/shreksempre-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2s0I9Ny" group-title="INFANTIL",TOY STORY UM MUNDO DE AVENTURAS
-http://earnings.maybeup.net/movies/toystory-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/toystory-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2Lk4H4t" group-title="INFANTIL",TOY STORY 2
-http://earnings.maybeup.net/movies/toystory2-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/toystory2-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2IVWwNA" group-title="INFANTIL",TOY STORY 3
-http://earnings.maybeup.net/movies/toystory3-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/toystory3-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2x4bSuM" group-title="INFANTIL",CARROS 3
-http://earnings.maybeup.net/movies/carros3-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/carros3-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2IDnAxD" group-title="INFANTIL",DRAGON BALL Z A BATALHA DOS DEUSES
-http://earnings.maybeup.net/movies/batalhadeuses-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/batalhadeuses-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2J1a1vC" group-title="INFANTIL",MEU MALVADO FAVORITO 3
-http://earnings.maybeup.net/movies/meumalvado3-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/meumalvado3-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2rXMh1u" group-title="INFANTIL",O PODEROSO CHEFINHO
-http://earnings.maybeup.net/movies/poderosochefinho-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/poderosochefinho-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2x10JuA" group-title="INFANTIL",BOB ESPONJA O FILME
-http://earnings.maybeup.net/movies/bobesponjaofilme-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/bobesponjaofilme-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2IWS80U" group-title="INFANTIL",AVIOES
-http://earnings.maybeup.net/movies/avioes-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/avioes-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2x2mpX9" group-title="INFANTIL",ALVIM E OS ESQUILOS
-http://earnings.maybeup.net/movies/esquilos-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/esquilos-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2rZTsWd" group-title="INFANTIL",ALVIM E OS ESQUILOS 2
-http://earnings.maybeup.net/movies/esquilos2-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/esquilos2-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2khY3iR" group-title="INFANTIL",ALVIM E OS ESQUILOS 3
-http://earnings.maybeup.net/movies/esquilos3-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/esquilos3-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2wXNKKk" group-title="INFANTIL",OS SMURFS E A VILA PERDIDA
-http://earnings.maybeup.net/movies/smurfsvilaperdida-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/smurfsvilaperdida-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2x0hhTx" group-title="INFANTIL",LEGO BATMAN
-http://earnings.maybeup.net/movies/legobatman-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/legobatman-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2rYzgES" group-title="INFANTIL",SAHARA
-http://earnings.maybeup.net/movies/saara-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/saara-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2rYByD2" group-title="INFANTIL",PINOQUIO
-http://earnings.maybeup.net/movies/pinoquio-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/pinoquio-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2x19tkh" group-title="INFANTIL",ANGRY BIRDS O FILME
-http://earnings.maybeup.net/movies/angrybirds-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/angrybirds-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2rYKk4Z" group-title="INFANTIL",LORAX
-http://earnings.maybeup.net/movies/lorax-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/lorax-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2x0iBWv" group-title="INFANTIL",A ORIGEM DOS GUARDIOES
-http://earnings.maybeup.net/movies/origemguardioes-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/origemguardioes-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2IxKVEW" group-title="INFANTIL",BRANCA DE NEVE E OS SETE ANOES
-http://earnings.maybeup.net/movies/brancadeneve-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/brancadeneve-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2IDrkiF" group-title="INFANTIL",PROCURANDO NEMO
-http://earnings.maybeup.net/movies/nemo-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/nemo-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2L1KccH" group-title="INFANTIL",DETONA RALPH
-http://earnings.maybeup.net/movies/detonaralph-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/detonaralph-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg" group-title="DRAMA e ROMANCE",[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]DRAMA E ROMANCE[/COLOR][/B]
 http://0.0.0.0
 
 
 #EXTINF:-1 tvg-logo="http://bit.ly/2uuNXB3" group-title="DRAMA e ROMANCE",NAO ME ABANDONE JAMAIS
-http://earnings.maybeup.net/movies/naomeabandonejamais-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/naomeabandonejamais-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2NpLz5z" group-title="DRAMA e ROMANCE",INTERESTELAR
-http://earnings.maybeup.net/movies/interstellar-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/interstellar-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2L5ZAZq" group-title="DRAMA e ROMANCE",A CACA
-http://earnings.maybeup.net/movies/acaca-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/acaca-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2uupkEj" group-title="DRAMA e ROMANCE",CARTAS PARA JULIETA
-http://earnings.maybeup.net/movies/cartasparajulieta-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/cartasparajulieta-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2LkpU1g" group-title="DRAMA e ROMANCE",COMO SE FOSSE A PRIMEIRA VEZ
-http://earnings.maybeup.net/movies/comosefosseprimeiravez-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/comosefosseprimeiravez-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2NkIa7Z" group-title="DRAMA e ROMANCE",UM LIMITE ENTRE NOS
-http://earnings.maybeup.net/movies/limitenos-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/limitenos-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2uIGWf0" group-title="DRAMA e ROMANCE",BELEZA OCULTA
-http://earnings.maybeup.net/movies/belezaoculta-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/belezaoculta-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2upFBKY" group-title="DRAMA e ROMANCE",UMA LOUCURA DE MULHER
-http://earnings.maybeup.net/movies/loucurademulher-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/loucurademulher-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2L3AR84" group-title="DRAMA e ROMANCE",ATE O ULTIMO HOMEM
-http://earnings.maybeup.net/movies/ATE%20O%20ULTIMO%20HOMEM%20-%20DUB%20-%20720P.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/ATE%20O%20ULTIMO%20HOMEM%20-%20DUB%20-%20720P.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2IGEGtM" group-title="DRAMA e ROMANCE",O HOMEM DO FUTURO
-http://earnings.maybeup.net/movies/homemdofuturo-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/homemdofuturo-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2tE0HVt" group-title="DRAMA e ROMANCE",A CHEGADA
-http://earnings.maybeup.net/movies/achegada-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/achegada-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2IG3vWE" group-title="DRAMA e ROMANCE",LUZ ENTRE OCEANOS
-http://earnings.maybeup.net/movies/luzentreoceanos-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/luzentreoceanos-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2Mrf4U1" group-title="DRAMA e ROMANCE",PRECISAMOS FALAR SOBRE KEVIN
-http://earnings.maybeup.net/movies/precisamosfalarsobrekevin-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/precisamosfalarsobrekevin-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2IsrhVX" group-title="DRAMA e ROMANCE",O MELHOR DE MIM
-http://earnings.maybeup.net/movies/omelhordemim-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/omelhordemim-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2N46efZ" group-title="DRAMA e ROMANCE",SULLY O HEROI DO RIO HUDSON
-http://earnings.maybeup.net/movies/sully-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/sully-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2lvZkUa" group-title="DRAMA e ROMANCE",O CURIOSO CASO DE BENJAMIN BUTTON
-http://earnings.maybeup.net/movies/benjaminbutton-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/benjaminbutton-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2K0m5hI" group-title="DRAMA e ROMANCE",UMA LONGA JORNADA
-http://earnings.maybeup.net/movies/umalongajornada-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/umalongajornada-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2t9v3yQ" group-title="DRAMA e ROMANCE",AS VANTAGENS DE SER INVISIVEL
-http://earnings.maybeup.net/movies/vantagensinvisivel-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/vantagensinvisivel-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2JXxBq9" group-title="DRAMA e ROMANCE",QUESTAO DE TEMPO
-http://earnings.maybeup.net/movies/questaodetempo-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/questaodetempo-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2tmHiY7" group-title="DRAMA e ROMANCE",NOSSO LAR
-http://earnings.maybeup.net/movies/nossolar-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/nossolar-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2MFKwyB" group-title="DRAMA e ROMANCE",CIDADES DE PAPEL
-http://earnings.maybeup.net/movies/cidadesdepapel-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/cidadesdepapel-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2JWLvZA" group-title="DRAMA e ROMANCE",UM AMOR PRA RECORDAR
-http://earnings.maybeup.net/movies/amorrecordar-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/amorrecordar-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2tkXrgF" group-title="DRAMA e ROMANCE",P S EU TE AMO
-http://earnings.maybeup.net/movies/psteamo-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/psteamo-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2I5iXLz" group-title="DRAMA e ROMANCE",DIARIO DE UMA PAIXAO
-http://earnings.maybeup.net/movies/diariodeumapaixao-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/diariodeumapaixao-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2tbh2k5" group-title="DRAMA e ROMANCE",A GAROTA DO LIVRO
-http://earnings.maybeup.net/movies/agarotadolivro-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/agarotadolivro-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2t9qSDa" group-title="DRAMA e ROMANCE",ONDE NASCE A ESPERANCA
-http://earnings.maybeup.net/movies/nasceesperanca-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/nasceesperanca-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2M30rWO" group-title="DRAMA e ROMANCE",EFEITO BORBOLETA
-http://earnings.maybeup.net/movies/efeitoborboleta-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/efeitoborboleta-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2ybU8ho" group-title="DRAMA e ROMANCE",COMO EU ERA ANTES DE VOCE
-http://earnings.maybeup.net/movies/comoeueraantesdevoce-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/comoeueraantesdevoce-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2t0pr9e" group-title="DRAMA e ROMANCE",BELEZA ADORMECIDA
-http://earnings.maybeup.net/movies/belezaadormecida-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/belezaadormecida-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2JGdaOk" group-title="DRAMA e ROMANCE",APENAS UM GAROTO EM NOVA YORK
-http://earnings.maybeup.net/movies/apenasumgarotony-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/apenasumgarotony-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2KRemhX" group-title="DRAMA e ROMANCE",COMO NAO PERDER ESSA MULHER
-http://earnings.maybeup.net/movies/comonaoperderessamulher-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/comonaoperderessamulher-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2IIf7xk" group-title="DRAMA e ROMANCE",ONDA PERFEITA
-http://earnings.maybeup.net/movies/ondaperfeita-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/ondaperfeita-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2kmm8VO" group-title="DRAMA e ROMANCE",GAROTA DAHORA
-http://earnings.maybeup.net/movies/garotadahora-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/garotadahora-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2KUic9Z" group-title="DRAMA e ROMANCE",DETONANDO EM BARCELONA
-http://earnings.maybeup.net/movies/detonandobarcelona-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/detonandobarcelona-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2x9xoOy" group-title="DRAMA e ROMANCE",BEM A TEMPO PARA O NATAL
-http://earnings.maybeup.net/movies/bematemponatal-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/bematemponatal-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2IHR9SR" group-title="DRAMA e ROMANCE",500 DIAS COM ELA
-http://earnings.maybeup.net/movies/500dias-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/500dias-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2Lq2WTs" group-title="DRAMA e ROMANCE",AMORES CANIBAIS
-http://earnings.maybeup.net/movies/thebadbatch-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/thebadbatch-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2IN5RrW" group-title="DRAMA e ROMANCE",TUDO E TODAS AS COISAS
-http://earnings.maybeup.net/movies/tudoetodascoisas-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/tudoetodascoisas-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2IJ8UkR" group-title="DRAMA e ROMANCE",CREPUSCULO
-http://earnings.maybeup.net/movies/crepusculo-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/crepusculo-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2LuBpAu" group-title="DRAMA e ROMANCE",LUA NOVA
-http://earnings.maybeup.net/movies/luanova-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/luanova-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2J1W7Jp" group-title="DRAMA e ROMANCE",ECLIPSE
-http://earnings.maybeup.net/movies/eclipse-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/eclipse-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2Lq71Hk" group-title="DRAMA e ROMANCE",AMANHECER PT1
-http://earnings.maybeup.net/movies/amanhecer-parte1-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/amanhecer-parte1-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2KSludU" group-title="DRAMA e ROMANCE",AMANHECER PT2
-http://earnings.maybeup.net/movies/amanhecer-parte2-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/amanhecer-parte2-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2IH2nHj" group-title="DRAMA e ROMANCE",AMOR CERTO HORA ERRADA
-http://earnings.maybeup.net/movies/amorcertoerrado-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/amorcertoerrado-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2LtSNVJ" group-title="DRAMA e ROMANCE",O ESPACO ENTRE NOS
-http://earnings.maybeup.net/movies/oespaco-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/oespaco-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2kn3GMT" group-title="DRAMA e ROMANCE",A BELA E A FERA
-http://earnings.maybeup.net/movies/abelaeafera-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/abelaeafera-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2rHIDb3" group-title="DRAMA e ROMANCE",O REI DO SHOW
-http://earnings.maybeup.net/movies/oreidoshow-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/oreidoshow-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvoNyWj.jpg" group-title="TERROR e SUSPENSE",[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]TERROR e SUSPENSE[/COLOR][/B]
 http://0.0.0.0
 
 
 #EXTINF:-1 tvg-logo="http://bit.ly/2zY47I5" group-title="TERROR e SUSPENSE",PERIGO EM ALTO MAR
-http://earnings.maybeup.net/movies/perigoaltomar-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/perigoaltomar-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2L0fxjE" group-title="TERROR e SUSPENSE",A MORTE DO DEMONIO
-http://earnings.maybeup.net/movies/amortedodemonio-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/amortedodemonio-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2L5Dmqj" group-title="TERROR e SUSPENSE",PANICO NA ESCOLA
-http://earnings.maybeup.net/movies/paniconaescola-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/paniconaescola-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2L6INoY" group-title="TERROR e SUSPENSE",MAMA
-http://earnings.maybeup.net/movies/mama-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/mama-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2mm75wq" group-title="TERROR e SUSPENSE",A NOITE DOS MORTOS VIVOS
-http://earnings.maybeup.net/movies/mortosvivos-dub-480p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/mortosvivos-dub-480p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2yX5Nky" group-title="TERROR e SUSPENSE",JOGOS MORTAIS 2
-http://earnings.maybeup.net/movies/jogosmortais2-leg-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/jogosmortais2-leg-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2yLhVW1" group-title="TERROR e SUSPENSE",INFERNO
-http://earnings.maybeup.net/movies/inferno-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/inferno-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2yCcyYX" group-title="TERROR e SUSPENSE",O HOMEM NAS TREVAS
-http://earnings.maybeup.net/movies/ohomemnastrevas-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/ohomemnastrevas-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2ysxLoa" group-title="TERROR e SUSPENSE",QUANDO AS LUZES SE APAGAM
-http://earnings.maybeup.net/movies/luzesseapagam-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/luzesseapagam-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2tzf2kW" group-title="TERROR e SUSPENSE",A INVOCACAO DO MAL
-http://earnings.maybeup.net/movies/invocacaodomal-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/invocacaodomal-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2LRnML2" group-title="TERROR e SUSPENSE",A INVOCACAO DO MAL 2
-http://earnings.maybeup.net/movies/iinvocacaomal2-dub-480p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/iinvocacaomal2-dub-480p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2JDcCZG" group-title="TERROR e SUSPENSE",TERRA SELVAGEM
-http://earnings.maybeup.net/movies/terraselvagem-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/terraselvagem-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2JSVxhP" group-title="TERROR e SUSPENSE",ADVOGADO DO DIABO
-http://earnings.maybeup.net/movies/advogadododiabo-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/advogadododiabo-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
 #EXTINF:-1 tvg-logo="http://bit.ly/2IHG9UO" group-title="TERROR e SUSPENSE",JOGOS MORTAIS:JIGSAW
-http://earnings.maybeup.net/movies/jigsaw-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
+http://cdn.toroflix.net/movies/jigsaw-dub-720p.mp4|Referer=http://www.mmfilmes.tv/
