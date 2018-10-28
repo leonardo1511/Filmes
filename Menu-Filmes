@@ -8,6 +8,13 @@
 <info>TV FOGO HD</info>
 </channel>
 <channel>
+<name>[B][COLOR white]FILMES: [COLOR gold]Animação[/COLOR][/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/5HCEiz3.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/tvfogo/Filmes/master/Filmes-Animação</externallink>
+<fanart></fanart>
+<info>TV FOGO HD</info>
+</channel>
+<channel>
 <name>[B][COLOR white]FILMES: [COLOR gold]Aventura[/COLOR][/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/aFT2YFF.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo/Filmes/master/Filmes-Aventura</externallink>
