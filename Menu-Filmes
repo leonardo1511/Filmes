@@ -22,6 +22,13 @@
 <info>TV FOGO HD</info>
 </channel>
 <channel>
+<name>[B][COLOR white]FILMES: [COLOR gold]Terror[/COLOR][/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/p2mJWjR.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/tvfogo/Filmes/master/Filmes-Terror</externallink>
+<fanart></fanart>
+<info>TV FOGO HD</info>
+</channel>
+<channel>
 <name>[COLOR white][B]Filmes Crackle[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/kbOXgCh.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo/Filmes/master/Filmes-CRACKLER</externallink>
