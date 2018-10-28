@@ -22,6 +22,13 @@
 <info>TV FOGO HD</info>
 </channel>
 <channel>
+<name>[B][COLOR white]FILMES: [COLOR gold]Fantasia[/COLOR][/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/p2mJWjR.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/tvfogo/Filmes/master/Filmes-Fantasia</externallink>
+<fanart></fanart>
+<info>TV FOGO HD</info>
+</channel>
+<channel>
 <name>[B][COLOR white]FILMES: [COLOR gold]Terror[/COLOR][/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/p2mJWjR.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo/Filmes/master/Filmes-Terror</externallink>
