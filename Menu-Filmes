@@ -36,6 +36,13 @@
 <info>TV FOGO HD</info>
 </channel>
 <channel>
+<name>[B][COLOR white]FILMES: [COLOR gold]Suspense[/COLOR][/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/9EEeAKB.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/tvfogo/Filmes/master/Filmes-Suspense</externallink>
+<fanart></fanart>
+<info>TV FOGO HD</info>
+</channel>
+<channel>
 <name>[B][COLOR white]FILMES: [COLOR gold]Terror[/COLOR][/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/ULxyFNL.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo/Filmes/master/Filmes-Terror</externallink>
