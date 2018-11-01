@@ -29,9 +29,23 @@
 <info>TV FOGO HD</info>
 </channel>
 <channel>
+<name>[B][COLOR white]FILMES: [COLOR gold]Biografia[/COLOR][/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/1u5TT4X.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/tvfogo/Filmes/master/Filmes-Biografia</externallink>
+<fanart></fanart>
+<info>TV FOGO HD</info>
+</channel>
+<channel>
 <name>[B][COLOR white]FILMES: [COLOR gold]Comédia[/COLOR][/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/7qms1rh.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo/Filmes/master/Filmes-Com%C3%A9dia</externallink>
+<fanart></fanart>
+<info>TV FOGO HD</info>
+</channel>
+<channel>
+<name>[B][COLOR white]FILMES: [COLOR gold]Documentarios[/COLOR][/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/IvIuc0X.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/tvfogo/Filmes/master/Filmes-Documentarios</externallink>
 <fanart></fanart>
 <info>TV FOGO HD</info>
 </channel>
