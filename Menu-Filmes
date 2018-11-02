@@ -71,6 +71,13 @@
 <info>TV FOGO HD</info>
 </channel>
 <channel>
+<name>[B][COLOR white]FILMES: [COLOR gold]Guerra[/COLOR][/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/fP2C96P.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/tvfogo/Filmes/master/Filmes-Guerra</externallink>
+<fanart></fanart>
+<info>TV FOGO HD</info>
+</channel>
+<channel>
 <name>[B][COLOR white]FILMES: [COLOR gold]Suspense[/COLOR][/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/9EEeAKB.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo/Filmes/master/Filmes-Suspense</externallink>
