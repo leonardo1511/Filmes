@@ -64,6 +64,13 @@
 <info>TV FOGO HD</info>
 </channel>
 <channel>
+<name>[B][COLOR white]FILMES: [COLOR gold]Faroeste[/COLOR][/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/vTmR2oL.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/tvfogo/Filmes/master/Filmes-Faroeste</externallink>
+<fanart></fanart>
+<info>TV FOGO HD</info>
+</channel>
+<channel>
 <name>[B][COLOR white]FILMES: [COLOR gold]Ficção-Científica[/COLOR][/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/dKxmqkD.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo/Filmes/master/Filmes-Fic%C3%A7%C3%A3o-Cient%C3%ADfica</externallink>
