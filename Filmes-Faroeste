@@ -159,14 +159,6 @@
 </item>
 
 <item>
-<title></title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
-<thumbnail></thumbnail>
-<fanart>http://ap.imagensbrasil.org/images/2018/02/14/Cartaz-de-faroeste.jpg</fanart>
-<info>Sinopse:</info>
-</item>
-
-<item>
 <title>Silverado</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ljprQ2Mg0iJIjDyGiCj9axj_gS5KY0rq/view?usp=sharing</link>
 <thumbnail>https://static.cineclick.com.br/sites/adm/uploads/banco_imagens/69/1080x1620_1533828336.jpg</thumbnail>
