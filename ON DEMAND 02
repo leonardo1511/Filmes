@@ -1685,3 +1685,108 @@
 <date>2012</date>
 </item>
 
+<item>
+<title>[COLOR white][B]BATMAN VS SUPERMAN: A ORIGEM DA JUSTIÇA[/B][/COLOR]</title>
+<link>$doregex[BP1]BTMNVSPRMNAODJT.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf2</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>http://t2.gstatic.com/images?q=tbn:ANd9GcSK9V67YydeMHGnfIixhrZLSEJovfiYxzh_bV_Tl05EpChscgSB</thumbnail>
+<infoO confronto entre Superman e Zod em Metrópolis fez com que a população mundial se dividisse acerca da existência de extraterrestres na Terra. Enquanto muitos consideram o Superman como um novo deus, há aqueles que consideram extremamente perigoso que haja um ser tão poderoso sem qualquer tipo de controle. Bruce Wayne é um dos que acreditam nesta segunda hipótese. Com isso, sob o manto de um Batman violento e obcecado, eles se enfrentam enquanto o mundo se pergunta que tipo de herói precisa.></info>
+<date>2016</date>
+</item>
+
+<item>
+<title>[COLOR white][B]BATTLESHIP A BATALHA DOS MARES[/B][/COLOR]</title>
+<link>$doregex[BP1]BTSHPABTHLDSMRS.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf1</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>http://br.web.img3.acsta.net/medias/nmedia/18/89/64/87/20080556.jpg</thumbnail>
+<info>Baseado no famoso jogo Batalha Naval, o filme acompanha a jornada de um navio que se depara com um exército alienígena que tenta conquistar a Terra. Para defender o planeta, a tripulação precisa confiar em uma estratégia única.</info>
+<date>2012</date>
+</item>
+
+<item>
+<title>[COLOR white][B]BAYONETTA: DESTINO SANGRENTO[/B][/COLOR]</title>
+<link>$doregex[BP1]BAYONTA.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf2</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>http://www.gstatic.com/tv/thumb/dvdboxart/11145732/p11145732_d_v8_aa.jpg</thumbnail>
+<info>Após 500 anos, a bruxa Bayonetta acorda sem se lembrar de nada. Ela precisa lutar contra hordas de anjos para recuperar tesouros perdidos e seu próprio passado.</info>
+<date>2013</date>
+</item>
+
+<item>
+<title>[COLOR white][B]BELAS E PERSEGUIDAS[/B][/COLOR]</title>
+<link>$doregex[BP1]BLSEPRSGDS.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf1</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>http://br.web.img3.acsta.net/pictures/15/03/25/15/06/442082.jpg</thumbnail>
+<info>Cooper, uma policial honesta, precisa proteger e escoltar Daniella Riva, uma linda colombiana muito engraçada, durante uma viagem de San Antonio, Califórnia, até o Texas, para que ela e seu marido possam testemunhar contra um traficante de drogas.</info>
+<date>2015</date>
+</item>
+
+<item>
+<title>[COLOR white][B]BEM CASADOS[/B][/COLOR]</title>
+<link>$doregex[BP1]BMCSDOS.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>http://br.web.img2.acsta.net/pictures/15/10/07/16/25/014112.jpg</thumbnail>
+<info>Heitor, um solteirão convicto, comanda uma equipe de filmagem de casamentos. Enquanto se prepara para cobrir mais um evento, ele conhece Penélope, a amante do noivo que está disposta a tudo para acabar com a cerimônia.</info>
+<date>2015</date>
+</item>
+
+<item>
+<title>[COLOR white][B]BEN 10: O SEGREDO DO OMNITRIX[/B][/COLOR]</title>
+<link>$doregex[BP1]BEN10FILME01.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/server5http2.php</page></regex>
+<thumbnail>https://i.imgur.com/T3AX0Ws.jpg</thumbnail>
+<info>Depois de uma batalha em uma usina nuclear, o Omnitrix dá sinais de que irá se autodestruir. Tetrax, Ben e sua prima Gwen devem agora encontrar seu criador, para impedir que ele se autodestrua levando consigo todo o Universo.</info>
+<date>2007</date>
+</item>
+
+<item>
+<title>[COLOR white][B]BEN 10: DESTRUIÇÃO ALIENÍGENA[/B][/COLOR]</title>
+<link>$doregex[BP1]BEN10FILME03.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/server5http2.php</page></regex>
+<thumbnail>https://i.imgur.com/GaiP80N.jpg</thumbnail>
+<info>Ben participa de um acampamento e é enviado de volta para terra em uma nave alienígena. Este episódio ganhou prêmios como melhor programa animado em 3D no Cartoon Network da Ásia. Ben 10 é uma ficção científica desenvolvida em computador.</info>
+<date>2012</date>
+</item>
+
+<item>
+<title>[COLOR white][B]BEN 10: A CORRIDA CONTRA O TEMPO[/B][/COLOR]</title>
+<link>$doregex[BP1]BEN10FILME02.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/server5http2.php</page></regex>
+<thumbnail>https://i.imgur.com/k6ICgd7.jpg</thumbnail>
+<info>Ben, Gwen e Max devem deter um extraterrestre que planeja abrir a porta para uma invasão de alienígenas.</info>
+<date>2007</date>
+</item>
+
+<item>
+<title>[COLOR white][B]BEN 10: INVASÃO ALIENÍGENA[/B][/COLOR]</title>
+<link>$doregex[BP1]BEN10FAFILME.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/server5http2.php</page></regex>
+<thumbnail>https://i.imgur.com/Co3BxDR.jpg</thumbnail>
+<info>Ben e uma garota misteriosa de seu passado precisam impedir que uma ameaça alienígena destrua o planeta.</info>
+<date>2009</date>
+</item>
+
+
