@@ -254,17 +254,3 @@
 <fanart>https://i.ytimg.com/vi/I-GgJX80JiM/maxresdefault.jpg</fanart>
 <info>Sinopse:</info>
 </item>
-
-<item>
-<title>[B][COLOR white]A ABELHA MAIA: O FILME[/COLOR][/B]</title>
-<link>$doregex[BP1]AABLHMAYA.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/A%20Abelha%20Maia%20-%20O%20Filme.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/A%20Abelha%20Maia%20-%20O%20Filme.jpg</fanart>
-<info>Maya é uma abelhinha muito querida, ela e seu melhor amigo, Willy, estão a procura de diversão. Um dia, acidentalmente, ela surpreende de maneira negativa a Imperatriz de Buzztropolis e, como consequência, é forçada a participar dos Jogos de Mel para conseguir salvar sua colmeia. Na competição, a abelhinha irá conhecer novos amigos, além de adversários extremamente habilidosos, enfrentando situações inéditas e desafiadoras.</info>
-<date></date>
-</item>
-
