@@ -8,6 +8,20 @@
 <info>TV FOGO HD</info>
 </channel>
 <channel>
+<name>[B][COLOR white]FILMES: [COLOR gold]Pancadão de Filmes[/COLOR][/COLOR][/B]</name>
+<thumbnail>http://licknet.com.br/wp-content/uploads/2018/05/ilustrativa-filmesondemand.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/tvfogo/Filmes/master/Pancadao%20de%20Filmes</externallink>
+<fanart></fanart>
+<info>TV FOGO HD</info>
+</channel>
+<channel>
+<name>[B][COLOR white]FILMES: [COLOR gold]Pancadão de Lançamentos[/COLOR][/COLOR][/B]</name>
+<thumbnail>http://br.web.img3.acsta.net/newsv7/15/12/29/14/47/494468.jpg</thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info>TV FOGO HD</info>
+</channel>
+<channel>
 <name>[B][COLOR white]FILMES: [COLOR gold]Ação[/COLOR][/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/2vOHSgu.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo/Filmes/master/Filmes-A%C3%A7%C3%A3o</externallink>
@@ -95,13 +109,6 @@
 <name>[B][COLOR white]FILMES: [COLOR gold]Terror[/COLOR][/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/ULxyFNL.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo/Filmes/master/Filmes-Terror</externallink>
-<fanart></fanart>
-<info>TV FOGO HD</info>
-</channel>
-<channel>
-<name>[B][COLOR white]FILMES: [COLOR gold]Pancadão de Filmes[/COLOR][/COLOR][/B]</name>
-<thumbnail>http://licknet.com.br/wp-content/uploads/2018/05/ilustrativa-filmesondemand.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/tvfogo/Filmes/master/Pancadao%20de%20Filmes</externallink>
 <fanart></fanart>
 <info>TV FOGO HD</info>
 </channel>
