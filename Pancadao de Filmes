@@ -1,4 +1,13 @@
 <item>
+<title>[B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR red]|||[/COLOR] [COLOR white]TV FOGO É FODA[/COLOR][/B]</title>
+<link>here</link>
+<thumbnail>http://br.web.img3.acsta.net/newsv7/15/12/29/14/47/494468.jpg</thumbnail>
+<fanart>http://www.blogbusters.ch/wp-content/uploads/2014/01/hunger-games-mockingjay-part-1-teaserposter.jpg</fanart>
+<info>Aproveitem Galera, TV FOGO HD sempre a frente.<info>
+<date></date>
+</item>
+
+<item>
 <title>[COLOR white][B]+ VELOZES + FURIOSOS[/B][/COLOR]</title>
 <link>$doregex[BP1]VLZEFROSOS02.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
