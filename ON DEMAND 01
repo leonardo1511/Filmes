@@ -1206,3 +1206,595 @@
 <info>Danny (Callum Turner) inesperadamente vai precisar substituir seu irmão Darren, preso por contravenção, em uma missão que é aparentemente fácil: entrar em um carro, ir até um ponto de encontro e depois recuperar uma pasta com um conteúdo secreto. O problema começa quando ele pega a pasta errada, e agora terá que fazer de tudo para corrigir seu erro, vagando pelo subúrbio ao lado da hostil motorista Ellie (Grace Van Patten).</info>
 <date>2017</date>
 </item>
+
+<item>
+<title>[COLOR white][B]A MALDIÇÃO DE CHUCKY[/B][/COLOR]</title>
+<link>$doregex[BP1]AMLDCAODCHCKY.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf2</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/91LHbi+CgjL._RI_.jpg</thumbnail>
+<info>Depois do suicídio de sua mãe, Nica recebe a visita de sua autoritária irmã Barb, que pretende ajudar nos arranjos do funeral. Sua filha traz um boneco ruivo que chegou curiosamente pelos correios. Quando uma série de assassinatos aterrorizam a vizinhança, Nica começa a suspeitar que o brinquedo tenha alguma relação com estes fatos, mas não sabe que Chucky está de volta para resolver casos pessoais de mais de vinte anos atrás.</info>
+<date>2012</date>
+</item>
+
+<item>
+<title>[COLOR white][B]A MÁQUINA[/B][/COLOR]</title>
+<link>$doregex[BP1]AMQNA.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf1</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://i.imgur.com/u9oqXWO.jpg</thumbnail>
+<info>Julian Michaels (Bruce Willis) é um consagrado designer cuja obra maior é Vice, um resort onde as pessoas podem fazer absolutamente tudo o que desejar, sem se ater a leis ou regras, já que apenas convive com robôs travestidos de humanos. Só que uma das robôs, Kelly (Ambyr Childers), passa a ter flashbacks de situações que teoricamente foram apagadas de sua memória. Após ter consciência de sua situação, ela faz o possível para escapar das garras de Julian.</info>
+<date>2015</date>
+</item>
+
+<item>
+<title>[COLOR white][B]A MÁQUINA DO TEMPO[/B][/COLOR]</title>
+<link>$doregex[BP1]AMQNDTMP.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf2</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>http://2.bp.blogspot.com/-JdRgMOiHtaI/U3YCMJxvAVI/AAAAAAAAJgQ/6M4J9Bmc31U/s1600/A+Maquina+do+Tempo.jpg</thumbnail>
+<info>Desesperado pelo assassinato de sua noiva, o inventor Alexander não consegue reverter a morte da amada alterando o tempo. Porém, em um futuro em que a humanidade está dividida entre espécies pacíficas e predatórias, o cientista precisa enfrentar os carnívoros Morlocks para salvar seus novos amigos.</info>
+<date>2002</date>
+</item>
+
+<item>
+<title>[COLOR white][B]A MARCA DO MEDO[/B][/COLOR]</title>
+<link>$doregex[BP1]AMRCDMDDUB.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf1</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>http://br.web.img3.acsta.net/pictures/14/06/27/13/57/247158.jpg</thumbnail>
+<info>Durante uma aula, um professor universitário pergunta a seus alunos o que são fenômenos sobrenaturais e se é possível provar sua existência. Nenhum dos alunos oferece uma resposta, então ele decide formar um grupo com três estudantes para investigar o caso de Jane Harper, que aparentemente está possuída por demônios. Agora o grupo terá de prender Harper em um casarão e fazer uma série de testes para avaliar os resultados.</info>
+<date>2014</date>
+</item>
+
+<item>
+<title>[COLOR white][B]A MENINA DO CHALÉ[/B][/COLOR]</title>
+<link>$doregex[BP1]AMNINDCHLE.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf2</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTM4NjkyNDg2Nl5BMl5BanBnXkFtZTcwNjY1ODE2Ng@@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<info>Após a morte da mãe, a campeã de skate Kim quer ganhar mais dinheiro. Para isso, ela se junta a uma sofisticada companhia de serviços que a envia para a Áustria.</info>
+<date>2011</date>
+</item>
+
+<item>
+<title>[COLOR white][B]A MENTIRA[/B][/COLOR]</title>
+<link>$doregex[BP1]AMNTR.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf1</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>http://cinema10.com.br/upload/image/A%20Mentira.jpg</thumbnail>
+<info>Estimulada pela popular melhor amiga a revelar detalhes de seu fim de semana entediante, Olive, uma adolescente certinha, decide apimentar um pouco os detalhes contando uma pequena mentira sobre a perda de sua virgindade. Quando a bisbilhoteira da escola ouve a conversa e espalha para todo o campus, Olive fica famosa repentinamente, mas pelas razões erradas.</info>
+<date>2010</date>
+</item>
+
+<item>
+<title>[COLOR white][B]A MORTE DO DEMÔNIO[/B][/COLOR]</title>
+<link>$doregex[BP1]AMRTDPDMNIO.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf1</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>http://br.web.img3.acsta.net/medias/nmedia/18/93/99/31/20496121.jpg</thumbnail>
+<info>Mia é uma viciada em drogas que, para vencer seus demônios pessoais, vai com seu irmão David, a namorada do irmão, Natalie, e os amigos de infância Olivia e Eric até uma cabana rústica, que pertence à família. Assim que chegam, descobrem que a cabana foi invadida e que o porão parece uma espécie de altar, rodeado por animais mumificados, onde a descoberta de um Livro dos Mortos invoca forças demoníacas. A presença do mal os possui até que apenas um é deixado a lutar pela sobrevivência.</info>
+<date>2013</date>
+</item>
+
+<item>
+<title>[COLOR white][B]A MORTE DO SUPERMAN[/B][/COLOR]</title>
+<link>$doregex[BP1]AMRTDSPNM.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf2</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>http://tinhaqueser.com/wp-content/uploads/2011/12/amortedosuperman_01.jpg</thumbnail>
+<info>Superman enfrenta e mata o assassino intergaláctico Doomsday, libertado acidentalmente, mas não resiste aos ferimentos e morre. A humanidade chora, e seus inimigos comemoram - menos Lex Luthor, que clona o herói e cria muitos problemas.</info>
+<date>2008</date>
+</item>
+
+<item>
+<title>[COLOR white][B]A MULHER DE PRETO[/B][/COLOR]</title>
+<link>$doregex[BP1]AMLHRDPRT01.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf1</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>http://t1.gstatic.com/images?q=tbn:ANd9GcQ1TMuL45d0sAaPDsbht60tu70OSq--QmigzufC_Uqa7dIctmfA</thumbnail>
+<info>O jovem advogado Arthur Kipps viaja para um remoto vilarejo para tratar dos papéis de um cliente recém-falecido. Na cidade pequena e mal-assombrada, ele vê uma mulher misteriosa vestida apenas de preto, uma aparição que o leva a descobrir um terrível segredo.</info>
+<date>2012</date>
+</item>
+
+<item>
+<title>[COLOR white][B]A MULHER DE PRETO 2: ANJO DA MORTE[/B][/COLOR]</title>
+<link>$doregex[BP1]AMLHRDPRT02.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf1</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>http://br.web.img3.acsta.net/pictures/14/12/08/12/29/137270.jpg</thumbnail>
+<info>Depois de 40 anos de a primeira assombração na casa de Eel Marsh, um grupo de crianças evacuadas de Londres devido à Segunda Guerra Mundial chega na casa, despertando o habitante mais sombrio do local.</info>
+<date>2015</date>
+</item>
+
+<item>
+<title>[COLOR white][B]A MULHER MAIS ODIADA DOS ESTADOS UNIDOS[/B][/COLOR]</title>
+<link>$doregex[BP1]AMLHRMSODADEUA.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>http://br.web.img3.acsta.net/r_1280_720/pictures/17/03/27/09/19/367326.jpg</thumbnail>
+<info>Na década de 1960, a ativista ateísta Madalyn Murray O'Hair decidiu lutar contra a religiosidade de seu país com o objetivo de criar uma sociedade mais laica ao conseguir que a Suprema Corte dos Estados Unidos derrubasse a obrigatoriedade da leitura da Bíblia nas escolas públicas. No entanto, este ato político gerou uma verdadeira onda de perseguições e ódio que Madalyn nunca pôde prever.</info>
+<date>2017</date>
+</item>
+
+<item>
+<title>[COLOR white][B]A MÚMIA[/B][/COLOR]</title>
+<link>$doregex[BP1]AMUMIA.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf1</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://i.imgur.com/TICczvn.jpg</thumbnail>
+<info>Em 1923, um grupo de arqueólogos liderados por Rick, O'Connel, Evelyn e seu irmão Jonathan exploram o egito. Nessa exploração encontram o corpo mumificado de Imhotep. Quando Evelyn lê o texto do livro de Amon-Dei, acidentalmente traz Imhoptep de volta a vida. Imhotep primeiramente não passa de um esqueleto, mas absorve órgãos humanos daqueles que abriram a arca e se transforma em um ser humano.</info>
+<date>1999</date>
+</item>
+
+<item>
+<title>[COLOR white][B]A MÚMIA: TUMBA DO IMPERADOR DRAGÃO[/B][/COLOR]</title>
+<link>$doregex[BP1]AMUMIATMBDIMPRDDRG.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf1</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://http2.mlstatic.com/a-mumia-tumba-do-imperador-drago-dvd-original-D_NQ_NP_616901-MLB20442972969_102015-F.jpg</thumbnail>
+<info>O imperador chinês Dragão e seu grande exército são enfeitiçados e enterrados por uma bruxa maldita. Quando o jovem arqueólogo Alex O' Connell é enganado para ressuscitar o imperador, ele e seus famosos parentes devem encontrar uma forma de mandar o mal de volta para a tumba antes que Dragão desperte seu grande exército.</info>
+<date>2008</date>
+</item>
+
+<item>
+<title>[COLOR white][B]A MÚMIA[/B][/COLOR]</title>
+<link>$doregex[BP1]AMUM.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>http://ntimg.ntcdn.us/wp-content/uploads/2017/07/596203.jpg-r_1280_720-f_jpg-q_x-xxyxx.jpg</thumbnail>
+<info>Na Mesopotâmia, séculos atrás, Ahmanet (Sofia Boutella) tem seus planos interrompidos justamente quando está prestes a invocar Set, o deus da morte, de forma que juntos possam governar o mundo.  Mumificada, ela é aprisionada dentro de uma tumba. Nos dias atuais, o local é descoberto por acidente por Nick Morton (Tom Cruise) e Chris Vail (Jake Johnson), saqueadores de artefatos antigos que estavam na região em busca de raridades. Ao lado da pesquisadora Jenny Halsey (Annabelle Wallis), eles investigam a tumba recém-descoberta e, acidentalmente, despertam Ahmanet. Ela logo elege Nick como seu escolhido e, a partir de então, busca a adaga de Set para que possa invocá-lo no corpo do saqueador.</info>
+<date>2017</date>
+</item>
+
+<item>
+<title>[COLOR white][B]A NOITE DA VIRADA[/B][/COLOR]</title>
+<link>$doregex[BP1]ANTDVRDNAC.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf1</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://i2.wp.com/cinemaeafins.com/wp-content/uploads/sites/3/2014/10/A-noite-da-virada.jpg</thumbnail>
+<info>Durante uma festa de Réveillon na casa de Ana (Julia Rabello) e Duda (Paulo Tiefenthaler), o banheiro é o foco de todas as fofocas e polêmicas. É onde Duda confessa à esposa que vai deixá-la pela vizinha Rosa (Luana Piovani), que, por sua vez, leva um casamento bem monótono com Mario (Marcos Palmeira). É também onde Alê (Luana Martau) conta a Ana suas aventuras sexuais com o namorado (João Vicente de Castro), e onde um convidado traficante (Taumaturgo Ferreira) faz os seus negócios. Na noite da virada do ano, tudo pode acontecer.</info>
+<date>2014</date>
+</item>
+
+<item>
+<title>[COLOR white][B]A NOIVA DE CHUCKY[/B][/COLOR]</title>
+<link>$doregex[BP1]ANVDCHCKY.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf2</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://101horrormovies.files.wordpress.com/2015/07/poster3.jpg</thumbnail>
+<info>Tiffany consegue resgatar os restos de Chucky que estavam sendo guardados como evidência policial, e com agulha, linha e uma caixa cheia de pedaços de bonecas velhas consegue refazê-lo. Através de um ritual vudu, ela faz com que a alma do seu ex-namorado volte para o boneco. Porém, o casal se desentende e Chucky acaba trancado em uma pequena jaula com uma boneca vestida de noiva.</info>
+<date>1999</date>
+</item>
+
+<item>
+<title>[COLOR white][B]A NOIVA-CADÁVER[/B][/COLOR]</title>
+<link>$doregex[BP1]ANOIVCDVER.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf2</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>http://br.web.img2.acsta.net/medias/nmedia/18/91/33/59/20140728.jpg</thumbnail>
+<info>As famílias de Victor e Victoria estão arranjando seu casamento. Embora gostem um do outro, Victor está nervoso em relação à cerimônia. Enquanto ele está na floresta ensaiando para o casamento, um tronco de árvore se transforma em uma mão que o puxa para dentro da terra. A mão é de Emily, que foi assassinada depois de fugir com seu amor e agora quer se casar com Victor, o qual deve voltar antes que Victoria se case com o vilão Barkis Bittern.</info>
+<date>2005</date>
+</item>
+
+<item>
+<title>[COLOR white][B]A PAIXÃO DE CRISTO[/B][/COLOR]</title>
+<link>$doregex[BP1]APAXAODCRST.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf1</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>http://br.web.img3.acsta.net/medias/nmedia/18/90/65/02/20106873.jpg</thumbnail>
+<info>Nesta versão da crucificação de Cristo baseada no Novo Testamento, Judas agiliza a queda de Jesus entregando-o a oficiais do Império Romano escolhidos a dedo. Para horror de sua mãe Maria, de Madalena e de seus discípulos, Jesus é condenado à morte.</info>
+<date>2004</date>
+</item>
+
+<item>
+<title>[COLOR white][B]A PEQUENA MORTE[/B][/COLOR]</title>
+<link>$doregex[BP1]APQNMRT.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://i.imgur.com/JdksTsT.jpg</thumbnail>
+<info>Uma comédia que explora os relacionamentos e as vidas sexuais secretas de vários casais que moram em Sydney. Um casal tem dificuldades com o sexo quando a mulher só consegue ficar excitada ao ser assediada. Outra mulher só consegue ficar satisfeita quando o namorado chora. Um homem descobre um aspecto novo de sua personalidade após deixar a mulher inconsciente. Uma brincadeira entre um casal vai tão longe que acaba não tendo nada a ver com sexo.</info>
+<date>2015</date>
+</item>
+
+<item>
+<title>[COLOR white][B]A PEQUENA SEREIA[/B][/COLOR]</title>
+<link>$doregex[BP1]APQNSRAFILME01.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf1</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>http://3.bp.blogspot.com/-tKBKbaHpm1k/VdJcsCC1wTI/AAAAAAAABp8/tnusoir42Gw/s1600/A%2BPequena%2BSereia%2B1989.jpg</thumbnail>
+<info>Ariel é uma sereia princesa de dezesseis anos de idade insatisfeita com a vida no fundo do mar e curiosa sobre o mundo na terra. Ela se apaixona por um príncipe humano e faz um acordo com a bruxa do mar para transformar-se em humana.</info>
+<date>1989</date>
+</item>
+
+<item>
+<title>[COLOR white][B]A PEQUENA SEREIA II: O RETORNO PARA O MAR[/B][/COLOR]</title>
+<link>$doregex[BP1]APQNSRAFILME02.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf1</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>http://br.web.img2.acsta.net/pictures/14/07/24/16/11/283831.jpg</thumbnail>
+<info>Para sua própria proteção, Melody, a filha de Ariel e Eric, não pode entrar no mar. Mas ao completar 12 anos, ela decide ir em busca de Atlântida, atraindo a ira de uma feiticeira e obrigando Ariel a transformar-se novamente em sereia para salvá-la.</info>
+<date>2000</date>
+</item>
+
+<item>
+<title>[COLOR white][B]A PRIMEIRA VEZ[/B][/COLOR]</title>
+<link>$doregex[BP1]APRMRVEZ.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf2</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>http://br.web.img3.acsta.net/pictures/14/09/02/22/51/089985.jpg</thumbnail>
+<info>Dave é platonicamente apaixonado pela melhor amiga Jane. Já Aubrey namora Ronny, um músico que não a compreende. Em uma sexta à noite, os caminhos de Dave e Aubrey se entrelaçarão, e ao longo do fim de semana muitas descobertas serão feitas pelo casal.</info>
+<date>2015</date>
+</item>
+
+<item>
+<title>[COLOR white][B]À PROCURA DA FELICIDADE[/B][/COLOR]</title>
+<link>$doregex[BP1]APRCRDFLCDAD.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf1</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://moviesense.files.wordpress.com/2008/10/thepursuit1.jpg</thumbnail>
+<info>Chris Gardner enfrenta uma vida difícil. Despejado de seu apartamento, este pai solteiro e seu filho não têm onde morar. Chris consegue um estágio não remunerado em uma firma de prestígio. Sem dinheiro, os dois são obrigados a viver em abrigos, mas Chris está determinado a criar um vida melhor para ele e seu filho.</info>
+<date>2007</date>
+</item>
+
+<item>
+<title>[COLOR white][B]À PROCURA DA LIBERDADE[/B][/COLOR]</title>
+<link>$doregex[BP1]APRCURDLBRD.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>http://www.spovo.com.br//media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/d/v/dvd_-_a_procura_da_liberdade.jpg</thumbnail>
+<info>Embora tenham vivido em séculos diferentes, dois homens têm o mesmo objetivo: alcançar a liberdade.
+Em 1856, o escravo Samuel Woodward e sua família escapam da plantação Monroe, perto de Richmond, Virginia. A rede secreta conhecida como Underground Railroad orienta a família em sua jornada em direção ao Canadá.
+Eles são implacavelmente perseguidos pelo notório caçador de escravos Plimpton (William Sadler). Caçado como um cão e assombrado pelo sofrimento inconcebível enfrentado por ele e seus antepassados, Samuel é forçado a decidir entre a vingança e a liberdade. 
+Aproximadamente cem anos antes, em 1748, John Newton, capitão de um navio negreiro, sai da África levando escravos rumo à América. A bordo, está o bisavô de Samuel, cuja sobrevivência está ligada ao destino do Capitão Newton. A viagem muda a vida de Newton para sempre, e ele cria um legado que inspirará Samuel e a vida de milhões de pessoas por gerações.</info>
+<date>2016</date>
+</item>
+
+<item>
+<title>[COLOR white][B]A PROFECIA[/B][/COLOR]</title>
+<link>$doregex[BP1]APRFCA1.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf2</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>http://br.web.img3.acsta.net/pictures/14/12/01/16/00/050092.jpg</thumbnail>
+<info>O embaixador americano e a esposa querem muito ter filhos. Quando ela dá à luz um bebê morto e um padre sugere que adotem um recém-nascido saudável e órfão, ele aceita sem contar à mulher. O que ele não sabe é que o bebê é o anticristo.</info>
+<date>1977</date>
+</item>
+
+<item>
+<title>[COLOR white][B]A PROFECIA[/B][/COLOR]</title>
+<link>$doregex[BP1]APRFCA2006.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf2</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>http://br.web.img2.acsta.net/pictures/14/12/01/16/19/346220.jpg</thumbnail>
+<info>Depois de sua esposa ter uma gravidez de risco, o bebê de um diplomata morre ao nascer. Convencido por um padre, o pai substitui a criança por outra que, aos cinco anos de idade, dá sinais de ser o Anticristo.</info>
+<date>2006</date>
+</item>
+
+<item>
+<title>[COLOR white][B]A PROFECIA 3: O CONFLITO FINAL[/B][/COLOR]</title>
+<link>$doregex[BP1]APRFCA3.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf2</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>http://bocadoinferno.com.br/wp-content/uploads/2013/04/A-Profecia-3-1981-3.jpg</thumbnail>
+<info>O Anticristo Damien Thorn, agora com 32 anos, é um empresário de sucesso, pronto para cumprir seu destino. Recém-nomeado embaixador dos Estados Unidos na Grã-Bretanha, ele é ameaçado de morte por um grupo liderado pelo padre DeCarlo. Enquanto Damien se prepara para o retorno de Jesus Cristo, ele toma proveito de seu relacionamento com Kate Reynolds para recrutar o filho dela, Peter, como seu seguidor.</info>
+<date>1981</date>
+</item>
+
+<item>
+<title>[COLOR white][B]A PROFECIA 4: O DESPERTAR[/B][/COLOR]</title>
+<link>$doregex[BP1]APRFCA4.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf2</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>http://2.bp.blogspot.com/-qbvc5T146ac/Tj1hPCXJqtI/AAAAAAAAAFI/VWn9WT6PMyA/s1600/a-profecia-4-o-despertar-capa.jpg</thumbnail>
+<info>Casal de advogados adota, em virtude dos conselhos de duas religiosas, uma menina que revela ser dotada de terríveis poderes sobrenaturais.</info>
+<date>1991</date>
+</item>
+
+<item>
+<title>[COLOR white][B]A REDE SOCIAL[/B][/COLOR]</title>
+<link>$doregex[BP1]ARDSCIL.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf2</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>http://3.bp.blogspot.com/-3KOen1OjP0o/UltAqqgRspI/AAAAAAAADq0/Tf8wdHF3s_o/s1600/A+Rede+Social.jpg</thumbnail>
+<info>Em 2003, o estudante de Harvard e gênio da computação Mark Zuckerberg começa a trabalhar em um novo conceito que acaba se transformando em uma rede social global, o Facebook. Seis anos mais tarde, ele é um dos bilionários mais jovens do planeta. Mas seu sucesso sem precedentes traz complicações legais e pessoais.</info>
+<date>2010</date>
+</item>
+
+<item>
+<title>[COLOR white][B]A RESSURREIÇÃO DO ANTICRISTO[/B][/COLOR]</title>
+<link>$doregex[BP1]ARSRCAODANTCRST.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf2</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://i.imgur.com/kqPn7at.jpg</thumbnail>
+<info>Michael e Rachel ficam desolados quando seu filho de seis anos morre em um acidente trágico. Quando um estranho afirma que pode ressuscitar o menino, o casal aceita a oferta, mas a criança revivida não é a mesma que eles conheciam.</info>
+<date>2016</date>
+</item>
+
+<item>
+<title>[COLOR white][B]A SAGA CREPÚSCULO: LUA NOVA[/B][/COLOR]</title>
+<link>$doregex[BP1]ASGCRSPCLO02.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf1</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>http://br.web.img3.acsta.net/medias/nmedia/18/87/89/73/19962668.jpg</thumbnail>
+<info>Depois da partida de Edward, Jacob se transforma no melhor amigo de Bella. Mas o que ela não imagina é que Jacob também tem um segredo que mudará suas vidas repentinamente.</info>
+<date>2009</date>
+</item>
+
+<item>
+<title>[COLOR white][B]A SAGA CREPÚSCULO: ECLIPSE[/B][/COLOR]</title>
+<link>$doregex[BP1]ASGCRSPCLO03.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf1</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>http://www.megacinefilmes.com/wp-content/uploads/2017/08/capa-5-5.jpg</thumbnail>
+<info>O perigo novamente ronda Bella com uma série de crimes misteriosos aterrorizando Seattle e um vampiro malicioso em busca de vingança. Em meio ao tumulto, Bella precisa escolher entre seu amor por Edward e sua amizade com Jacob, sabendo que sua decisão pode desencadear uma batalha entre vampiro e lobisomem.</info>
+<date>2010</date>
+</item>
+
+<item>
+<title>[COLOR white][B]A SAGA CREPÚSCULO: AMANHECER - PARTE 1[/B][/COLOR]</title>
+<link>$doregex[BP1]ASGCRSPCLO04.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf1</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://static.omelete.uol.com.br/media/extras/capas/filme_4632.jpg</thumbnail>
+<info>O casamento de Edward e Bella, sua lua de mel e o nascimento do filho desencadeiam uma série de acontecimentos que trará desdobramentos chocantes para Jacob.</info>
+<date>2011</date>
+</item>
+
+<item>
+<title>[COLOR white][B]A SAGA CREPÚSCULO: AMANHECER - PARTE 2[/B][/COLOR]</title>
+<link>$doregex[BP1]ASGCRSPCLO05.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf1</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://static.omelete.uol.com.br/legacy/images/galerias/A-Saga-Crepusculo-Amanhecer-Parte-2/Amanhecer-cartaz-nacional.jpg</thumbnail>
+<info>Depois do nascimento da filha de Bella e Edward, Renesmee, os Cullen reúnem lobisomens, clãs de vampiros e outros aliados de todo o mundo para protegê-la, já que uma falsa alegação faz com que os Volturi queiram matá-la.</info>
+<date>2012</date>
+</item>
+
+<item>
+<title>[COLOR white][B]A SAGA VIKING[/B][/COLOR]</title>
+<link>$doregex[BP1]ASGVKNG.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf1</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNTI0ZjljMzMtNDFlZi00YTM1LTgxY2EtN2Q1ZjNiZTNkMzQ3L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg</thumbnail>
+<info>Um grupo de vikings naufraga e tem que lutar contra mercenários depois de sequestrar a filha de um rei escocês.</info>
+<date>2015</date>
+</item>
+
+<item>
+<title>[COLOR white][B]A SALVAÇÃO[/B][/COLOR]</title>
+<link>$doregex[BP1]ASLVCAO.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf2</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>http://i.gaz.com.br/arquivos_biblioteca/imagens/2015/10/19/3561866e17d52f1ab10ceb586b819389.png</thumbnail>
+<info>Em 1870, em meio a colonos e foras-da-lei, o imigrante dinamarquês Jon esperou durante anos para trazer sua esposa e filho para os Estados Unidos. Quando finalmente consegue, logo depois que chegam, eles se tornam vítimas de um crime horrível. Traído e hostilizado pela comunidade, Jon, um pacífico fazendeiro, acaba se transformando em um vingador implacável, para salvar a cidade e encontrar a paz.</info>
+<date>2015</date>
+</item>
+
+<item>
+<title>[COLOR white][B]A SEITA[/B][/COLOR]</title>
+<link>$doregex[BP1]ASITA.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf2</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>http://i.imgur.com/UXTFwVO.jpg</thumbnail>
+<info>Na década de 1980, vários membros da seita religiosa Véu do Céu cometeram suicídio coletivo. A único sobrevivente foi uma garoto de cinco anos. Vinte cinco anos depois, uma equipe, liderada por Maggie (Jessica Alba) deseja fazer um documentário sobre o tema e procura a sobrevivente. Eles voltam ao lugar onde tudo aconteceu e descobrem que há coisas estranhas no local.</info>
+<date>2016</date>
+</item>
+
+<item>
+<title>[COLOR white][B]A SEITA MISTERIOSA[/B][/COLOR]</title>
+<link>$doregex[BP1]ASETAMSTRA.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf2</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://i.imgur.com/XPN2Dk2.jpg</thumbnail>
+<info>Dois cineastas especialistas em documentário decidem investigar uma seita misteriosa que vem se formando. Eles tentam penetrar nos cultos, em que uma mulher lidera o grupo e afirma ter vindo do futuro. Em meio as pesquisas por informações, os documentaristas vão adentrando muito fundo nesse lugar pouco amigável.</info>
+<date>2011</date>
+</item>
+
+<item>
+<title>[COLOR white][B]A SÉRIE DIVERGENTE: CONVERGENTE[/B][/COLOR]</title>
+<link>$doregex[BP1]ASREDVRGNTCNVGNT.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>http://br.web.img2.acsta.net/pictures/16/02/22/15/04/196967.jpg</thumbnail>
+<info>Tris e Quatro embarcam em uma jornada além da cerca ao redor de Chicago em busca de uma solução pacífica para a sua cidade, e acabam descobrindo a existência de uma nova sociedade.</info>
+<date>2016</date>
+</item>
+
+<item>
+<title>[COLOR white][B]A SÍNDROME DE BERLIN[/B][/COLOR]</title>
+<link>$doregex[BP1]ASNDRMDBRLM.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>http://t3.gstatic.com/images?q=tbn:ANd9GcSXCUgFVAFI0SXJgHpMuM09LE_x57JMhPMQwtRc4s-dfZkXCryC</thumbnail>
+<info>Clare (Teresa Palmer) é uma fotógrafa australiana que está passando férias em Berlim. Lá, ela conhece Andi (Max Riemelt), um jovem carismático que logo conquista a atenção da moça. A atração entre os dois é instantânea e eles acabam passando uma noite juntos. No entanto, quando Clare acorda na manhã seguinte, se vê sozinha e presa no apartamento de Andi.</info>
+<date>2017</date>
+</item>
+
+<item>
+<title>[COLOR white][B]A SUPREMACIA BOURNE[/B][/COLOR]</title>
+<link>$doregex[BP1]ASPBOURN.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf2</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>http://2.bp.blogspot.com/-zVuwyAYSmN8/U1l7nwyvqdI/AAAAAAAAJFQ/zLS4URMDhSk/s1600/A+Supremacia+Bourne.jpg</thumbnail>
+<info>Jason Bourne está vivendo na Índia quando é enquadrado por um agente russo, Kirill, pelo roubo de milhões da CIA. Kirill começa a perseguir Bourne com a intenção de assassiná-lo, mas, por engano, mata a namorada de Bourne, Marie. Jurando vingança, Bourne se propõe a provar sua inocência e trazer os culpados à justiça.</info>
+<date>2004</date>
+</item>
+
+<item>
+<title>[COLOR white][B]A TEORIA DE TUDO[/B][/COLOR]</title>
+<link>$doregex[BP1]ATORIDTD.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf1</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>http://t1.gstatic.com/images?q=tbn:ANd9GcRRttg42PEl-itUWQBeJ-PaH3xt9Y_fwhVf0ae8Z6a8wypzjxDg</thumbnail>
+<info>Baseado na história de Stephen Hawking, o filme expõe como o astrofísico fez descobertas relevantes para o mundo da ciência, inclusive relacionadas ao tempo. Também retrata seu romance com Jane Wilde, uma estudante de Cambridge que viria a se tornar sua esposa. Aos 21 anos de idade, Hawking descobriu que sofria de uma doença motora degenerativa, mas isso não o impediu de se tornar um dos maiores cientistas da atualidade.</info>
+<date>2015</date>
+</item>
+
+<item>
+<title>[COLOR white][B]A ÚLTIMA RESSACA DO ANO[/B][/COLOR]</title>
+<link>$doregex[BP1]AULTMRSCDAN.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>http://t2.gstatic.com/images?q=tbn:ANd9GcTGLxY4heyYdL0hJLnNlVdI1u64rcWKzVMqMBrZSBT7JPCC7pSs</thumbnail>
+<info>A presidente de uma empresa decide fechar a filial do seu irmão. Ele e seus funcionários fazem uma festa épica para conseguir um cliente VIP e salvar o emprego de todos.</info>
+<date>2016</date>
+</item>
+
+<item>
+<title>[COLOR white][B]A VIATURA[/B][/COLOR]</title>
+<link>$doregex[BP1]AVIATURA.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf1</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/r7lH4ue4taa82Cnu0nzGQ0fkKSu.jpg</thumbnail>
+<info>Dois meninos de dez anos de idade encontram uma viatura de polícia abandonada em um campo e saem dirigindo. Mas o xerife da cidade vai procurar o carro e os garotos se veem no centro de um mortífero jogo de gato e rato.</info>
+<date>2015</date>
+</item>
+
+<item>
+<title>[COLOR white][B]A VIDA DEPOIS DE BETH[/B][/COLOR]</title>
+<link>$doregex[BP1]AVIDDPSDBTH.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf2</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>http://3.bp.blogspot.com/-6aZu2jK4csM/ViYzJ0qbswI/AAAAAAAATyM/H_FoaVP6_hE/s1600/A%2BVida%2BDepois%2Bde%2BBeth.jpg</thumbnail>
+<info>Zach está desolado porque sua namorada Beth morreu. Quando misteriosamente ela volta à vida, Zach quer ficar ao lado dela o máximo de tempo possível. Mas o que ele não sabe é que Beth não é mais a mesma de antes.</info>
+<date>2015</date>
+</item>
+
+<item>
+<title>[COLOR white][B]A VIDA SECRETA DE WALTER MITTY[/B][/COLOR]</title>
+<link>$doregex[BP1]AVDSCRTADWLTRMTY.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf2</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>http://br.web.img2.acsta.net/pictures/210/513/21051366_20131021213607144.jpg</thumbnail>
+<info>Walter Mitty desenvolve fotos para uma revista, mas foge do tédio através de devaneios heroicos. Quando Walter recebe uma chance para uma verdadeira aventura, ele tem a chance de construir um relacionamento com uma colega de trabalho chamada Cheryl.</info>
+<date>2013</date>
+</item>
+
+<item>
+<title>[COLOR white][B]A VISITA[/B][/COLOR]</title>
+<link>$doregex[BP1]AVISTA.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf2</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>http://t2.gstatic.com/images?q=tbn:ANd9GcQGLFuh-8Gzb05irWIZgQWy3OJmvbkXaLtYwFNOxQovYjaxJ-h2</thumbnail>
+<info>Uma adolescente e seu irmão mais novo descobrem um segredo chocante sobre seus avós ao se hospedarem em sua fazenda remota na Pensilvânia.</info>
+<date>2015</date>
+</item>
+
+<item>
+<title>[COLOR white][B]A VOLTA DO JUÍZO FINAL[/B][/COLOR]</title>
+<link>$doregex[BP1]AVLTDJZFNL.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>http://www.gstatic.com/tv/thumb/movieposters/13274754/p13274754_p_v8_ab.jpg</thumbnail>
+<info>Há 15 anos, criaturas demoníacas saídas dos confins da Terra se alimentaram dos humanos por um dia. Agora, os demônios retornam para consumir a população em um novo Juízo Final, mas uma família pretende resistir.</info>
+<date>2016</date>
+</item>
+
+<item>
+<title>[COLOR white][B]ABRIL E O MUNDO EXTRAORDINÁRIO[/B][/COLOR]</title>
+<link>$doregex[BP1]ABRLEOMSNEXTR.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>http://deusmelivro.com/wp-content/uploads/2016/03/POSTER_abril-e-o-mundo-extraordinario.jpg</thumbnail>
+<info>Na França, ainda em um estado atrasado de desenvolvimento, pessoas desaparecem misteriosamente sem que ninguém saiba por qual motivo. As coisas mudam quando os pais de Avril, dois cientistas, somem e a filha decide ir à procura deles.</info>
+<date>2017</date>
+</item>
+
