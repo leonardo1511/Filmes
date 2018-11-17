@@ -1,5 +1,6 @@
 <channels>
 </channels>
+
 <channel>
 <name>[B][COLOR white]FILMES: [COLOR gold]LANÇAMENTOS[/COLOR][/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/wLulAUq.png</thumbnail>
@@ -7,6 +8,7 @@
 <fanart></fanart>
 <info>TV FOGO HD</info>
 </channel>
+
 <channel>
 <name>[B][COLOR white]FILMES: [COLOR red]ON DEMAND 01[/COLOR][/COLOR][/B]</name>
 <thumbnail>http://licknet.com.br/wp-content/uploads/2018/05/ilustrativa-filmesondemand.jpg</thumbnail>
@@ -14,6 +16,7 @@
 <fanart></fanart>
 <info>TV FOGO HD</info>
 </channel>
+
 <channel>
 <name>[B][COLOR white]FILMES: [COLOR pink]ON DEMAND 02[/COLOR][/COLOR][/B]</name>
 <thumbnail>http://licknet.com.br/wp-content/uploads/2018/05/ilustrativa-filmesondemand.jpg</thumbnail>
@@ -21,6 +24,7 @@
 <fanart></fanart>
 <info>TV FOGO HD</info>
 </channel>
+
 <channel>
 <name>[B][COLOR white]FILMES: [COLOR blue]ON DEMAND 03[/COLOR][/COLOR][/B]</name>
 <thumbnail>http://licknet.com.br/wp-content/uploads/2018/05/ilustrativa-filmesondemand.jpg</thumbnail>
@@ -28,6 +32,7 @@
 <fanart></fanart>
 <info>TV FOGO HD</info>
 </channel>
+
 <channel>
 <name>[B][COLOR white]FILMES: [COLOR gold]ON DEMAND 04[/COLOR][/COLOR][/B]</name>
 <thumbnail>http://licknet.com.br/wp-content/uploads/2018/05/ilustrativa-filmesondemand.jpg</thumbnail>
@@ -35,6 +40,7 @@
 <fanart></fanart>
 <info>TV FOGO HD</info>
 </channel>
+
 <channel>
 <name>[B][COLOR white]FILMES: [COLOR gold]Pancadão de Lançamentos[/COLOR][/COLOR][/B]</name>
 <thumbnail>http://br.web.img3.acsta.net/newsv7/15/12/29/14/47/494468.jpg</thumbnail>
@@ -42,6 +48,7 @@
 <fanart></fanart>
 <info>TV FOGO HD</info>
 </channel>
+
 <channel>
 <name>[B][COLOR white]FILMES: [COLOR gold]Ação[/COLOR][/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/2vOHSgu.png</thumbnail>
@@ -49,6 +56,7 @@
 <fanart></fanart>
 <info>TV FOGO HD</info>
 </channel>
+
 <channel>
 <name>[B][COLOR white]FILMES: [COLOR gold]Animação[/COLOR][/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/5HCEiz3.png</thumbnail>
@@ -56,6 +64,7 @@
 <fanart></fanart>
 <info>TV FOGO HD</info>
 </channel>
+
 <channel>
 <name>[B][COLOR white]FILMES: [COLOR gold]Aventura[/COLOR][/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/aFT2YFF.png</thumbnail>
@@ -63,6 +72,7 @@
 <fanart></fanart>
 <info>TV FOGO HD</info>
 </channel>
+
 <channel>
 <name>[B][COLOR white]FILMES: [COLOR gold]Biografia[/COLOR][/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/1u5TT4X.png</thumbnail>
@@ -70,6 +80,7 @@
 <fanart></fanart>
 <info>TV FOGO HD</info>
 </channel>
+
 <channel>
 <name>[B][COLOR white]FILMES: [COLOR gold]Comédia[/COLOR][/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/7qms1rh.png</thumbnail>
@@ -77,6 +88,7 @@
 <fanart></fanart>
 <info>TV FOGO HD</info>
 </channel>
+
 <channel>
 <name>[B][COLOR white]FILMES: [COLOR gold]Documentarios[/COLOR][/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/IvIuc0X.png</thumbnail>
@@ -84,6 +96,7 @@
 <fanart></fanart>
 <info>TV FOGO HD</info>
 </channel>
+
 <channel>
 <name>[B][COLOR white]FILMES: [COLOR gold]Nacionais[/COLOR][/COLOR][/B]</name>
 <thumbnail>https://i.ytimg.com/vi/b2vWVKxjil8/maxresdefault.jpg</thumbnail>
@@ -91,6 +104,7 @@
 <fanart></fanart>
 <info>TV FOGO HD</info>
 </channel>
+
 <channel>
 <name>[B][COLOR white]FILMES: [COLOR gold]Drama[/COLOR][/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/TvPF3OP.png</thumbnail>
@@ -98,6 +112,7 @@
 <fanart></fanart>
 <info>TV FOGO HD</info>
 </channel>
+
 <channel>
 <name>[B][COLOR white]FILMES: [COLOR gold]Fantasia[/COLOR][/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/zjZrZNj.png</thumbnail>
@@ -105,6 +120,7 @@
 <fanart></fanart>
 <info>TV FOGO HD</info>
 </channel>
+
 <channel>
 <name>[B][COLOR white]FILMES: [COLOR gold]Faroeste[/COLOR][/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/vTmR2oL.png</thumbnail>
@@ -112,6 +128,7 @@
 <fanart></fanart>
 <info>TV FOGO HD</info>
 </channel>
+
 <channel>
 <name>[B][COLOR white]FILMES: [COLOR gold]Ficção-Científica[/COLOR][/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/dKxmqkD.png</thumbnail>
@@ -119,6 +136,7 @@
 <fanart></fanart>
 <info>TV FOGO HD</info>
 </channel>
+
 <channel>
 <name>[B][COLOR white]FILMES: [COLOR gold]Guerra[/COLOR][/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/fP2C96P.png</thumbnail>
@@ -126,6 +144,7 @@
 <fanart></fanart>
 <info>TV FOGO HD</info>
 </channel>
+
 <channel>
 <name>[B][COLOR white]FILMES: [COLOR gold]Suspense[/COLOR][/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/9EEeAKB.png</thumbnail>
@@ -133,6 +152,7 @@
 <fanart></fanart>
 <info>TV FOGO HD</info>
 </channel>
+
 <channel>
 <name>[B][COLOR white]FILMES: [COLOR gold]Terror[/COLOR][/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/ULxyFNL.png</thumbnail>
@@ -140,6 +160,7 @@
 <fanart></fanart>
 <info>TV FOGO HD</info>
 </channel>
+
 <channel>
 <name>[COLOR white][B]Filmes Crackle[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/kbOXgCh.png</thumbnail>
@@ -147,6 +168,7 @@
 <fanart></fanart>
 <info>TV FOGO HD</info>
 </channel>
+
 <channel>
 <name>[COLOR white][B]Filmes Gospel[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/1eaRUHq.png</thumbnail>
@@ -154,6 +176,7 @@
 <fanart></fanart>
 <info>TV FOGO HD</info>
 </channel>
+
 <channel>
 <name>[COLOR white][B]Filmes que Marcaram Epoca[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/UstPceh.jpg</thumbnail>
