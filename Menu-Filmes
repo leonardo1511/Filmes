@@ -84,6 +84,12 @@
 <fanart></fanart>
 <info>TV FOGO HD</info>
 </channel>
+<name>[B][COLOR white]FILMES: [COLOR gold]Nacionais[/COLOR][/COLOR][/B]</name>
+<thumbnail>https://i.ytimg.com/vi/b2vWVKxjil8/maxresdefault.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/tvfogo/Filmes/master/Filmes-Nacionais/MENU</externallink>
+<fanart></fanart>
+<info>TV FOGO HD</info>
+</channel>
 <channel>
 <name>[B][COLOR white]FILMES: [COLOR gold]Drama[/COLOR][/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/TvPF3OP.png</thumbnail>
