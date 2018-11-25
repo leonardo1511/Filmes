@@ -106,6 +106,14 @@
 </channel>
 
 <channel>
+<name>[B][COLOR white]FILMES: [COLOR gold]Musical[/COLOR][/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/rfskmI8.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/tvfogo/Filmes/master/Filmes-Musical</externallink>
+<fanart></fanart>
+<info>TV FOGO HD</info>
+</channel>
+
+<channel>
 <name>[B][COLOR white]FILMES: [COLOR gold]Drama[/COLOR][/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/TvPF3OP.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo/Filmes/master/Filmes-Drama</externallink>
