@@ -10,14 +10,6 @@
 </channel>
 
 <channel>
-<name>[COLOR white][B]Filmes Lhmtv[/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/kbOXgCh.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/tvfogo/Filmes/master/filmes-lhmtv</externallink>
-<fanart></fanart>
-<info>TV FOGO HD</info>
-</channel>
-
-<channel>
 <name>[COLOR white][B]Filmes Crackle[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/kbOXgCh.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo/Filmes/master/Filmes-CRACKLER</externallink>
