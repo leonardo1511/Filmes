@@ -1,7 +1,14 @@
 #EXTM3U 
 
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/PYlftFH.jpg" group-title="GDRIVE",Transformers: O Último Cavaleiro - Dublado
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1TQ9VYvdJ3Bjlon6ohnIccfKXn9HgBAlndw
+
+#EXTINF:-1 tvg-logo="http://encurtador.com.br/jquC1" group-title="GDRIVE",Transformers: A Era da Extinção 2014 - Dublado
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1zrf0Jgx-WynVoR2ScBUrDhQfojmkJ3L4GA/view
+
+#EXTINF:-1 tvg-logo="http://encurtador.com.br/cmNRY" group-title="GDRIVE",Transformers: O Lado Oculto da Lua 2011 - Dublado
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1feptGnir4wW_371U3VTkWlsEvLf1cHyTsA/view
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/6Yjnpol.jpg" group-title="GDRIVE",Rei Arthur: A Lenda da Espada (2017) - Dublado  
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B3qimkmgOJs1XzktTWxQMWo4Qjg
