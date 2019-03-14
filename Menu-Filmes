@@ -40,3 +40,11 @@
 <fanart></fanart>
 <info>TV FOGO HD</info>
 </channel>
+
+<channel>
+<name>[COLOR white][B]TESTE[/B][/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/tvfogo/Filmes/master/TERROR</externallink>
+<fanart></fanart>
+<info>TV FOGO HD</info>
+</channel>
