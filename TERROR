@@ -27,7 +27,7 @@ plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/fil
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jCk5iV3.jpg" group-title="FILMES GDRIVE" pltv-subgroup="TERROR",Scanners 3: O Duelo Final – 1992 
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1WmTAGBf0F1jP4kfk5ABRsPdauZyNLi86/view
 #EXTINF:-1 tvg-logo="http://www.imdb.com/title/tt0102960/" group-title="FILMES GDRIVE" pltv-subgroup="TERROR",ÀS VEZES ELES VOLTAM – 1991
-https://docs.google.com/file/d/0B1wbEMcQ7PO8QUNjTzhLVEVxRWs/edit
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B1wbEMcQ7PO8QUNjTzhLVEVxRWs/edit
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y9cwobmj" group-title="FILMES GDRIVE 2019" pltv-subgroup="TERROR",CORREDOR ASSOMBRADO 2019
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1K6gTGvToPQzzh3okzq4DR4ms5F9VbQn0/view
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XH68fdM.png" group-title="FILMES GDRIVE" pltv-subgroup="TERROR",Catacumbas – 2007
