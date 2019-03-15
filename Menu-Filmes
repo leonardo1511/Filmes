@@ -18,6 +18,14 @@
 </channel>
 
 <channel>
+<name>[COLOR white][B]Filmes - AÇÃO[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/CiDu6rc.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/tvfogo/Filmes/master/A%C3%87AO</externallink>
+<fanart></fanart>
+<info>[COLOR chocolate][B]Para poder assistir só basta instalar o addon Gdrive no seu kodi![/B][/COLOR]</info>
+</channel>
+
+<channel>
 <name>[COLOR white][B]Filmes Crackle[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/kbOXgCh.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo/Filmes/master/Filmes-CRACKLER</externallink>
