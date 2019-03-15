@@ -135,7 +135,7 @@ http://dm-ip.tv/twywcwve
 #EXTINF:-1 tvg-logo="https://goo.gl/MYzMAF" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Rambo 3
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1M-oIGWsU6GgBS5-WYaKzpWArrM_0a7nc/view
 #EXTINF:-1 tvg-logo="https://goo.gl/7xUHnN" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Rambo 4
-http://dm-ip.tv/sctkquff
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1GNk3G8GdSzZ95fifo9x2GFy-OiKqoQMa
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x86Ixvd.jpg" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Coração de Dragão  1985
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1lZZMbwK6G6B9_O1djBm67W3UQ3wOy6s_/view
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iOmNlYk.jpg" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Detonando em Barcelona – 1984
