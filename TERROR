@@ -90,14 +90,6 @@ plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/fil
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Opy7Wq2cGu0tKzs-RLI_7sq0kTfEMhUo/view
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y9hdx8e4" group-title="FILMES GDRIVE" pltv-subgroup="TERROR",A Bruxa de Blair 2: O Livro das Sombras – 2000 
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1xAnoLe0xRGvTNiidTPtaffGiYvUpskYz/view
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yaspejv2" group-title="FILMES GDRIVE" pltv-subgroup="TERROR",Pânico – 1996
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1SXoQxFw9F4j_sdkHz6WMHtkrGaoJewUr/view
-#EXTINF:-1 tvg-logo="https://tinyurl.com/ybxoxzmm" group-title="FILMES GDRIVE" pltv-subgroup="TERROR",Pânico 2 – 1997
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Z-YUWtnI2DvTCGWC8GINEcZEkwfBukAR/view
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yc85nxju" group-title="FILMES GDRIVE" pltv-subgroup="TERROR",Pânico 3 – 2000
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1CvXvTPJuUxz7P-HsCWCigEA73jz6LB7M/view
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y8oc7vgv" group-title="FILMES GDRIVE" pltv-subgroup="TERROR",Pânico 4 – 2011
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Hrdvkixoq3dOXqD6wNNG-iUbH_4SK8bE/view
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y88e736j" group-title="FILMES GDRIVE 2018" pltv-subgroup="TERROR",Os Domésticos 2018
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1JKNtQr4TnEtUb3tWhBbKcTztbmPUiDJc/preview
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A91kGpe.jpg" group-title="FILMES GDRIVE" pltv-subgroup="TERROR",Força Sinistra 1985
