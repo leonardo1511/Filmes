@@ -185,9 +185,11 @@ plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/fil
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u8Lx8Vu.jpg" group-title="FILMES GDRIVE" pltv-subgroup="TERROR",Resident Evil 4: Recomeço 2010
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15KriWTybmuwaMzd5POq_SOSoaa904pii/view
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nquXh60.jpg" group-title="FILMES GDRIVE" pltv-subgroup="TERROR",Resident Evil 5: Retribuição 2012
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1x6s3VgltQH11NnqnQa_LlZr8inP0Xy2b/view
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0Bx5E-AjRcOEZMldjSmxwcXFybEk/view
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gqz5dDs.jpg" group-title="FILMES GDRIVE" pltv-subgroup="TERROR",Resident Evil 6: O Capítulo Final 2017
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1QVrFklv1tHsMjWETZfYzcDtKDSzR84ub/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nquXh60.jpg" group-title="FILMES GDRIVE" pltv-subgroup="TERROR",Resident Evil Desenho
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1x6s3VgltQH11NnqnQa_LlZr8inP0Xy2b/view
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k9J5Krb.jpg" group-title="FILMES GDRIVE" pltv-subgroup="TERROR",A Cidade dos Mortos-Vivos 1981
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1OhH71GpyLwNeEFS5aPX5rIIpL3rUxz-G/view
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bRJMrWk.jpg" group-title="FILMES GDRIVE" pltv-subgroup="TERROR",Terror em Amityville: A Cidade do Horror 1979
