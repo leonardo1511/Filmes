@@ -6,6 +6,16 @@ plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/ope
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1AS_w1FyqJeg0cPZlWVut4cYV7Hsazbpi
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e4qxo9U.jpg" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Os Mercenarios 3
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=16E0ujhDTeqhKUslYhSbiZECvM383ynZZ
+#EXTINF:-1 tvg-logo="https://goo.gl/FsXavu" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",O Escorpião Rei (2002)
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B6HbV7tlPTNFaWdVYVhTdDJzOTg/view
+#EXTINF:-1 tvg-logo="https://goo.gl/uDwPKs" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",O Escorpião Rei 2 - A Saga de um Guerreiro (2007)
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1_18N1J9MWlk7cQSZ0MKygVdDREHqwBOB
+#EXTINF:-1 tvg-logo="https://goo.gl/gEd92r" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",O Escorpião Rei 3 - Batalha pela Redenção (2012)
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B1sBpI-LyYpdTXhMdVBKMjFQRzQ/view
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/15/06/29/21/01/466622.jpg" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",O Escorpião Rei 4 - Na Busca Pelo Poder
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1TpoXshB--C11wZ8dkiQBfxKRsSdtD-8t
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mSviUMejPmerwoQxdj7wR4Ky1Fd.jpg" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",O Escorpião Rei 5 - O Livro das Almas
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Ckm7-Btlqall6QMF8SjPU1Hp9KoJignM/view
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yahvlmaz" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO", 4: Além da Anarquia 2018
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1OyzQzB7sgZ7CzRr9xiGRf3rMIMnHpbEC/preview
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y76bqztx" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",O Desafio Mortal (1996)
