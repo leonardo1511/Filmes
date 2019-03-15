@@ -129,9 +129,13 @@ plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/fil
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LqZBrfz.jpg" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Projeto China 2: A Vingança  1987
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Uf0FC7OmwmcodjpLbK-M3bMkzu6Xc9MC/view
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9ZTBh03.jpg" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Rambo: Programado Para Matar 1982 
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1QE_zb6YaKk4Vs8UTuBWchPrIMYa5Hjp4/view
+http://dm-ip.tv/gqnwihkb
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2H19WT0.jpg" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Rambo 2: A Missão  1985
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/14FscAs5ZkuMdeYb4OykXMLibMuhQh8-k/view
+http://dm-ip.tv/twywcwve
+#EXTINF:-1 tvg-logo="https://goo.gl/MYzMAF" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Rambo 3
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1M-oIGWsU6GgBS5-WYaKzpWArrM_0a7nc/view
+#EXTINF:-1 tvg-logo="https://goo.gl/7xUHnN" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Rambo 4
+http://dm-ip.tv/sctkquff
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x86Ixvd.jpg" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Coração de Dragão  1985
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1lZZMbwK6G6B9_O1djBm67W3UQ3wOy6s_/view
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iOmNlYk.jpg" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Detonando em Barcelona – 1984
