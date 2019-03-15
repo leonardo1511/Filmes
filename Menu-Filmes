@@ -51,6 +51,14 @@
 </channel>
 
 <channel>
+<name>[COLOR white][B]FILMES - COMÉDIA[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/1VSLmmA.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/tvfogo/Filmes/master/COMEDIA</externallink>
+<fanart></fanart>
+<info>[COLOR chocolate][B]Para poder assistir só basta instalar o addon Gdrive no seu kodi![/B][/COLOR]</info>
+</channel>
+
+<channel>
 <name>[COLOR white][B]FILMES - TERROR[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/rZOv1tz.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo/Filmes/master/TERROR</externallink>
@@ -59,9 +67,9 @@
 </channel>
 
 <channel>
-<name>[COLOR white][B]FILMES - COMÉDIA[/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/1VSLmmA.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/tvfogo/Filmes/master/COMEDIA</externallink>
+<name>[COLOR white][B]FILMES - SUSPENSE[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/MNhe1Cq.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/tvfogo/Filmes/master/SUSPENSE</externallink>
 <fanart></fanart>
 <info>[COLOR chocolate][B]Para poder assistir só basta instalar o addon Gdrive no seu kodi![/B][/COLOR]</info>
 </channel>
