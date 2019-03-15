@@ -221,13 +221,13 @@ plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/fil
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yckau82f" group-title="FILMES GDRIVE" pltv-subgroup="TERROR",Spawn: O Soldado do Inferno 1997
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1mGhHUDcf1jvkFcDiwdD0qzD7LyrfDTHn/view
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y7q3wpfl" group-title="FILMES GDRIVE" pltv-subgroup="TERROR",7 Desejos 2017
-https://docs.google.com/file/d/0BxQ2zvLWMg9vN2NRX0FleVFacTA/view
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0BxQ2zvLWMg9vN2NRX0FleVFacTA/view
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y975pyhy" group-title="CLÁSSICOS GDRIVE" pltv-subgroup="TERROR",A marca da Pantera 1982
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B5JMc-LjX0KkN3RrMDh0bUstb3c/view
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yc7hrs24" group-title="FILMES GDRIVE" pltv-subgroup="TERROR",We Are Monsters 2015 Legendado
-https://docs.google.com/file/d/0B889aeU0SJm0ZThVYVhubW9qeUU/view
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B889aeU0SJm0ZThVYVhubW9qeUU/view
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y8uatkck" group-title="FILMES GDRIVE" pltv-subgroup="TERROR",Horror - Legendado
-https://docs.google.com/file/d/0B889aeU0SJm0b2t3TlF4aDMtcHM/view
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B889aeU0SJm0b2t3TlF4aDMtcHM/view
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y9w2vnkc" group-title="FILMES GDRIVE" pltv-subgroup="TERROR",O Massacre do Moinho de Vento 2018 Legendado
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1WBnmbSBaG_dEvT-WTibymY-xl5RKqBxc/view
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y97khqe4" group-title="FILMES GDRIVE" pltv-subgroup="TERROR",Caixa de Pássaros 2018
