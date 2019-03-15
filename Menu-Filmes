@@ -35,6 +35,14 @@
 </channel>
 
 <channel>
+<name>[COLOR white][B]FILMES - FANTASIA[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/AbKbsRj.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/tvfogo/Filmes/master/FANTASIA</externallink>
+<fanart></fanart>
+<info>[COLOR chocolate][B]Para poder assistir só basta instalar o addon Gdrive no seu kodi![/B][/COLOR]</info>
+</channel>
+
+<channel>
 <name>[COLOR white][B]FILMES - AVENTURA[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/dpyfavF.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo/Filmes/master/AVENTURA</externallink>
