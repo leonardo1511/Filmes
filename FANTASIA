@@ -32,3 +32,9 @@ plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/fil
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1vWDISSPFTFUYKwgLljGUwsIelEAiU8BE/view
 #EXTINF:-1 tvg-logo="https://goo.gl/Y1B6Bo" group-title="FILMES GDRIVE" pltv-subgroup="FANTASIA",Anjos da Noite - Guerras de Sangue - 2017
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B_MRea46P1t_UHllS3gwWElZbjA/view
+#EXTINF:-1 tvg-logo="https://goo.gl/aLrw7V" group-title="FILMES GDRIVE" pltv-subgroup="FANTASIA",Capitão Marvel 2019
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1_a79V2zfXvrVbhOrgfTZxs5Iz_zenynb/view
+#EXTINF:-1 tvg-logo="https://goo.gl/wjc1FX" group-title="FILMES GDRIVE" pltv-subgroup="FANTASIA",AQUAMAN (2019)
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1VcYkkyFneVmLWMiB6hjXDmXwAcxKp8Pa/view
+#EXTINF:-1 tvg-logo="https://goo.gl/Xs8KBz" group-title="FILMES GDRIVE" pltv-subgroup="FANTASIA",Animais Fantásticos: Os Crimes de Grindelwald
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12qHhciV8k1Z4uphjDpwP0kFg6Rld2jeX/view
