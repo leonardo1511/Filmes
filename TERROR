@@ -58,10 +58,6 @@ plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/fil
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1f2A6CoFmuFfbGHQuS0ClaY1kktaZ2eJV/view
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y8zqgalu" group-title="FILMES GDRIVE" pltv-subgroup="TERROR",O Bebê De Rosemary – 1968
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1fa2ASB6A_D7JHowbvONaV0Yfm-EVaNHQ/view
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FeqIqnN.jpg" group-title="FILMES GDRIVE" pltv-subgroup="TERROR",Jogos Mortais – 2004
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1cwnLZdS1J0mW89XWnWT4NqL8T0kT4CFz/view
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Pd0WH9a.jpg" group-title="FILMES GDRIVE" pltv-subgroup="TERROR",Jogos Mortais 2 – 2005
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1k_6UtSV5G2ZWStgIKogYk7O8Ka5eihMx/view
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ybgcg352" group-title="FILMES GDRIVE" pltv-subgroup="TERROR",O Enigma de Outro Mundo 1982
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1jxJAyo0Zp3f7S5ZJHkxTI7MpGQPPzQGi/view
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y85g8uuw" group-title="FILMES GDRIVE" pltv-subgroup="TERROR",Inverno de Sangue em Veneza – 1973
