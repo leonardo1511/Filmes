@@ -1,5 +1,17 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yaspejv2" group-title="FILMES GDRIVE" pltv-subgroup="SUSPENSE",Pânico – 1996
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1SXoQxFw9F4j_sdkHz6WMHtkrGaoJewUr/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybxoxzmm" group-title="FILMES GDRIVE" pltv-subgroup="SUSPENSE",Pânico 2 – 1997
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Z-YUWtnI2DvTCGWC8GINEcZEkwfBukAR/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yc85nxju" group-title="FILMES GDRIVE" pltv-subgroup="SUSPENSE",Pânico 3 – 2000
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1CvXvTPJuUxz7P-HsCWCigEA73jz6LB7M/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8oc7vgv" group-title="FILMES GDRIVE" pltv-subgroup="SUSPENSE",Pânico 4 – 2011
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Hrdvkixoq3dOXqD6wNNG-iUbH_4SK8bE/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FeqIqnN.jpg" group-title="FILMES GDRIVE" pltv-subgroup="SUSPENSE",Jogos Mortais – 2004
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1cwnLZdS1J0mW89XWnWT4NqL8T0kT4CFz/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Pd0WH9a.jpg" group-title="FILMES GDRIVE" pltv-subgroup="SUSPENSE",Jogos Mortais 2 – 2005
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1k_6UtSV5G2ZWStgIKogYk7O8Ka5eihMx/view
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y6gso698" group-title="FILMES GDRIVE 2019" pltv-subgroup="SUSPENSE",THE GOLEM 2019
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1jLH3dZbtIYsJxi3tldrVyCJXBd7u7jc7/view
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y2cgxn48" group-title="FILMES GDRIVE 2019" pltv-subgroup="SUSPENSE",A Sereia - Lago Dos Mortos 2019 CAM
