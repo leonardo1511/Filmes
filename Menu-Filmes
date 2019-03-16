@@ -67,6 +67,14 @@
 </channel>
 
 <channel>
+<name>[COLOR white][B]FILMES - ROMANCE[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/mKgnmjP.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/tvfogo/Filmes/master/ROMANCE</externallink>
+<fanart></fanart>
+<info>[COLOR chocolate][B]Para poder assistir só basta instalar o addon Gdrive no seu kodi![/B][/COLOR]</info>
+</channel>
+
+<channel>
 <name>[COLOR white][B]FILMES - SUSPENSE[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/MNhe1Cq.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo/Filmes/master/SUSPENSE</externallink>
