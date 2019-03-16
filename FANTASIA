@@ -30,8 +30,6 @@ plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/ope
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1a5InRtAN1l4xgRfXTqdR353L8Rb0WpFI/view
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HN01spV.jpg" group-title="FILMES GDRIVE" pltv-subgroup="FANTASIA",O Grinch  2000
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1iwWbIJLSx-0U1CHgXv9RVJkl2KQsPgAY/view
-#EXTINF:-1 tvg-logo="https://tinyurl.com/ya65zzw8" group-title="FILMES GDRIVE" pltv-subgroup="FANTASIA",O RETORNO DE MARY POPPINS CAM
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1WnWdCSuGbHIzwzjtjyotEdEyv2hlW-yv/view
 #EXTINF:-1 tvg-logo="https://goo.gl/VqZsqk" group-title="FILMES GDRIVE" pltv-subgroup="FANTASIA",Anjos da Noite Underworld - 2003
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B5jVgReGiUGpZFcyTW9BSkI1SDg/view
 #EXTINF:-1 tvg-logo="https://goo.gl/rrwkfN" group-title="FILMES GDRIVE" pltv-subgroup="FANTASIA",Anjos da Noite A Evolução - 2006
