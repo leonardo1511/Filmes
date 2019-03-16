@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://goo.gl/VxAxrB" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",Terror nos Bastidores (2015)
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B_JatFT_TpCKS29fRE1kbFlTM1U/view
 #EXTINF:-1 tvg-logo="https://goo.gl/epFrv6" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",Tiras, Só que Não 2015 - Legendado
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B_JatFT_TpCKN3JFMmJtODU1Nms/view
 #EXTINF:-1 tvg-logo="https://goo.gl/9V1LJ1" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",Destino em Dose Dupla
