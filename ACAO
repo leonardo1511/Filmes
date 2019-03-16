@@ -216,3 +216,5 @@ plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/fil
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/16mb32M_4WjAT3bnR4gFOPJeoXL8p5xpw/view
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y8yy82ep" group-title="FILMES ANTIGOS" pltv-subgroup="AÇÃO",Chefão por Acaso 1989
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ZbxxUYjQiSuePxO7TCgDZ6OzSTa-5A4C/preview
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y9542nca" group-title="CLÁSSICOS GDRIVE" pltv-subgroup="AÇÃO",Demetrius O gladiador 1954
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B3OiC2I-r5n-SW93NkhLSDlfb28/view
