@@ -308,3 +308,5 @@ plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/fil
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1uHMFRZ9s6_1kzWMLQWATj65iyL9RDHj5/view
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yaalut9k" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",Cry-Baby 1990
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1j0aP6Bdib0AV7Yvho1cmubYzDYZMg8S0/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xxT4NVW.jpg" group-title="CLÁSSICOS GDRIVE" pltv-subgroup="ELVIS PRESLEY",Entre a Loura e a Ruiva 1966
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1wSHJO50U2xeiRMstefBE8r-254JHy_w4/view
