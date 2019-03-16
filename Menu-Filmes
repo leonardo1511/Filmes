@@ -11,14 +11,6 @@
 </channel>
 
 <channel>
-<name>[COLOR white][B]Filmes Tv Fogo HD[/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/Do9ZUlp.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/tvfogo/Filmes/master/Filmes-TvFogoHD</externallink>
-<fanart></fanart>
-<info>[COLOR chocolate][B]Para poder assistir só basta instalar o addon Gdrive no seu kodi![/B][/COLOR]</info>
-</channel>
-
-<channel>
 <name>[COLOR white][B]FILMES - AÇÃO[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/CiDu6rc.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo/Filmes/master/ACAO</externallink>
@@ -86,6 +78,14 @@
 <name>[COLOR white][B]FILMES - DRAMA[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/TIh9WHV.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo/Filmes/master/DRAMA</externallink>
+<fanart></fanart>
+<info>[COLOR chocolate][B]Para poder assistir só basta instalar o addon Gdrive no seu kodi![/B][/COLOR]</info>
+</channel>
+
+<channel>
+<name>[COLOR white][B]Filmes Tv Fogo HD[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/Do9ZUlp.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/tvfogo/Filmes/master/Filmes-TvFogoHD</externallink>
 <fanart></fanart>
 <info>[COLOR chocolate][B]Para poder assistir só basta instalar o addon Gdrive no seu kodi![/B][/COLOR]</info>
 </channel>
