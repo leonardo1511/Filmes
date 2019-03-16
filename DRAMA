@@ -156,3 +156,39 @@ plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/fil
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B4PLpyLHNAtjQVFaOTVudHpoZGM/view
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YkAbLUN.png" group-title="CLÁSSICOS GDRIVE" pltv-subgroup="DRAMA",O Manto Sagrado  1953
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1muXHR10y34DLPlMAx7kCkIKgKGV1rCNx/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybprn2nz" group-title="FILMES GDRIVE 2019" pltv-subgroup="POLICIAL",BACKTRACE 2018 LEGENDADO
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1DWk6PhYi6HrPaDNDbmIafdUB4jbBvRg5/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8zps7bw" group-title="FILMES GDRIVE" pltv-subgroup="POLICIAL",Acerto de Contas 1986
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1SavD6GOfdttjtnfn2_2kdwP5V757UmI_/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybyglupp" group-title="FILMES GDRIVE" pltv-subgroup="POLICIAL",O Golpe de John Anderson 1971
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ba1q6XAEWOyxmUkpJRQdvJd5dEGOJ2to/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybf4qnms" group-title="FILMES GDRIVE" pltv-subgroup="POLICIAL",Violência na Cidade 1985
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1sqnV0YUwcsc9n5H5Le5LlfMpzGQuz24G/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4HXSJz.jpg" group-title="FILMES GDRIVE" pltv-subgroup="POLICIAL",Jogo Sujo 1973 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/16UHGZwXKGA4L9vNwJKzXeCchhmTdy0rH/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Oqiys5t.jpg" group-title="FILMES GDRIVE" pltv-subgroup="POLICIAL",McQ  Um detetive acima da lei 1974 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1PbfUnpf9c1izVpAB5ps2LvMC63AL9ZoO/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EbKu5nx.jpg" group-title="FILMES GDRIVE" pltv-subgroup="POLICIAL",Desejo de Matar 1974 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1yek3RthNlXrlc5_LbDa3iHjJ-4HBzcfp/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SeR4cBN.jpg" group-title="FILMES GDRIVE" pltv-subgroup="POLICIAL",Desejo de Matar 2  1982
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-WEyMufKMb9Hvn9mnc_wlI6UvrKj1Lwp/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UJwIpGO.jpg" group-title="FILMES GDRIVE" pltv-subgroup="POLICIAL",Desejo de Matar 3  1985
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1u2zLnIPHJ20_VxUKAWjCz-eGYzMGhp6q/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jb7bYrl.jpg" group-title="FILMES GDRIVE" pltv-subgroup="POLICIAL",Desejo de Matar 4: Operação Crackdown 1987
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1kjMcRP-J52xQ8Kd8-WGlyAoNODFrQO1C/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9Sn2FWl.jpg" group-title="FILMES GDRIVE" pltv-subgroup="POLICIAL",Desejo de Matar 5: A Face da Morte 1994
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1KItyBuZbQrzDkYL8kLCeLUxyMwvAuwIq/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pWr40aZ.jpg" group-title="FILMES GDRIVE" pltv-subgroup="POLICIAL",Leis Marciais 1990
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1bvkZl7YDbID7p2fdEVnHQOP9_SR5Hp9y/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/br5vGyd.jpg" group-title="FILMES GDRIVE" pltv-subgroup="POLICIAL",Leis Marciais 2 1991 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/14lRBhfu5ZccjZ3ZuguPUBWRj7rri0i1y/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xnnxGFe.jpg" group-title="FILMES GDRIVE" pltv-subgroup="POLICIAL",Leis Marciais 3: Missão de Justiça 1992
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/16Gty3brqpB49H1NNTnA_2StZVuccazdj/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CA94hdh.jpg" group-title="FILMES GDRIVE" pltv-subgroup="POLICIAL",Cidade Violenta 1970
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ZuoPYneZ9n2iBcsvR30P1hpCcr9Kr4tw/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dqUtPBL.jpg" group-title="FILMES GDRIVE" pltv-subgroup="POLICIAL",Seven: Os Sete Crimes Capitais  1995
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1e0TnctaLBQomdBVt2Uz854xxxTTfkMWX/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybmsolqn" group-title="FILMES CLASSICOS" pltv-subgroup="POLICIAL",Quando as Metralhadoras Cospem 1976
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ytdsutSq6mlco_TSOIDCusLGPnDISPKD/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yagfu9ay" group-title="FILMES ANTIGOS" pltv-subgroup="POLICIAL",Conspiração Tequila 1988
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B_Vgg3ovTvtnMlNHN3RGelNqeE0/view
