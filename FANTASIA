@@ -12,6 +12,12 @@ plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/fil
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1zKmENUfGmN42K7rolZUgn3edUX64qqWm/view
 #EXTINF:-1 tvg-logo="https://goo.gl/pCnUso" group-title="FILMES GDRIVE" pltv-subgroup="FANTASIA",O Menino Que Queria Ser Rei
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1eHnpE6lZAMY-gdgIYQQGLjQyZzU0f53A/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ycqn7hyb" group-title="FILMES GDRIVE" pltv-subgroup="FANTASIA",A Bela e a Fera 2017
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/17C8bL-nX7tnmDg7ygTyqWMc-5oi_b4BR/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yblr5ova" group-title="FILMES ATUAIS" pltv-subgroup="FANTASIA",Errementari O Ferreiro e o Diabo 2017
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1BkocSaXpEWDYYBUBNibNbCx8-O9cM7ry/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybt9936o" group-title="FILMES ANTIGOS" pltv-subgroup="FANTASIA",A Convençăo das Bruxas 1990
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B79OELLleTxtSjBpdWstNGE3ZDA/view
 #EXTINF:-1 tvg-logo="https://goo.gl/TAZyLN" group-title="FILMES GDRIVE" pltv-subgroup="FANTASIA",Harry Potter e a Pedra Filosofal (2001)
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1yBXcmhH3ai4IYL7L8TI6ebl4YNOmfkUP
 #EXTINF:-1 tvg-logo="https://goo.gl/rR3Pf1" group-title="FILMES GDRIVE" pltv-subgroup="FANTASIA",Harry Potter e a Câmara Secreta (2002)
