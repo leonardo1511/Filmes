@@ -316,3 +316,5 @@ plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/fil
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1x1EY6OV5OzvhTcrQ7GBYgizvpaJ6lF-h/view
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ydctu6p8" group-title="FILMES ANTIGOS" pltv-subgroup="COMÉDIA",Nos Tempos do Cinto de Castidade 1972
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-EXLADFvoxS5Qghbd4J5huap1B9PYN8R/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yaf2ld6u" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",Crimes em Happytime 2018
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15j6R53n83LEizHWrS7bBDLO3zvCmwAx8/view
