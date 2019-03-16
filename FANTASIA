@@ -40,7 +40,7 @@ plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/fil
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1EwWlH8WQ-Rti1mQjIlA97OahqMb1exRU/view
 #EXTINF:-1 tvg-logo="https://goo.gl/J9h8Mg" group-title="FILMES GDRIVE" pltv-subgroup="FANTASIA",Anjos da Noite O Despertar - 2013
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1vWDISSPFTFUYKwgLljGUwsIelEAiU8BE/view
-#EXTINF:-1 tvg-logo="https://goo.gl/Y1B6Bo" group-title="FILMES GDRIVE" pltv-subgroup="FANTASIA",Anjos da Noite - Guerras de Sangue - 2017
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xpigMB2.jpg" group-title="FILMES GDRIVE" pltv-subgroup="FANTASIA",Anjos da Noite - Guerras de Sangue - 2017
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B_MRea46P1t_UHllS3gwWElZbjA/view
 #EXTINF:-1 tvg-logo="https://goo.gl/aLrw7V" group-title="FILMES GDRIVE" pltv-subgroup="FANTASIA",Capitão Marvel 2019
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1_a79V2zfXvrVbhOrgfTZxs5Iz_zenynb/view
