@@ -218,3 +218,23 @@ plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/fil
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ZbxxUYjQiSuePxO7TCgDZ6OzSTa-5A4C/preview
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y9542nca" group-title="CLÁSSICOS GDRIVE" pltv-subgroup="AÇÃO",Demetrius O gladiador 1954
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B3OiC2I-r5n-SW93NkhLSDlfb28/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iBOMt8g.jpg" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Garras de Louva-a-Deus – 1978
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/10Kd38uUVp4f6AkTSiirELBuvcueVFdcQ/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/faeooyC.jpg" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",O Guarda Costas 1978
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1EkPsE1EbfKBxE0YRKnzbReGYGB7dUPEx/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LJEX47Q.jpg" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",O Jovem Mestre do Kung Fu 1979
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1PBXqZdiSu4yQ-foVnCygekuK98KoEwA5/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qCiHd6K.jpg" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",O Templo do Dragão 1978
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1xUeWoK0cjjbVriZXH_S8YuaajeKkpbje/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Pd6dBju.jpg" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",A Marca do Dragão 1977 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1zMlA5HWndIHkWFLQoeoS2i4X_JPn8JXB/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UYo63cj.jpg" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",A Vingança do Dragão  1979
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1eckVlBzkfh6bOZZMnAySDb9LDHqsllAt/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yjRA9wr.jpg" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",A Saga do Dragão : A Luta Final – 1983 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1D699nchMk-DwrcFwcFgsnBkpzOT8K7tK/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pTFFyU7.jpg" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",A Nova Fúria do Dragão 1976
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1RSnXBZZo8ZdU2LcZXcLf-5vyUhY0fxSs/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EtrFS04.jpg" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",O Instrutor da Morte  1976
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1jXzIg9BesVJfTHCTbAcySQRRQMF1lrcj/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F72MeV7.jpg" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",O Mestre Invencível 2 1994
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1MQMxTeGH5sXSjeH_SgAlajGLfMg4rwuM/view
