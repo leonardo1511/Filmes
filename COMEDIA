@@ -318,3 +318,13 @@ plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/fil
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-EXLADFvoxS5Qghbd4J5huap1B9PYN8R/view
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yaf2ld6u" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",Crimes em Happytime 2018
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15j6R53n83LEizHWrS7bBDLO3zvCmwAx8/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ydhn279q" group-title="FILMES GDRIVE" pltv-subgroup="MUSICAL",Feitiço Havaiano 1961 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1fwM4y1BE5N6Y_9QoosYEG4ALHq4BUqGU/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y748lgjm" group-title="CLÁSSICOS GDRIVE" pltv-subgroup="MUSICAL",Meu Tesouro é você 1967
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1T8rQxFrCTNN19zCKnkQHw8MOf88OFQ7f/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y9ke7lus" group-title="CLÁSSICOS GDRIVE" pltv-subgroup="MUSICAL",No Paraíso do Havaí 1966
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Nrw6ZK3gG7A9oLxlXjmnF2terzOBl_M2/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yd4bmxwf" group-title="CLÁSSICOS GDRIVE" pltv-subgroup="MUSICAL",O Seresteiro de Acapulco 1963
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1U0BSE2BidMH0RwAikkAM6wIsOJqkcRF5/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yajd7mvr" group-title="CLÁSSICOS GDRIVE" pltv-subgroup="MUSICAL",Saudades de um Pracinha 1960 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/13XRTKXlE8gKj8Rp0jJRW5nZHj4HTi-cl/view
