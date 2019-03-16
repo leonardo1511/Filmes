@@ -1,5 +1,19 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yxzjxewu" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",American Pie 1 - A Primeira Vez é Inesquecível
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1DNfElPy0NPOvGaTxYrPvD40RLNYJJib6/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y2pd7oy9" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",American Pie 2 - A Segunda Vez é Ainda Melhor
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1io4y8VoWY1W1H-cLZrKZqDc4M1u1Mq9o/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y5do7wez" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",American Pie 3 - O Casamento
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1EQ_faO2_hPLOiqAIiW8MowwevIT1pyCh/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yxd42mw8" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",American Pie 4 - Tocando a Maior Zona
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/11eqIt2cW90rqqY9CDYtlnpupeIyfACW3/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yxak4dr7" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",American Pie 5 - O Último Stifler Virgem
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1dfhoh_zxrRhNJtgSezufgoAh-CJ4687P/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y22am6ng" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",American Pie 6 - Caindo em Tentação
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1mM5EzSiq0bmKah3H1L4KThUkeKbrb2hJ/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y4szulhr" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",American Pie 7 - O Livro do Amor
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ChjK_hZ6QHJkfzjDYzu3mQ2IfVN60evs/view
 #EXTINF:-1 tvg-logo="https://goo.gl/VxAxrB" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",Terror nos Bastidores (2015)
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B_JatFT_TpCKS29fRE1kbFlTM1U/view
 #EXTINF:-1 tvg-logo="https://goo.gl/epFrv6" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",Tiras, Só que Não 2015 - Legendado
