@@ -1,5 +1,21 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://goo.gl/wYEcwg" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Velozes E Furiosos 1
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B6lUca-SxBGLRjctUTh4RExWMm8/view
+#EXTINF:-1 tvg-logo="https://goo.gl/b5BVNV" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Velozes E Furiosos 2
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B6lUca-SxBGLMFlpVUIzQS0xQ1U/view
+#EXTINF:-1 tvg-logo="https://goo.gl/6vJGSR" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Velozes E Furiosos 3
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B7Ewwe6dLSd6TmdxamhsQmlSLUU/view
+#EXTINF:-1 tvg-logo="https://goo.gl/3GVhEH" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Velozes E Furiosos 4
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B7Ewwe6dLSd6TmdxamhsQmlSLUU/view
+#EXTINF:-1 tvg-logo="https://goo.gl/HSMTDR" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Velozes e Furiosos 5 - Operação Rio
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8CTXrwnkK4YcXg5Unhub29wSHc/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yFqZE95.jpg" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Velozes e Furiosos 6 Versão Estendida
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2HhJep4zKHwX3MtR0t1RVctVWc/view
+#EXTINF:-1 tvg-logo="https://goo.gl/jRtQVY" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",velozes e furiosos 7
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B-hXWpEMQ9UVVTI5MkNlYkNqYUk/view
+#EXTINF:-1 tvg-logo="https://goo.gl/asQqRU" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Velozes & Furiosos 8
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B0j7RRgVpKSGTEtGVFltamlOaVE/view
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n5JUha5.jpg" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Os Mercenarios 1
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1d1MoTjN1jGKe75hc52s_h7LZzALUb-AR
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lIKhue1.jpg" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Os Mercenarios 2
