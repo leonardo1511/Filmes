@@ -100,3 +100,7 @@ plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/fil
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0Bx_XNf_ywrRCVzFBcGZrbUhvRjg/view
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y97tt9bt" group-title="FILMES ANTIGOS" pltv-subgroup="SUSPENSE",Morando Com o Perigo 1990
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1HL0mBx-M818YdJ2Q7-oP-RfOAHnbIz0H/preview
+#EXTINF:-1 tvg-logo="https://goo.gl/r4LhBx" group-title="FILMES GDRIVE" pltv-subgroup="SUSPENSE",Droga da Sedução 2001
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B_JatFT_TpCKRzNKQ0pUUjQzVDA/view
+#EXTINF:-1 tvg-logo="https://goo.gl/NnajG1" group-title="FILMES GDRIVE" pltv-subgroup="SUSPENSE",Vanilla Sky 2001
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B_JatFT_TpCKa1MzdE9NSkg3XzQ/view
