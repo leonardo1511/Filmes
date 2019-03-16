@@ -12,9 +12,9 @@ plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1_18N1J9MWlk7cQSZ0MKygVdDREHqwBOB
 #EXTINF:-1 tvg-logo="https://goo.gl/gEd92r" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",O Escorpião Rei 3 - Batalha pela Redenção (2012)
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B1sBpI-LyYpdTXhMdVBKMjFQRzQ/view
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/15/06/29/21/01/466622.jpg" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",O Escorpião Rei 4 - Na Busca Pelo Poder
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y6jo7ly3" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",O Escorpião Rei 4 - Na Busca Pelo Poder
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1TpoXshB--C11wZ8dkiQBfxKRsSdtD-8t
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mSviUMejPmerwoQxdj7wR4Ky1Fd.jpg" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",O Escorpião Rei 5 - O Livro das Almas
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y6bmw64x" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",O Escorpião Rei 5 - O Livro das Almas
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Ckm7-Btlqall6QMF8SjPU1Hp9KoJignM/view
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yahvlmaz" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO", 4: Além da Anarquia 2018
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1OyzQzB7sgZ7CzRr9xiGRf3rMIMnHpbEC/preview
