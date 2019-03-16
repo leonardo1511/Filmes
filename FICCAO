@@ -56,3 +56,5 @@ plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/fil
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/14HuicbBiF8N6UxQKScDY9vdvCOhMn-dg/preview
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y72hc2be" group-title="FILMES GDRIVE" pltv-subgroup="FICÇÃO",Weaponized 2016 Legendado
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B5U5txa1YU43QThRb3p5VXdTT0E/view
+#EXTINF:-1 tvg-logo="https://goo.gl/7q7wUk" group-title="FILMES GDRIVE" pltv-subgroup="FICÇÃO",Black Mirror: Bandersnatch 2018
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1zakG6UQ9KEWjE6qFSn-JWDsJpNiRkYXB/view
