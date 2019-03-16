@@ -154,3 +154,5 @@ plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/fil
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1NdxZxuR2QUywSaryuq9TTfzJzjOEP-X2/view
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y7svrodp" group-title="FILMES SESSÃO DA TARDE" pltv-subgroup="DRAMA",Despertar de um Pesadelo 1996
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B4PLpyLHNAtjQVFaOTVudHpoZGM/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YkAbLUN.png" group-title="CLÁSSICOS GDRIVE" pltv-subgroup="DRAMA",O Manto Sagrado  1953
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1muXHR10y34DLPlMAx7kCkIKgKGV1rCNx/view
