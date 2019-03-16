@@ -1,5 +1,15 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://goo.gl/TwjifA" group-title="FILMES GDRIVE" pltv-subgroup="FANTASIA",Zumbilênio: O Parque dos Monstros (2019)
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Box7b3JERia4Q680wxisiNJ6DUDtXUUg/view
+#EXTINF:-1 tvg-logo="https://goo.gl/uCM6eP" group-title="FILMES GDRIVE" pltv-subgroup="FANTASIA",Zoo: Uma Amizade Maior que a Vida (2019)
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1X5LBX1Qw4m6y4dDqOHrvupysM2Zr3TFK/view
+#EXTINF:-1 tvg-logo="https://goo.gl/FBTvGb" group-title="FILMES GDRIVE" pltv-subgroup="FANTASIA",A Sereia – Lago dos Mortos 2019
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-GWuQXZUmTAWb61yL8W9NnhZWkYJXG8W/view
+#EXTINF:-1 tvg-logo="https://goo.gl/vQxfcL" group-title="FILMES GDRIVE" pltv-subgroup="FANTASIA",Eu Mato Gigantes (2019)
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1zKmENUfGmN42K7rolZUgn3edUX64qqWm/view
+#EXTINF:-1 tvg-logo="https://goo.gl/pCnUso" group-title="FILMES GDRIVE" pltv-subgroup="FANTASIA",O Menino Que Queria Ser Rei
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1eHnpE6lZAMY-gdgIYQQGLjQyZzU0f53A/view
 #EXTINF:-1 tvg-logo="https://goo.gl/TAZyLN" group-title="FILMES GDRIVE" pltv-subgroup="FANTASIA",Harry Potter e a Pedra Filosofal (2001)
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1yBXcmhH3ai4IYL7L8TI6ebl4YNOmfkUP
 #EXTINF:-1 tvg-logo="https://goo.gl/rR3Pf1" group-title="FILMES GDRIVE" pltv-subgroup="FANTASIA",Harry Potter e a Câmara Secreta (2002)
@@ -38,3 +48,11 @@ plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/fil
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1VcYkkyFneVmLWMiB6hjXDmXwAcxKp8Pa/view
 #EXTINF:-1 tvg-logo="https://goo.gl/Xs8KBz" group-title="FILMES GDRIVE" pltv-subgroup="FANTASIA",Animais Fantásticos: Os Crimes de Grindelwald
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12qHhciV8k1Z4uphjDpwP0kFg6Rld2jeX/view
+#EXTINF:-1 tvg-logo="https://goo.gl/SnXWmS" group-title="FILMES GDRIVE" pltv-subgroup="FANTASIA",Da Magia à Sedução
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1d1V5WKMxutglB6cV4ZnKW4lBVcngbNJe/view
+#EXTINF:-1 tvg-logo="https://goo.gl/JhjxWN" group-title="FILMES GDRIVE" pltv-subgroup="FANTASIA",Sete Minutos Depois da Meia-Noite (2017) Legendado
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B5cw533AQiJdZ1AwdmhPNDE0Q1k/view
+#EXTINF:-1 tvg-logo="https://goo.gl/xaJZPc" group-title="FILMES GDRIVE" pltv-subgroup="FANTASIA",O RETORNO DE MARY POPPINS 2018
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1WnWdCSuGbHIzwzjtjyotEdEyv2hlW-yv/view
+#EXTINF:-1 tvg-logo="https://goo.gl/jZtLw5" group-title="FILMES GDRIVE" pltv-subgroup="FANTASIA",Mulher Maravilha 2017
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1GzB1ihACHakGrYEkqaxnWyZIptSlkfwJnw/view
