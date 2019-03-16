@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yd9bwkqz" group-title="FILMES GDRIVE" pltv-subgroup="ANIMAÇÃO",O Príncipe e o Mendigo 2007
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6o0Wt18YqzNZ3ZRMzVpSm5pbk0/view
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yc5k448c" group-title="FILMES GDRIVE 2019" pltv-subgroup="ANIMAÇÃO", YU-GI-OH! 2019 - O LADO NEGRO DAS DIMENSÕES 2019
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1cmn7VS3Q_6XatDMVCXiRSntN9hAucova/view
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ybww4kl9" group-title="FILMES GDRIVE 2019" pltv-subgroup="ANIMAÇÃO",HOMEM-ARANHA NO ARANHAVERSO 2019
