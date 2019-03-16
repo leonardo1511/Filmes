@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://goo.gl/epFrv6" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",Tiras, Só que Não 2015 - Legendado
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B_JatFT_TpCKN3JFMmJtODU1Nms/view
+#EXTINF:-1 tvg-logo="https://goo.gl/9V1LJ1" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",Destino em Dose Dupla
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B-DNtY5PBDNFdEQ1SjdldmtXcUE/view
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y8w8d9ed" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",GAROTOS EM PONTO DE BALA 1976
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1EDILk3quXS7qMdd0IDnanlxQ3S3PDL15/view
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y8g53tw4" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",Nos Palcos da Vida 1986
