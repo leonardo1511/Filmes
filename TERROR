@@ -292,3 +292,5 @@ plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/fil
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/153PUHWLQwU6espjekxm6iko7eoaqAD92/view
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ctuf3Qy.jpg" group-title="FILMES GDRIVE" pltv-subgroup="TERROR",O Sorveteiro 1995
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1sV9JDFdPcPBd5E1dxiqZXKoEOC9UfI-4/view
+#EXTINF:-1 tvg-logo="https://goo.gl/gTC3aS" group-title="FILMES GDRIVE" pltv-subgroup="TERROR",A Centopéia Humana 2 2011
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B0SEC-_-bicSbzZxTEl4M3Nyb28/view
