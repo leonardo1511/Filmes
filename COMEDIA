@@ -310,3 +310,9 @@ plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/fil
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1j0aP6Bdib0AV7Yvho1cmubYzDYZMg8S0/view
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xxT4NVW.jpg" group-title="CLÁSSICOS GDRIVE" pltv-subgroup="ELVIS PRESLEY",Entre a Loura e a Ruiva 1966
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1wSHJO50U2xeiRMstefBE8r-254JHy_w4/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y83avvfp" group-title="FILMES ANTIGOS" pltv-subgroup="COMÉDIA",Tina e o Professor 1995
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1NcNcCvKn-jaNVuDFuAdsLSzwb57gEON9/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yarx4r9e" group-title="FILMES CLASSICOS" pltv-subgroup="COMÉDIA",Só o Casamento Nos Separa 1971
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1x1EY6OV5OzvhTcrQ7GBYgizvpaJ6lF-h/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ydctu6p8" group-title="FILMES ANTIGOS" pltv-subgroup="COMÉDIA",Nos Tempos do Cinto de Castidade 1972
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-EXLADFvoxS5Qghbd4J5huap1B9PYN8R/view
