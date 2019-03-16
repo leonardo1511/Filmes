@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y43kscux" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",OPERAÇÃO OVERLORD 2018
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1eoxXfohwOTNiF2dwepdtrZCdqlAyV5C5/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o8nghfO.jpg" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Platoon – 1986 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/14qZq-6FIxBc1aK0-ZP9xjAqj_-WiOJAw/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yafynk6m" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Ciborgues: Os Heróis Nunca Morrem 2018 Legendado
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1HCa28SILjnLF2HUkCBrwjvZ2rCk-5KN5/view
 #EXTINF:-1 tvg-logo="https://goo.gl/wYEcwg" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Velozes E Furiosos 1
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B6lUca-SxBGLRjctUTh4RExWMm8/view
 #EXTINF:-1 tvg-logo="https://goo.gl/b5BVNV" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Velozes E Furiosos 2
