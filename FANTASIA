@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://goo.gl/eBpi5W" group-title="FILMES GDRIVE" pltv-subgroup="FANTASIA",Esquadrão Suicida: Acerto de Contas 2018
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B0bHKR4prMIJQ1UyZ1dsdWcydjg/view
+#EXTINF:-1 tvg-logo="https://goo.gl/qY1VNG" group-title="FILMES GDRIVE" pltv-subgroup="FANTASIA",Esquadrão Suicida 2016
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B0bHKR4prMIJQ1UyZ1dsdWcydjg/view
 #EXTINF:-1 tvg-logo="https://goo.gl/ui73GL" group-title="FILMES GDRIVE" pltv-subgroup="FANTASIA",WIFI - Ralph - 2019
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1h_ciS1hDhN0DvppiqkLM7fWtiBW57lxx/view
 #EXTINF:-1 tvg-logo="https://goo.gl/TwjifA" group-title="FILMES GDRIVE" pltv-subgroup="FANTASIA",Zumbilênio: O Parque dos Monstros (2019)
