@@ -66,8 +66,6 @@ plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/fil
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1WnWdCSuGbHIzwzjtjyotEdEyv2hlW-yv/view
 #EXTINF:-1 tvg-logo="https://goo.gl/jZtLw5" group-title="FILMES GDRIVE" pltv-subgroup="FANTASIA",Mulher Maravilha 2017
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1GzB1ihACHakGrYEkqaxnWyZIptSlkfwJnw/view
-#EXTINF:-1 tvg-logo="https://goo.gl/Kp97nD" group-title="FILMES GDRIVE" pltv-subgroup="FANTASIA",Esquadrão Suicida - 2016
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B0bHKR4prMIJQ1UyZ1dsdWcydjg/view
 #EXTINF:-1 tvg-logo="https://goo.gl/PddjpJ" group-title="FILMES GDRIVE" pltv-subgroup="FANTASIA",Hotel Transilvania 3 Ferias Monstruosa
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1cmLRja3iWN8iKnIpCHzW2xywFRby43F0/view
 #EXTINF:-1 tvg-logo="https://goo.gl/C9XVPp" group-title="FILMES GDRIVE" pltv-subgroup="FANTASIA",Pantera Negra
