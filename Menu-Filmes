@@ -91,6 +91,14 @@
 </channel>
 
 <channel>
+<name>[COLOR white][B]FILMES - FAROESTE[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/B3xRXCh.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/tvfogo/Filmes/master/FAROESTE</externallink>
+<fanart></fanart>
+<info>[COLOR chocolate][B]Para poder assistir só basta instalar o addon Gdrive no seu kodi![/B][/COLOR]</info>
+</channel>
+
+<channel>
 <name>[COLOR white][B]FILMES - GOSPEL[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/HZRaKYW.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo/Filmes/master/Filmes-Gospel</externallink>
