@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/cf/48/21/cf4821169a1994f831a1ad83da8208dd.jpg" group-title="COMÉDIA",Minha Vida em Marte
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/10O-GBDfbknVsBsR0at409RXHr9ZQAJP6/view
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yxzjxewu" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",American Pie 1 - A Primeira Vez é Inesquecível
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1DNfElPy0NPOvGaTxYrPvD40RLNYJJib6/view
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y2pd7oy9" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",American Pie 2 - A Segunda Vez é Ainda Melhor
