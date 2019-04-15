@@ -17,7 +17,7 @@ plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/fil
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y2cgxn48" group-title="FILMES GDRIVE 2019" pltv-subgroup="SUSPENSE",A Sereia - Lago Dos Mortos 2019 CAM
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1UW5IJ7j7v25lG_GWlm3cNExlfoDG-zBd/view
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y9jelp54" group-title="FILMES GDRIVE" pltv-subgroup="SUSPENSE",A Casa do Medo 2016
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1dhHDIgL4Spy94X9myI6-OtmEZO_aa_HD/preview
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1dhHDIgL4Spy94X9myI6-OtmEZO_aa_HD/view
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ybglwl6m" group-title="FILMES GDRIVE" pltv-subgroup="SUSPENSE",Inimigo em Casa 2001 
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1UCBOjVvW0ZySiT3i3r_wLVW5IN9BFKnz/view
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ybcb66xj" group-title="FILMES GDRIVE 2019" pltv-subgroup="SUSPENSE",MILLENNIUM A GAROTA NA TEIA DE ARANHA 2019 LEG
